@@ -1,0 +1,152 @@
+{
+  "digital-transformation-management": {
+    "title": "Digital Transformation Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Ein Studiengang zur Leitung und Umsetzung digitaler Transformationsprozesse in Unternehmen."
+  },
+  "human-resource-management": {
+    "title": "Human Resource Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": ""
+  },
+  "management": {
+    "title": "Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": ""
+  },
+  "nachhaltigkeitsmanagement": {
+    "title": "Nachhaltigkeitsmanagement",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": ""
+  },
+  "social-media-und-online-marketing": {
+    "title": "Social Media und Online Marketing",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": ""
+  },
+  "computer-science": {
+    "title": "Computer Science",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": ""
+  },
+  "cyber-security": {
+    "title": "Cyber Security",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": ""
+  },
+  "digital-innovation": {
+    "title": "Digital Innovation",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": ""
+  },
+  "wirtschaftsinformatik": {
+    "title": "Wirtschaftsinformatik",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": ""
+  },
+  "digital-engineering": {
+    "title": "Digital Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": ""
+  },
+  "green-engineering": {
+    "title": "Green Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": ""
+  },
+  "wirtschaftsingenieurwesen": {
+    "title": "Wirtschaftsingenieurwesen",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": ""
+  },
+  "gesunde-arbeit-employer-branding": {
+    "title": "Gesunde Arbeit & Employer Branding",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": ""
+  },
+  "kriminalpsychologie": {
+    "title": "Kriminalpsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": ""
+  },
+  "psychologie-der-lebenswelten": {
+    "title": "Psychologie der Lebenswelten",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": ""
+  },
+  "wirtschaftspsychologie": {
+    "title": "Wirtschaftspsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": ""
+  },
+  "fussballmanagement": {
+    "title": "Fußballmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": ""
+  },
+  "sport-und-leistungspsychologie": {
+    "title": "Sport- und Leistungspsychologie",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": ""
+  },
+  "sportmanagement": {
+    "title": "Sportmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": ""
+  },
+  "baumanagement-fuer-bauingenieure": {
+    "title": "Baumanagement für Bauingenieure",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "description": ""
+  },
+  "immobilienwirtschaft": {
+    "title": "Immobilienwirtschaft",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "description": ""
+  },
+  "journalismus": {
+    "title": "Journalismus",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "description": ""
+  },
+  "medienmanagement": {
+    "title": "Medienmanagement",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "description": ""
+  },
+  "creative-media": {
+    "title": "Creative Media",
+    "degree": "MASTER",
+    "category": "Creative",
+    "description": ""
+  },
+  "fashion-beauty": {
+    "title": "Fashion & Beauty",
+    "degree": "MASTER",
+    "category": "Fashion & Beauty",
+    "description": ""
+  }
+}
