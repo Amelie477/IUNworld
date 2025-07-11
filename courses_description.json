@@ -9,7 +9,7 @@
     "title": "Human Resource Management",
     "degree": "MASTER",
     "category": "Management",
-    "description": ""
+    "description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften."
   },
   "management": {
     "title": "Management",
@@ -63,7 +63,7 @@
     "title": "Green Engineering",
     "degree": "MASTER",
     "category": "Engineering",
-    "description": ""
+    "description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft."
   },
   "wirtschaftsingenieurwesen": {
     "title": "Wirtschaftsingenieurwesen",
@@ -75,7 +75,7 @@
     "title": "Gesunde Arbeit & Employer Branding",
     "degree": "MASTER",
     "category": "Wirtschaftspsychologie",
-    "description": ""
+    "description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen."
   },
   "kriminalpsychologie": {
     "title": "Kriminalpsychologie",
@@ -99,7 +99,7 @@
     "title": "Fußballmanagement",
     "degree": "MASTER",
     "category": "Sport",
-    "description": ""
+    "description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene."
   },
   "sport-und-leistungspsychologie": {
     "title": "Sport- und Leistungspsychologie",
@@ -147,6 +147,6 @@
     "title": "Fashion & Beauty",
     "degree": "MASTER",
     "category": "Fashion & Beauty",
-    "description": ""
+    "description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor."
   }
 }
