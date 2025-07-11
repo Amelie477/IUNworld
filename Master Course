@@ -1,0 +1,481 @@
+<style>
+  body {
+    font-family: 'Roboto', sans-serif !important;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 24px;
+    padding: 40px 20px 15px 10px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .tab {
+    cursor: pointer;
+    position: relative;
+    color: #000000;
+    font-weight: normal;
+  }
+
+  .tab.active {
+    color: #b6190e;
+    font-weight: 400;
+  }
+
+  .tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background-color: #b6190e;
+  }
+
+  .filter-tabs {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 13px 20px 25px 8px;
+  }
+
+  .filter-tab {
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 1px solid #b6190e;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: #000000;
+  }
+
+  .filter-tab.active {
+    background-color: #b6190e;
+    color: #ffffff;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(4, 310px);
+    gap: 20px;
+    padding: 0 20px 40px 20px;
+    justify-content: center;
+  }
+
+  .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 310px;
+    height: 284px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card:hover {
+    background-color: #b6190e;
+  }
+
+  .card-image {
+    width: 310px;
+    height: 182px;
+    background-color: #ddd;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+
+  .card-image-inner {
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .card-content {
+    background-color: #ffffff;
+    padding: 16px;
+    transition: background-color 0.3s;
+    flex-grow: 1;
+  }
+
+  .card:hover .card-content {
+    background-color: #b6190e;
+    color: #ffffff;
+  }
+
+  .degree-type {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  .course-title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #000000;
+    transition: color 0.3s;
+    line-height: 1.1;
+  }
+
+  .card:hover .course-title {
+    color: #ffffff;
+  }
+
+  .course-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 99999;
+  }
+
+  .course-modal-content {
+    background: white;
+    max-width: 550px;
+    width: 90%;
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+    font-size: 16px;
+    color: #333333;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .course-modal-content h2 {
+    margin-top: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 8px 0 5px 0;
+    color: #1f1f1f;
+  }
+
+  .course-modal-content p {
+    font-size: 16px;
+    color: #333333;
+    margin: 0;
+    text-align: left;
+  }
+
+  .course-modal-close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #666666;
+  }
+
+  .cta {
+    margin-top: 16px;
+    background-color: #e6932c;
+    color: #1f1f1f;
+    width: 242px;
+    height: 48px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: auto;
+  }
+.degree-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.popular-badge {
+  background-color: #b6190e;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 4px 8px;
+  border-radius: 0px;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  margin-top:-36px;
+}
+
+.card:hover .popular-badge {
+  background-color: #ffffff;
+  color: #b6190e;
+}
+
+
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr; 
+    padding: 0 16px 20px 16px; 
+  }
+   .card {
+    height: 230px !important;
+    width: 100%; 
+  }
+   .card-image {
+    height: 150px !important;
+  }
+   .card-image img {
+    object-fit: cover;
+  }
+   .course-modal-content {
+    width: 80%;
+    max-width: none;
+    padding: 16px;
+    font-size: 15px;
+  }
+  .course-modal-content h2 {
+    font-size: 17px;
+  }
+  .course-modal-content p {
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .course-modal-close {
+    font-size: 22px;
+    top: 8px;
+    right: 12px;
+  }
+  .cta {
+    width: 100%;
+    font-size: 16px;
+    height: 44px;
+  }
+   .course-title {
+    font-size: 18px;
+  }
+   .degree-type {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+   .card-content {
+    padding: 10px;
+  }
+}
+</style>
+
+<div class="filter-tabs" id="filter-tabs"></div>
+<div class="grid" id="card-container"></div>
+
+<div class="course-modal" id="course-modal-wrapper">
+  <div class="course-modal-content">
+    <span class="course-modal-close" id="course-modal-close">&times;</span>
+    <h2 id="course-modal-title"></h2>
+    <p id="course-modal-description"></p>
+    <button class="cta scroll-to-info" id="cta-button">Infomaterial anfordern</button>
+  </div>
+</div>
+
+<script>
+  let currentTab = 'master';
+  let currentFilter = 'Management';
+  let courseDescriptions = {}; 
+
+  const descriptionUrl = 'https://amelie477.github.io/Master-CLP/courses_description.json';
+
+  const imageMap = {
+    "digital-transformation-management": "https://www.fham.de/wp-content/uploads/2024/08/mobile-digital-transformation-management-ma-936x426t-669x272.jpg",
+    "human-resource-management": "https://www.fham.de/wp-content/uploads/2025/03/human-resource-management-936x426px-669x272.jpg",
+    "management": "https://www.fham.de/wp-content/uploads/2025/03/management-master-936x426px-669x272.jpg",
+    "nachhaltigkeitsmanagement": "https://www.fham.de/wp-content/uploads/2025/01/nachhaltigkeitsmanagement-ma-meng-936x426px-669x272.jpg",
+    "social-media-und-online-marketing": "https://www.fham.de/wp-content/uploads/2024/08/Mobile-Social-Media-und-Online-Marketing-MA-936x426-1-669x272.jpg",
+    "computer-science": "https://www.fham.de/wp-content/uploads/2024/08/Mobile-Computer-Science-Master-936x426-1-669x272.jpg",
+    "cyber-security": "https://www.fham.de/wp-content/uploads/2024/11/cyber-security-ma-936x426px-669x272.jpg",
+    "digital-innovation": "https://www.fham.de/wp-content/uploads/2023/12/Digital-Innovation-MSc_936x426-669x272.jpg",
+    "wirtschaftsinformatik": "https://www.fham.de/wp-content/uploads/2025/01/wirtschaftsinformatik-msc-mobile-936x426px-669x272.jpg",
+    "digital-engineering": "https://www.fham.de/wp-content/uploads/2024/10/digital-engineering-ma-936x426px-669x272.jpg",
+    "green-engineering": "https://www.fham.de/wp-content/uploads/2025/02/green-engineering-meng-mobile-936x426px-669x272.jpg",
+    "wirtschaftsingenieurwesen": "https://www.fham.de/wp-content/uploads/2023/06/1920x873px_WirtschaftsingenieurwesenMaster-669x272.jpg",
+    "gesunde-arbeit-employer-branding": "https://www.fham.de/wp-content/uploads/2022/05/220203-HAM-Header-EBIK-MA-1920x873px-669x272.jpg",
+    "kriminalpsychologie": "https://www.fham.de/wp-content/uploads/2025/03/mobile-kriminalpsychologie-msc-936x426px-669x272.jpg",
+    "psychologie-der-lebenswelten": "https://www.fham.de/wp-content/uploads/2024/07/mobile-psychologie-der-lebenswelten-master-936x426px-669x272.jpg",
+    "wirtschaftspsychologie": "https://www.fham.de/wp-content/uploads/2024/07/wirtschaftspsychologie-master-1920x873px-669x272.jpg",
+    "fussballmanagement": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-FuMa-MA-1920x873px-1-669x272.jpg",
+    "sport-und-leistungspsychologie": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-SportLeistung-MA-1920x873px-669x272.jpg",
+    "sportmanagement": "https://www.fham.de/wp-content/uploads/2022/05/220205-HAM-Header-Sport-Cluster-1920x873px-669x272.jpg",
+    "baumanagement-fuer-bauingenieure": "https://www.fham.de/wp-content/uploads/2025/01/20252301-baumanagement-ma-936x426-1-669x272.jpg",
+    "immobilienwirtschaft": "https://www.fham.de/wp-content/uploads/2025/01/immobilienwirtschaft-master_936x426-669x272.jpg",
+    "journalismus": "https://www.fham.de/wp-content/uploads/2023/11/journalismus-master-936x426px-669x272.jpg",
+    "medienmanagement": "https://www.fham.de/wp-content/uploads/2025/04/medienmanagement-master-mobile_936x426-669x272.jpg",
+    "creative-media": "https://www.fham.de/wp-content/uploads/2025/02/creative-media-ma-mobile-936x426px-669x272.jpg",
+    "fashion-beauty": "https://www.fham.de/wp-content/uploads/2025/01/mobile-fashion-beauty-ma-936x426px-669x272.jpg"
+  };
+
+  const courseTitles = {
+    master: {
+      'Management': ['Digital Transformation Management', 'Human Resource Management', 'Management', 'Nachhaltigkeitsmanagement', 'Social Media und Online Marketing'],
+      'Digitalisierung, IT & Software': ['Computer Science', 'Cyber Security', 'Digital Innovation', 'Wirtschaftsinformatik'],
+      'Engineering': ['Digital Engineering', 'Green Engineering', 'Wirtschaftsingenieurwesen'],
+      'Wirtschaftspsychologie': ['Gesunde Arbeit & Employer Branding', 'Kriminalpsychologie', 'Psychologie der Lebenswelten', 'Wirtschaftspsychologie'],
+      'Sport': ['Fußballmanagement', 'Sport- und Leistungspsychologie', 'Sportmanagement'],
+      'Bau & Immobilien': ['Baumanagement für Bauingenieure', 'Immobilienwirtschaft'],
+      'Medien & Journalismus': ['Journalismus', 'Medienmanagement'],
+      'Creative': ['Creative Media'],
+      'Fashion & Beauty': ['Fashion & Beauty']
+    }
+  };
+
+  const categories = {
+    master: ['Management', 'Digitalisierung, IT & Software', 'Engineering', 'Wirtschaftspsychologie', 'Sport', 'Bau & Immobilien', 'Medien & Journalismus', 'Creative', 'Fashion & Beauty']
+  };
+
+  const popularCourses = ['fussballmanagement','baumanagement-fuer-bauingenieure','social-media-und-online-marketing','kriminalpsychologie','wirtschaftspsychologie','journalismus','sportmanagement'];
+  function isPopular(slug) {
+    return popularCourses.includes(slug);
+  }
+
+  function generateCourses(tab) {
+    return Object.entries(courseTitles[tab]).flatMap(([cat, titles]) => {
+      return titles.map(title => ({
+        degree: tab.toUpperCase(),
+        title: title,
+        category: cat
+      }));
+    });
+  }
+
+  const courses = {
+    master: generateCourses('master')
+  };
+
+  fetch(descriptionUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Fehler beim Laden der Kursdaten.');
+      return response.json();
+    })
+    .then(data => {
+      courseDescriptions = data;
+      renderFilterTabs();
+      renderCards();
+    })
+    .catch(error => {
+      console.error('Kursbeschreibungen konnten nicht geladen werden:', error);
+      renderFilterTabs(); 
+      renderCards();
+    });
+
+  function slugify(str) {
+    return str.toLowerCase()
+      .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+      .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      .replace(/[\s–—]+/g, '-').replace(/[^a-z0-9-]+/g, '')
+      .replace(/--+/g, '-').replace(/(^-|-$)/g, '');
+  }
+
+  function renderFilterTabs() {
+    const container = document.getElementById('filter-tabs');
+    container.innerHTML = '';
+    categories[currentTab].forEach(cat => {
+      const tab = document.createElement('div');
+      tab.className = 'filter-tab';
+      if (cat === currentFilter) tab.classList.add('active');
+      tab.innerText = cat;
+      tab.addEventListener('click', () => {
+        currentFilter = cat;
+        renderFilterTabs();
+        renderCards();
+      });
+      container.appendChild(tab);
+    });
+  }
+
+  function renderCards() {
+    const container = document.getElementById('card-container');
+    container.innerHTML = '';
+    if (!currentFilter) currentFilter = categories[currentTab][0];
+
+    const data = courses[currentTab].filter(c => c.category === currentFilter);
+    data.forEach(course => {
+      const slug = slugify(course.title);
+      const imageUrl = imageMap[slug] || '';
+
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `
+  <div class="card-image">
+    ${imageUrl ? `<img src="${imageUrl}" alt="${course.title}" />` : ''}
+  </div>
+  <div class="card-content">
+    <div class="degree-line">
+      <div class="degree-type">${course.degree}</div>
+      ${isPopular(slug) ? `<div class="popular-badge">Sehr beliebt</div>` : ''}
+    </div>
+    <div class="course-title">${course.title}</div>
+  </div>`;
+
+      card.addEventListener('click', () => openCourseModal(course));
+      container.appendChild(card);
+    });
+  }
+
+  function openCourseModal(course) {
+    const slug = slugify(course.title);
+    const descriptionFromJson = courseDescriptions[slug]?.description;
+
+    document.getElementById('course-modal-title').innerText = course.title;
+    document.getElementById('course-modal-description').innerText =
+      descriptionFromJson || "Keine Beschreibung verfügbar.";
+
+    const modal = document.getElementById('course-modal-wrapper');
+    modal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+
+    const button = modal.querySelector('.cta');
+    button.classList.add('scroll-to-info');
+
+    button.onclick = function (e) {
+      e.preventDefault();
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+
+      setTimeout(() => {
+        const target = document.getElementById('infomaterial');
+        if (target) {
+          target.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          });
+        }
+      }, 150);
+    };
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const closeModal = () => {
+      const modal = document.getElementById('course-modal-wrapper');
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+    };
+
+    const closeButton = document.getElementById('course-modal-close');
+    if (closeButton) {
+      closeButton.addEventListener('click', closeModal);
+    }
+  });
+</script>
