@@ -148,7 +148,7 @@
     "degree": "BACHELOR",
     "category": "Management",
     "description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite."
-  }
+  },
   "baumanagement-ba": {
   "title": "Baumanagement B.A.",
   "degree": "BACHELOR",
@@ -232,7 +232,7 @@
   "degree": "BACHELOR",
   "category": "Wirtschaftspsychologie",
   "description": "Erkunde die faszinierende Welt der Datingpsychologie, entschlüssle die Psychologie hinter Kaufentscheidungen und verstehe, warum Aktienmärkte manisch-depressiv reagieren ... und das ist nur ein Bruchteil dessen, was die Lebensweltpsychologie zu bieten hat."
-}
+},
 
   "digital-transformation-management": {
     "title": "Digital Transformation Management",
@@ -383,7 +383,7 @@
     "degree": "MASTER",
     "category": "Fashion & Beauty",
     "description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor."
-  }
+  },
   "mba-in-general-management": {
   "title": "MBA in General Management",
   "degree": "MBA",
