@@ -1,0 +1,152 @@
+{
+  "digital-transformation-management": {
+    "title": "Digital Transformation Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen."
+  },
+  "human-resource-management": {
+    "title": "Human Resource Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften."
+  },
+  "management": {
+    "title": "Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Gestalte digitale Transformation, stärke Teams mit modernem Leadership und steigere  Unternehmenswerte durch strategische Analysen und Managementkompetenz."
+  },
+  "nachhaltigkeitsmanagement": {
+    "title": "Nachhaltigkeitsmanagement",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Werde Nachhaltigkeitsexperte: Optimiere Energieeffizienz, setze Technologien strategisch ein und gestalte zukunftsfähige Unternehmenslösungen."
+  },
+  "social-media-und-online-marketing": {
+    "title": "Social Media und Online Marketing",
+    "degree": "MASTER",
+    "category": "Management",
+    "description": "Positioniere dich als Digital-Marketing-Profi: entwickle innovative Strategien, nutze SEO, SEA & Social Media und analysiere messbare Erfolge."
+  },
+  "computer-science": {
+    "title": "Computer Science",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": "Vertiefe dein KI-Know-how, entwickle innovative Softwarelösungen und qualifiziere dich für Führungsrollen in zukunftsweisenden Technologiefeldern."
+  },
+  "cyber-security": {
+    "title": "Cyber Security",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": "Spüre als Spezialist für IT-Sicherheit und digitale Verteidigung Cyberangriffe auf, schließe Sicherheitslücken und schütze digitale Systeme effektiv vor Bedrohungen."
+  },
+  "digital-innovation": {
+    "title": "Digital Innovation",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien."
+  },
+  "wirtschaftsinformatik": {
+    "title": "Wirtschaftsinformatik",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen."
+  },
+  "digital-engineering": {
+    "title": "Digital Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": "Gestalte intelligente Systeme, entwickle Innovationen für Industrie 4.0 und setze neue Maßstäbe in Medizintechnik und KI."
+  },
+  "green-engineering": {
+    "title": "Green Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft."
+  },
+  "wirtschaftsingenieurwesen": {
+    "title": "Wirtschaftsingenieurwesen",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "description": "Gestalte effiziente Prozesse: Optimiere Lieferketten, entwickle nachhaltige Technologien und setze Lean-Management strategisch ein."
+  },
+  "gesunde-arbeit-employer-branding": {
+    "title": "Gesunde Arbeit & Employer Branding",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen."
+  },
+  "kriminalpsychologie": {
+    "title": "Kriminalpsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen."
+  },
+  "psychologie-der-lebenswelten": {
+    "title": "Psychologie der Lebenswelten",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung."
+  },
+  "wirtschaftspsychologie": {
+    "title": "Wirtschaftspsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll."
+  },
+  "fussballmanagement": {
+    "title": "Fußballmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene."
+  },
+  "sport-und-leistungspsychologie": {
+    "title": "Sport- und Leistungspsychologie",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg."
+  },
+  "sportmanagement": {
+    "title": "Sportmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing."
+  },
+  "baumanagement-fuer-bauingenieure": {
+    "title": "Baumanagement für Bauingenieure",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor."
+  },
+  "immobilienwirtschaft": {
+    "title": "Immobilienwirtschaft",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft."
+  },
+  "journalismus": {
+    "title": "Journalismus",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe."
+  },
+  "medienmanagement": {
+    "title": "Medienmanagement",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen."
+  },
+  "creative-media": {
+    "title": "Creative Media",
+    "degree": "MASTER",
+    "category": "Creative",
+    "description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien."
+  },
+  "fashion-beauty": {
+    "title": "Fashion & Beauty",
+    "degree": "MASTER",
+    "category": "Fashion & Beauty",
+    "description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor."
+  }
+}
