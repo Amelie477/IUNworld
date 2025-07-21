@@ -1,0 +1,242 @@
+[
+  {
+    "abschluss": "Bachelor",
+    "fach": "Psychologie",
+    "kurs": "Kinder- und Jugendpsychologie (Vertiefung)"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Psychologie",
+    "kurs": "Life Coaching"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Psychologie",
+    "kurs": "Psychologie"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Psychologie",
+    "kurs": "Soziale Arbeit"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Gesundheit",
+    "kurs": "Medizinpädagogik"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Gesundheit",
+    "kurs": "Pflege"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Gesundheit",
+    "kurs": "Physician Assistance"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Gesundheit",
+    "kurs": "Physiotherapie"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Fitnesstraining und Management"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Soziale Arbeit und Sport"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Sport & angewandte Trainingswissenschaft"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Sport- und Bewegungstherapie"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Training und Coaching im Fußball"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Gesundheit",
+    "kurs": "Medizinpädagogik"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Sport",
+    "kurs": "Angewandte Sportwissenschaft"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Sport",
+    "kurs": "Sport- und Schmerztherapie"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Sport",
+    "kurs": "Sportpsychologie"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Sport",
+    "kurs": "Sportpsychologie (Schwerpunkt)"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Angewandte Psychologie"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Klinische Psychologie (Schwerpunkt)"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Positive Psychologie & Coaching"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Sportpsychologie"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Sportpsychologie (Schwerpunkt)"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Gesundheit",
+    "kurs": "Health & Frequency Coach"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Sport",
+    "kurs": "Angewandte Neurowissenschaften in Therapie & Training"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Sport",
+    "kurs": "Psychische Gesundheit im Leistungssport"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Sport",
+    "kurs": "Sportphysiotherapie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Corporate Influencer"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Kinder- und Jugendpsychologie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Life Coaching"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Sozialarbeit in Kindheit und Familie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Sozialarbeit in virtuellen Welten"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Suchtpsychologie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Gesundheit",
+    "kurs": "Orthomolekularcoach"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Gesundheit",
+    "kurs": "Pflege- und Gesundheitswissenschaften"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Sport",
+    "kurs": "Sports Nutrition Coach"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Sport",
+    "kurs": "Angewandte Neurowissenschaften im Leistungssport"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Sport",
+    "kurs": "Evidenzbasierte Physiotherapie in der Neurologie und Psychiatrie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Sport",
+    "kurs": "Sportphysiotherapie im Hochleistungssport"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Sportpsychologie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Female Leadership"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Gesunde Arbeit & Employer Branding"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Leadership im 21. Jahrhundert"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Neuroscience, AI & Digital Resilience"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Positive Psychologie"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Suchtprävention"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Systemische Beratung"
+  },
+  {
+    "abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "fach": "Psychologie",
+    "kurs": "Umweltpsychologie und nachhaltige Transformation"
+  }
+]
