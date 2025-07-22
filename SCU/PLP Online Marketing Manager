@@ -1,0 +1,133 @@
+{
+  "modul1": {
+    "title": "Marketing Reloaded und Psychologie",
+    "description": "In diesem Modul lernen Sie, wie psychologische Erkenntnisse das moderne Marketing prägen.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2020/07/Prof.Dr_.KarlPeterFischer-400x400.png",
+    "instructor": "Prof. Dr. Karl Peter Fischer",
+    "points": [
+      "Multi-Level-Perspektive",
+      "Ereignisse, Megatrends, Klimawandel, Covid19",
+      "Problemrelevanz sich ändernder Märkte",
+      "Strategische Analysen",
+      "Strategie und Positionen-Statement",
+      "Marketingstrategie und Marketingmix",
+      "Verbraucherverhalten verstehen",
+      "Neuromarketing-Grundlagen",
+      "Kognitive Verzerrungen in Kaufentscheidungen",
+      "Behavioral Economics im Marketing",
+      "Digitale Touchpoints und Nutzerpsychologie",
+      "Praxisprojekte zur Anwendung psychologischer Modelle"
+    ]
+  },
+  "modul2": {
+    "title": "Social Media Marketing",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/01/kim-nadine-adamek.jpg",
+    "instructor": "Kim Nadine Adamek",
+    "points": [
+      "Einführung in das Social Media Marketing",
+      "Die passende Social Media Strategie",
+      "Die richtigen Kanäle und Plattformen",
+      "Influencer Marketing",
+      "Krisenkommunikation in Social Networks",
+      "Social Media in der Praxis",
+      "Hashtags",
+      "Social Media Marketing analysieren",
+      "Tools"
+    ]
+  }
+    "modul3": {
+    "title": "Marketing und SEO",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/01/vanessa-wurster.jpg",
+    "instructor": "Vanessa Wurster",
+    "points": [
+      "SEO-Grundlagen",
+      "Rankingfaktoren",
+      "Technisches SEO",
+      "Keywords & Keyword Recherche",
+      "Rankingfaktoren",
+      "Vorgehen Keyword-Recherche inkl. Tools",
+      "Suchvolumen",
+      "Content-SEO",
+      "Content-Planung: Verbindung zu Keywords",
+      "SEO & UX",
+      "Snippet-Optimierung",
+      "Content-Audit"
+    ]
+  }
+    "modul4": {
+    "title": "Social Media und E-Commerce(FB)",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2020/01/thomas_thaler_dozent.jpg",
+    "instructor": "Thomas Thaler",
+    "points": [
+      "Einsatzbereiche organische vs. bezahlte Reichweite",
+      "Wichtige Begrifflichkeiten aus dem Social-Media-Bereich",
+      "Facebook Marketing",
+      "Facebook Pixel und die Attribution von Conversions",
+      "Wie funktioniert das Auktions-Modell von Facebook",
+      "Zielgruppendefinitionen/Targeting",
+      "Bauanleitungen für klassische Ads",
+      "Facebook Analytics",
+      "Erfolgskontrolle und Kampagnen-Optimierung",
+      "Skalierung auf höhere Budgets",
+      "Alles zur Datenschutzgrundverordnung",
+      "Honorar-Verhandlungen zwischen Unternehmen und Agenturen"
+    ]
+  }
+    "modul5": {
+    "title": "SEA, Google Ads & Co",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/01/Jonathan-Grave-400x400-1.jpg",
+    "instructor": "Jonathan Grave",
+    "points": [
+      "Basiswissen Google Ads",
+      "Werbung mit Google Ads",
+      "Zieldefinition in Google Ads, Vorüberlegungen",
+      "Potentialschätzung",
+      "Qualitätsfaktor",
+      "Die richtigen Keywords finden",
+      "Überzeugen mit Anzeigentexten",
+      "Landingpage und Tests",
+      "Conversions definieren",
+      "A/B-Tests",
+      "Conversion-Tracking",
+      "uvm."
+    ]
+  }
+    "modul6": {
+    "title": "Online Marketing im Umfeld der Suche (OnPage und OffPage)",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/01/Jonathan-Grave-400x400-1.jpg",
+    "instructor": "Jonathan Grave",
+    "points": [
+      "Basiswissen für das Qualitätsmanagement von Websites",
+      "Wie arbeiten Suchmaschinen und Suchsysteme",
+      "Vergangenheit, Gegenwart und Zukunft der Suche",
+      "Keywords, Themen und Conversions",
+      "SEO und CRO",
+      "Grundlagen und Praxis OffPage SEO",
+      "Content Marketing in der Praxis",
+      "Die wichtigsten SEO-Tools",
+      "Grundlagen der Conversion-Optimierung",
+      "Die Weiterentwicklung von Online-„Hands-On“-Trainings",
+      "Einführung in RYTE,
+      "uvm."
+    ]
+  }
+    "Sondermodul": {
+    "title": "Prompt Engineering",
+    "description": "Sie lernen, wie Sie Social Media strategisch einsetzen, um Reichweite und Engagement zu steigern.",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/01/Jonathan-Grave-400x400-1.jpg",
+    "instructor": "Jonathan Grave",
+    "points": [
+      "Optimierung der Nutzung von KI-Systemen zur Verbesserung Ihrer Marketingstrategien",
+      "Erstellung personalisierter Inhalte für Landing-Pages, Blogbeiträge, Social-Media-Posts und Newsletter",
+      "Nutzung von Large Language Models wie ChatGPT und Gemini für präzisere Antworten",
+      "Unterstützung im kreativen Copywriting zur Steigerung der Anzeigen-Performance",
+      "Innovative Ansätze in der Social-Media-Kommunikation durch effektive Prompts",
+      "Einsatz von Midjourney zur kreativen Bildgestaltung und Visualisierung von Marketinginhalten"
+    ]
+  }
+}
