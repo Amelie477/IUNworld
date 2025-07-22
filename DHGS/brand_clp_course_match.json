@@ -74,67 +74,119 @@
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
-    "kurs": "Fitnesstraining und Management"
+    "kurs": "Fitnesstraining und Management",
+    "beschreibung": [
+      "Du suchst nach einem Fitness-Studiengang, der nicht nur die sportwissenschaftliche Perspektive, sondern auch die Management-Perspektive beleuchtet? Du möchtest dir mehrere Karriere-Optionen innerhalb der Fitnessbranche offenhalten? Mit dem Bachelor of Science Fitnesstraining & Management legst du die Grundlagen, um nicht nur als Fitnesstrainer/in, sondern auch als Fitnessmanager/in arbeiten zu können."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/10/Mobile-FitnesstrainingMan-BSc-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
-    "kurs": "Soziale Arbeit und Sport"
+    "kurs": "Soziale Arbeit und Sport",
+    "beschreibung": [
+      "In Arbeitsfeldern der Sozialen Arbeit wie der Kinder- und Jugendhilfe oder der Schulsozialarbeit ist der Fachkräftemangel besonders gravierend. Mit einem Bachelor of Arts in Soziale Arbeit & Sport hast du ausgezeichnete Berufsperspektiven als Sozialarbeiter*in bzw. Sozialpädagog*in."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/08/Sozialearbeit-und-Sport-BA-669x272-1.jpg"
   },
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
-    "kurs": "Sport & angewandte Trainingswissenschaft"
+    "kurs": "Sport & angewandte Trainingswissenschaft",
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/12/sport_und_trainingswissenschaft_titelbild_800x364_2022-669x272.jpg"
   },
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Sport- und Bewegungstherapie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
-    "kurs": "Training und Coaching im Fußball"
+    "kurs": "Training und Coaching im Fußball",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Gesundheit",
-    "kurs": "Medizinpädagogik"
+    "kurs": "Medizinpädagogik",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Sport",
-    "kurs": "Angewandte Sportwissenschaft"
+    "kurs": "Angewandte Sportwissenschaft",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Sport",
-    "kurs": "Sport- und Schmerztherapie"
+    "kurs": "Sport- und Schmerztherapie",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Sport",
-    "kurs": "Sportpsychologie"
+    "kurs": "Sportpsychologie",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Sport",
-    "kurs": "Sportpsychologie (Schwerpunkt)"
+    "kurs": "Sportpsychologie (Schwerpunkt)",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Psychologie",
-    "kurs": "Angewandte Psychologie"
+    "kurs": "Angewandte Psychologie",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Psychologie",
-    "kurs": "Klinische Psychologie (Schwerpunkt)"
+    "kurs": "Klinische Psychologie (Schwerpunkt)",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
     "fach": "Psychologie",
-    "kurs": "Positive Psychologie & Coaching"
+    "kurs": "Positive Psychologie & Coaching",
+    "beschreibung": [
+      ""
+    ],
+    "bild": ""
   },
   {
     "abschluss": "Master",
