@@ -99,7 +99,10 @@
     "modul6": {
     "title": "Online Marketing im Umfeld der Suche (OnPage und OffPage)",
     "description": "Lernen Sie, wie Suchmaschinen funktionieren und welche Faktoren für Sichtbarkeit, Content-Qualität und Conversion-Optimierung entscheidend sind. Sie wenden SEO- und CRO-Strategien an und arbeiten mit professionellen Tools wie RYTE und OffPage-SEO-Ansätzen.",
-    "image": "https://image-service.unbounce.com/https%3A%2F%2Fapp.unbouncepreview.com%2Fpublish%2Fassets%2Fb39ce906-b2f5-40d1-9c05-dc0443af48c3%2Ffd5cd72b-marcus-tandler-und-anna-meierl_103201s000000000000028.png?w=110&h=64&png8=true",
+    "image": [
+              "https://www.uni-seeburg.at/wp-content/uploads/2020/01/marcus_tandler_dozent-1.jpg",
+              "https://www.uni-seeburg.at/wp-content/uploads/2021/06/Anna-Meierl-SW.jpg"
+     ],
     "instructor": "Marcus Tandler & Anna Kardum",
     "points": [
       "Basiswissen für das Qualitätsmanagement von Websites",
