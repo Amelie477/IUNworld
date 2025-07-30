@@ -105,7 +105,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/04/Mobile-Sport_Bewegung_Therapie-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Bachelor",
@@ -114,7 +114,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/08/Training-und-Coaching-im-Fussball-B-A-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -132,7 +132,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/12/sportwissenschaft_master_titelbild_800x364_2022-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -141,7 +141,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/04/Mobile-Sport_Schmerz_Therapie-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -150,7 +150,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/12/sportpsychologie-master-936x426px-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -159,7 +159,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/05/936x426px_sportpsychologie-master-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -219,16 +219,28 @@
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Sport",
     "kurs": "Angewandte Neurowissenschaften in Therapie & Training"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobile-CAS-Angew-Neurowiss-Therapie-und-Training-669x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Sport",
     "kurs": "Psychische Gesundheit im Leistungssport"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobilel-CAS-Psychische-Gesundheit-im-Leistungssport-669x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Sport",
     "kurs": "Sportphysiotherapie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobile-Kachel-CAS-Sportphysiotherapieim-Leistungssport-669x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
@@ -306,21 +318,37 @@
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Sport",
     "kurs": "Sports Nutrition Coach"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/08/Sporternaehrung-funktionelle-Ernaehrungsdiagnostik-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Sport",
     "kurs": "Angewandte Neurowissenschaften im Leistungssport"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobile-DAS-Angew-Neurowiss-im-Leistungsspor-669x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Sport",
     "kurs": "Evidenzbasierte Physiotherapie in der Neurologie und Psychiatrie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobile-DAS-Evidenzbasierte-Physiotherapie-Neuro-Psyche-600x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Sport",
     "kurs": "Sportphysiotherapie im Hochleistungssport"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/07/Mobile-DAS-Sportphysiotherapie-im-Hochleistungssport-669x272-1.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
