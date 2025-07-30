@@ -166,9 +166,9 @@
     "fach": "Psychologie",
     "kurs": "Angewandte Psychologie",
     "beschreibung": [
-      ""
+      "Das Studium qualifiziert dich für therapeutische und beratende Berufe in Coaching, Gesundheitsförderung, Rehabilitation, Suchtprävention und BGM."
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-AngewandtePsy-MSc-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -177,7 +177,7 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/05/DHGS-titelbild-klinische_psych-mobil-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -186,17 +186,25 @@
     "beschreibung": [
       ""
     ],
-    "bild": ""
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2021/09/2021-09-01-dhgs-pp_ma-1920x873-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Sportpsychologie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/12/sportpsychologie-master-936x426px-669x272.jpg"
   },
   {
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Sportpsychologie (Schwerpunkt)"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/05/936x426px_sportpsychologie-master-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
@@ -222,31 +230,55 @@
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Corporate Influencer"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/09/Mobile-Corporate-Influencer-CAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Kinder- und Jugendpsychologie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/05/Mobile-Kinder-und-Jugendpsychologie-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Life Coaching"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/03/life-coaching-cas-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Sozialarbeit in Kindheit und Familie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/02/Mobile-Kindheit-Familie-CAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Sozialarbeit in virtuellen Welten"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/02/Mobile-soz-Arbeit-in-virtuellen-Welten-CAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Bachelor-Niveau)",
     "fach": "Psychologie",
     "kurs": "Suchtpsychologie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Suchtpsychologie-CAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
@@ -282,45 +314,81 @@
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Sportpsychologie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/03/Mobile-Sportpsychologie-DAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Female Leadership"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/03/Mobile-Female_Leadership-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Gesunde Arbeit & Employer Branding"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/12/teaser-new-works-gesunde-arbeit_800x364_2022-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Leadership im 21. Jahrhundert"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/03/mobile-leadersip-im-21-jahrhundert-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Neuroscience, AI & Digital Resilience"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/03/Mobile-Neuroscience-AI-Digital-Resilience-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Positive Psychologie"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/07/Mobile-Positive-Psychologie-DAS-936x936-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Suchtprävention"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/10/Mobile-Suchtpraevention-MSc-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Systemische Beratung"
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/02/Mobile-Systematische-Beratung-DAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
     "fach": "Psychologie",
     "kurs": "Umweltpsychologie und nachhaltige Transformation"
-  }
+    "beschreibung": [
+      ""
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/01/Mobile-Umweltpsychologie-und-nachhaltige-Transformation-936x426-1-669x272.jpg"
+  },
 ]
