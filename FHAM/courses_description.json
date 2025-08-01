@@ -383,17 +383,5 @@
     "degree": "MASTER",
     "category": "Fashion & Beauty",
     "description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor."
-  },
-  "mba-in-general-management": {
-  "title": "MBA in General Management",
-  "degree": "MBA",
-  "category": "Management",
-  "description": "Bereit, Verantwortung für Budget, Team und Strategie zu übernehmen? Erhalte den 360-Grad Blick, der General Manager auszeichnet – strategisch denken, klug entschei­den, erfolgreich führen."
-},
-"mba-in-international-management": {
-  "title": "MBA in International Management",
-  "degree": "MBA",
-  "category": "Management",
-  "description": "Skills, die weltweit wirken: Meister globale Strategien, inter­kulturelles HR und interna­tionales Marketing – für deine Zukunft als Top-Entscheider."
-}
+  }
 }
