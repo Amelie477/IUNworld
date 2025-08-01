@@ -306,13 +306,13 @@
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/03/Mobile-orthomolekularcoach-das-936x426-2-669x272.jpg"
   },
   {
-    "abschluss": "Hochschulzertifikat (Master-Niveau)",
-    "fach": "Gesundheit",
-    "kurs": "Pflege- und Gesundheitswissenschaften",
-    "beschreibung": [
+    "_abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "_fach": "Gesundheit",
+    "_kurs": "Pflege- und Gesundheitswissenschaften",
+    "_beschreibung": [
       "Erweitere deine Pflegeexpertise akademisch – mit fundierten Kompetenzen für Gesundheitsförderung und moderne Pflegepädagogik."
     ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/07/Mobile-Pflege_Gesundheit_DAS-936x426-1-669x272.jpg"
+    "_bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/07/Mobile-Pflege_Gesundheit_DAS-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Hochschulzertifikat (Master-Niveau)",
@@ -421,14 +421,14 @@
       "Stärke lösungsorientierte Beratungskompetenz – mit systemischem Ansatz für nachhaltige Veränderung und individuelles Wachstum."
     ],
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/02/Mobile-Systematische-Beratung-DAS-936x426-1-669x272.jpg"
-  },
+  }
   {
-    "abschluss": "Hochschulzertifikat (Master-Niveau)",
-    "fach": "Psychologie",
-    "kurs": "Umweltpsychologie und nachhaltige Transformation",
-    "beschreibung": [
+    "_abschluss": "Hochschulzertifikat (Master-Niveau)",
+    "_fach": "Psychologie",
+    "_kurs": "Umweltpsychologie und nachhaltige Transformation",
+    "_beschreibung": [
       "Nutze Umweltpsychologie für nachhaltige Veränderung – mit Wissen über Verhalten, Wandel und transformative Strategien."
     ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/01/Mobile-Umweltpsychologie-und-nachhaltige-Transformation-936x426-1-669x272.jpg"
+    "_bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2025/01/Mobile-Umweltpsychologie-und-nachhaltige-Transformation-936x426-1-669x272.jpg"
   }
 ]
