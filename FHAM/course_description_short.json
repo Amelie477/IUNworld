@@ -108,61 +108,71 @@
     "title": "Film- & Videoproduktion",
     "degree": "BACHELOR",
     "category": "Creative",
-    "description": "Erwecke Geschichten zum Leben, setze Bilder in Szene und werde zum Meister der Filmsprache. Als Filmemacher gestaltest du audiovisuelle Welten, die berühren, begeistern und bewegen."
+    "description": "Erzähle Geschichten, inszeniere Bilder und präge Filmsprache – als Filmemacher erschaffst du bewegende audiovisuelle Welten.",
+    "ects": 210 
   },
   "musikproduktion": {
     "title": "Musikproduktion",
     "degree": "BACHELOR",
     "category": "Creative",
-    "description": "Erwecke einzigartige Melodien zum Leben, experimentiere mit Klängen und gestalte die auditive Landschaft nach deinen Vorstellungen. Mit diesem Studium wirst du nicht nur Teil der Musikwelt, sondern zum Schöpfer innovativer Klanglandschaften."
+    "description": "Kreiere Melodien, forme Klangwelten und präge den Sound von morgen – im Musikstudium wirst du zum Klanggestalter.",
+    "ects": 210 
   },
   "game-design": {
     "title": "Game Design",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
-    "description": "Entwirf fesselnde Spielwelten, erwecke einzigartige Charaktere zum Leben und programmiere innovative Spielmechaniken. Werde zum Architekten digitaler Abenteuer und lass deine Kreativität in Pixeln erstrahlen."
+    "description": "Entwirf Spielwelten, erwecke Charaktere zum Leben und entwickle innovative Mechaniken – als Game Designer gestaltest du digitale Abenteuer."，
+    "ects": 210 
   },
   "software-design-und-user-experience": {
     "title": "Software Design und User Experience",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
-    "description": "Konzipiere intuitive Benutzeroberflächen, verbinde technische Innovation mit kreativem Design und meistere die Frontend-Programmierung. Als User Experience Designer zählst du zu den begehrtesten Fachexperten unserer Zeit."
+    "description": "Konzipiere UI, verbinde Technik mit Design und beherrsche Frontend – als UX Designer bist du heute stark gefragt."，
+    "ects": 210 
   },
   "software-development": {
     "title": "Software Development",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
-    "description": "Programmiere neuronale Netze zur Bilderkennung, schütze IT-Systeme vor Hackerangriffen und nutze UX-Design, um interaktive Prototypen von Mobile-Apps zu konzipieren. Deine Software ist das digitale Rückgrat von Prozessen und das Herz von Produkten."
+    "description": "Programmiere KI-Systeme, sichere IT-Infrastrukturen und entwickle UX-Prototypen – deine Software treibt Prozesse und Produkte voran."，
+    "ects": 210 
   },
   "wirtschaftsinformatik": {
     "title": "Wirtschaftsinformatik",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
-    "description": "Analysiere und optimiere Geschäftsprozesse, führe moderne Datenverarbeitungssysteme ein und kümmere dich um das betriebsinterne Wissensmanagement. Als Wirtschaftsinformatiker bist du das Bindeglied zwischen System, Business und Mensch."
+    "description": "Analysiere Prozesse, implementiere IT-Lösungen und manage Wissen – als Wirtschaftsinformatiker verbindest du Technik, Business und Menschen."，
+    "ects": 210 
   },
   "digital-entrepreneurship": {
     "title": "Digital Entrepreneurship",
     "degree": "BACHELOR",
     "category": "Management",
-    "description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung."
+    "description": "Entwickle E-Commerce-Modelle, begleite Startups und gestalte Produkte – mit diesem Bachelor denkst du Unternehmertum neu."，
+    "ects": 210 
   },
   "handelsmanagement-und-ecommerce": {
     "title": "Handelsmanagement und E-Commerce",
     "degree": "BACHELOR",
     "category": "Management",
-    "description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit."
+    "description": "Verbessere die UX von Shops, manage Logistik und verkaufe online – E-Commerce bringt täglich neue Herausforderungen mit sich."，
+    "ects": 210
   },
   "innovatives-b2b-management-im-gross-und-aussenhandel": {
     "title": "Innovatives B2B Management im Groß- und Außenhandel",
     "degree": "BACHELOR",
     "category": "Management",
-    "description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!"
+    "description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier."，
+    "ects": 210
   },
   "management": {
     "title": "Management",
     "degree": "BACHELOR",
     "category": "Management",
-    "description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite."
+    "description": "Positioniere Marken, digitalisiere Prozesse und berechne Unternehmenswerte – mit einem Management-Studium sicherst du deine Karriere ab."，
+    "ects": 210
   },
   "baumanagement-ba": {
   "title": "Baumanagement B.A.",
