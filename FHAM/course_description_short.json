@@ -6,7 +6,7 @@
     "description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "ects": 210
   },
-  "journalismus": {
+  "journalismus-ba": {
     "title": "Journalismus",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
@@ -27,7 +27,7 @@
     "description": "Entwickle Content-Strategien, gestalte PR-Kampagnen und lerne Medienmanagement – so navigierst du sicher durch die Medienwelt.",
     "ects": 210
   },
-  "medienmanagement": {
+  "medienmanagement-ba": {
     "title": "Medienmanagement",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
@@ -48,7 +48,7 @@
     "description": "Erzähle bewegende Geschichten, baue Communities auf und stärke Marken – als Social Media Manager verbindest du Unternehmen mit ihrer Zielgruppe.",
     "ects": 210
   },
-  "fussballmanagement": {
+  "fussballmanagement-ba": {
     "title": "Fußballmanagement",
     "degree": "BACHELOR",
     "category": "Sport",
@@ -69,7 +69,7 @@
     "description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
     "ects": 210
   },
-  "sportmanagement": {
+  "sportmanagement-ba": {
     "title": "Sportmanagement",
     "degree": "BACHELOR",
     "category": "Sport",
@@ -83,7 +83,7 @@
     "description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
     "ects": 210
   },
-  "creative-media": {
+  "creative-media-ba": {
     "title": "Creative Media",
     "degree": "BACHELOR",
     "category": "Creative",
@@ -139,7 +139,7 @@
     "description": "Programmiere KI-Systeme, sichere IT-Infrastrukturen und entwickle UX-Prototypen – deine Software treibt Prozesse und Produkte voran.",
     "ects": 210 
   },
-  "wirtschaftsinformatik": {
+  "wirtschaftsinformatik-ba": {
     "title": "Wirtschaftsinformatik",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
@@ -167,7 +167,7 @@
     "description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier.",
     "ects": 210
   },
-  "management": {
+  "management-ba": {
     "title": "Management",
     "degree": "BACHELOR",
     "category": "Management",
@@ -188,14 +188,14 @@
   "description": "Mit diesem Bachelor kombinierst du Ingenieurwissen und Management-Kompetenz – für deinen erfolgreichen Einstieg in die Bauwirtschaft.",
   "ects": 210
 },
-"immobilienwirtschaft": {
+"immobilienwirtschaft-ba": {
   "title": "Immobilienwirtschaft",
   "degree": "BACHELOR",
   "category": "Bau & Immobilien",
   "description": "Im HAM-Bachelor Immobilienwirtschaft lernst du praxisnahes Fachwissen, um erfolgreich in der vielfältigen Immobilienbranche durchzustarten.",
   "ects": 210
 },
-"digital-engineering": {
+"digital-engineering-ba": {
   "title": "Digital Engineering",
   "degree": "BACHELOR",
   "category": "Engineering",
@@ -209,7 +209,7 @@
   "description": "Optimiere Gebäude mit smarter Technologie, steigere Energieeffizienz und gestalte eine komfortable, nachhaltige Zukunft in Smart Cities.",
   "ects": 210
 },
-"wirtschaftsingenieurwesen": {
+"wirtschaftsingenieurwesen-ba": {
   "title": "Wirtschaftsingenieurwesen",
   "degree": "BACHELOR",
   "category": "Engineering",
@@ -258,14 +258,14 @@
   "description": "Programmiere neue Funktionen, verwalte Datenbanken und betreue IT-Systeme für Behörden – schütze Bürger durch digitale Lösungen.",
   "ects": 210
 },
-"wirtschaftspsychologie": {
+"wirtschaftspsychologie-ba": {
   "title": "Wirtschaftspsychologie",
   "degree": "BACHELOR",
   "category": "Wirtschaftspsychologie",
   "description": "Verstehe menschliche Motivation, begleite Wandel, entwickle Teams und nutze Psychologie für Werbung und unternehmerischen Erfolg.",
   "ects": 210
 },
-"psychologie-der-lebenswelten": {
+"psychologie-der-lebenswelten-ba": {
   "title": "Psychologie der Lebenswelten",
   "degree": "BACHELOR",
   "category": "Wirtschaftspsychologie",
@@ -287,7 +287,7 @@
     "description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften.",
     "ects": 90
   },
-  "management": {
+  "management-ma": {
     "title": "Management",
     "degree": "MASTER",
     "category": "Management",
@@ -329,14 +329,14 @@
     "description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien.",
     "ects": 90
   },
-  "wirtschaftsinformatik": {
+  "wirtschaftsinformatik-ma": {
     "title": "Wirtschaftsinformatik",
     "degree": "MASTER",
     "category": "Digitalisierung, IT & Software",
     "description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen.",
     "ects": 90
   },
-  "digital-engineering": {
+  "digital-engineering-ma": {
     "title": "Digital Engineering",
     "degree": "MASTER",
     "category": "Engineering",
@@ -350,7 +350,7 @@
     "description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft.",
     "ects": 90
   },
-  "wirtschaftsingenieurwesen": {
+  "wirtschaftsingenieurwesen-ma": {
     "title": "Wirtschaftsingenieurwesen",
     "degree": "MASTER",
     "category": "Engineering",
@@ -371,21 +371,21 @@
     "description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen.",
     "ects": 90
   },
-  "psychologie-der-lebenswelten": {
+  "psychologie-der-lebenswelten-ma": {
     "title": "Psychologie der Lebenswelten",
     "degree": "MASTER",
     "category": "Wirtschaftspsychologie",
     "description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung.",
     "ects": 90
   },
-  "wirtschaftspsychologie": {
+  "wirtschaftspsychologie-ma": {
     "title": "Wirtschaftspsychologie",
     "degree": "MASTER",
     "category": "Wirtschaftspsychologie",
     "description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll.",
     "ects": 90
   },
-  "fussballmanagement": {
+  "fussballmanagement-ma": {
     "title": "Fußballmanagement",
     "degree": "MASTER",
     "category": "Sport",
@@ -399,7 +399,7 @@
     "description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
     "ects": 90
   },
-  "sportmanagement": {
+  "sportmanagement-ma": {
     "title": "Sportmanagement",
     "degree": "MASTER",
     "category": "Sport",
@@ -413,28 +413,28 @@
     "description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor.",
     "ects": 90
   },
-  "immobilienwirtschaft": {
+  "immobilienwirtschaft-ma": {
     "title": "Immobilienwirtschaft",
     "degree": "MASTER",
     "category": "Bau & Immobilien",
     "description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft.",
     "ects": 90
   },
-  "journalismus": {
+  "journalismus-ma": {
     "title": "Journalismus",
     "degree": "MASTER",
     "category": "Medien & Journalismus",
     "description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe.",
     "ects": 90
   },
-  "medienmanagement": {
+  "medienmanagement-ma": {
     "title": "Medienmanagement",
     "degree": "MASTER",
     "category": "Medien & Journalismus",
     "description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen.",
     "ects": 90
   },
-  "creative-media": {
+  "creative-media-ma": {
     "title": "Creative Media",
     "degree": "MASTER",
     "category": "Creative",
