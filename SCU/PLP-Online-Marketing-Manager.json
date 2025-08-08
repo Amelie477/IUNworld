@@ -1,7 +1,7 @@
 {
   "modul1": {
     "title": "Marketing Reloaded und Psychologie",
-    "description": "Erkennen Sie, wie psychologische Erkenntnisse das moderne Marketing strategisch beeinflussen. Sie lernen, Konsumentenverhalten, Neuromarketing und Entscheidungsprozesse praxisnah zu analysieren und anzuwenden.",
+    "description": "Wie funktionieren digitale Märkte – und wie wirken gute Kampagnen? Sie lernen psychologische Hebel, strategische Modelle und Touchpoint-Logiken kennen.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2020/07/Prof.Dr_.KarlPeterFischer-400x400.png",
     "instructor": "Prof. Dr. Karl Peter Fischer",
     "points": [
@@ -21,7 +21,7 @@
   },
   "modul2": {
     "title": "Social Media Marketing",
-    "description": "Erfahren Sie, wie Sie Social Media gezielt einsetzen, um Reichweite, Engagement und Markenwirkung zu steigern. Sie analysieren Plattformen, entwickeln passende Strategien und wenden Influencer- sowie Krisenkommunikation praxisnah an.",
+    "description": "Sie entwickeln Ihre Social Media Strategie, planen Inhalte, nutzen KI effizient – und bleiben dabei menschlich und glaubwürdig.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/01/kim-nadine-adamek.jpg",
     "instructor": "Kim Nadine Adamek",
     "points": [
@@ -38,7 +38,7 @@
   },
     "modul3": {
     "title": "Marketing und SEO",
-    "description": "Vertiefen Sie Ihr Verständnis für Suchmaschinenoptimierung – von technischen Grundlagen bis hin zur nutzerzentrierten Content-Strategie. Sie lernen, Keywords effektiv zu recherchieren, Rankings zu analysieren und SEO-Maßnahmen praxisnah umzusetzen.",
+    "description": "Technisches SEO, nutzerzentrierte Content-Strategie, effektive Keyword-Recherche und Ranking-Analyse – alles praxisnah umgesetzt für bessere Sichtbarkeit.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/01/vanessa-wurster.jpg",
     "instructor": "Vanessa Wurster",
     "points": [
@@ -58,7 +58,7 @@
   },
     "modul4": {
     "title": "Social Media und E-Commerce(FB)",
-    "description": "Vertiefen Sie Ihre Kenntnisse im Facebook-Marketing – von Reichweitenstrategien bis hin zu datenbasierter Erfolgsmessung. Sie lernen, wie Sie Kampagnen planen, Zielgruppen präzise definieren und Budgets effizient skalieren.",
+    "description": "Dieser Teil fokussiert sich auf den Einsatz von Meta-Plattformen im E-Commerce-Kontext.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2020/01/thomas_thaler_dozent.jpg",
     "instructor": "Thomas Thaler",
     "points": [
@@ -78,7 +78,7 @@
   },
     "modul5": {
     "title": "SEA, Google Ads & Co",
-    "description": "Erwerben Sie fundiertes Wissen rund um Google Ads – von Zieldefinition und Keyword-Recherche bis zur Optimierung von Landingpages. Sie lernen, Anzeigen überzeugend zu formulieren, Conversions zu messen und A/B-Tests strategisch einzusetzen.",
+    "description": "Sie erstellen eigene Kampagnen, nutzen KI-Tools und verstehen, wie sich Anzeigen wirklich rechnen.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/01/Jonathan-Grave-400x400-1.jpg",
     "instructor": "Jonathan Grave",
     "points": [
@@ -98,7 +98,7 @@
   },
     "modul6": {
     "title": "Online Marketing im Umfeld der Suche (OnPage und OffPage)",
-    "description": "Lernen Sie, wie Suchmaschinen funktionieren und welche Faktoren Sichtbarkeit, Content-Qualität und Conversion beeinflussen. Sie wenden SEO- und CRO-Strategien an und arbeiten mit Tools wie RYTE und OffPage-SEO.",
+    "description": "Technisches SEO, Keyword-Recherche mit KI, Snippets, Content-Optimierung – alles mit Blick auf heutige AI-Search.",
     "image": [
               "https://www.uni-seeburg.at/wp-content/uploads/2020/01/marcus_tandler_dozent-1.jpg",
               "https://www.uni-seeburg.at/wp-content/uploads/2021/06/Anna-Meierl-SW.jpg"
@@ -121,7 +121,7 @@
   },
     "Sondermodul": {
     "title": "Prompt Engineering",
-    "description": "Erforschen Sie innovative Wege, KI und Prompts für kreative, zielgerichtete Marketinginhalte zu nutzen. Lernen Sie, Tools wie ChatGPT und Midjourney strategisch einzusetzen, um Texte, Bilder und Kampagnen effizient zu optimieren.",
+    "description": "Sie nutzen ChatGPT & Midjourney effektiv für Texte, Headlines und Creatives. Für kreative, automatisierte und messbar bessere Kommunikation.",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/02/marina-fischer-2025.jpg",
     "instructor": "Dr. Marina Fischer",
     "points": [
