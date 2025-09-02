@@ -1,40 +1,4 @@
 {
-  "kuenstliche-intelligenz-mba": {
-    "title": "Künstliche Intelligenz",
-    "degree": "MBA",
-    "program": "weiterbildung",
-    "category": "Künstliche Intelligenz",
-    "description": "Der MBA mit Schwerpunkt Künstliche Intelligenz befähigt Führungskräfte, Geschäftsprozesse datenbasiert zu optimieren, digitale Transformation aktiv zu gestalten und innovative Technologien erfolgreich einzusetzen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester",
-    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/kuenstliche-intelligenz-600x288-1.jpg"
-  },
-  "immobilienmanagement-mba": {
-    "title": "Immobilienmanagement",
-    "degree": "MBA",
-    "program": "weiterbildung",
-    "category": "Immobilien",
-    "description": "Der MBA-Schwerpunkt Immobilienmanagement vermittelt praxisnahes Branchenwissen und qualifiziert Sie für Führungsrollen in Wohnungsbaugesellschaften, Immobilienverwaltung sowie der professionellen Immobilienvermittlung.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester",
-    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/immobilienmanagement-600x288-1.jpg"
-  },
-  "branchenfokus-mba": {
-    "title": "Branchenfokus",
-    "degree": "MBA",
-    "program": "weiterbildung",
-    "category": "Online Marketing",
-    "description": "Der MBA mit Branchenfokus vermittelt praxisnahe Fallstudien, stärkt branchenspezifisches Managementwissen und verbessert Ihre Karrierechancen, indem er Spezialisierung als entscheidenden Wettbewerbsvorteil hervorhebt.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester",
-    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/banken-versicherungen-600x288-1.jpg"
-  },
-  "sports-leadership-mba": {
-    "title": "Sports Leadership",
-    "degree": "MBA",
-    "program": "weiterbildung",
-    "category": "Sport",
-    "description": "Der MBA-Schwerpunkt Sports Leadership bereitet Sie auf Führungspositionen im Sportsektor vor, kombiniert strategisches Management, Finanzen und Innovation mit praxisnahen Leadershipkompetenzen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester",
-    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/12/sports-leadership.jpg"
-  },
   "management-mba": {
     "title": "Management",
     "degree": "MBA",
@@ -79,6 +43,42 @@
     "description": "Der MBA-Schwerpunkt Coaching verbindet Managementwissen mit praxisnaher Coaching-Ausbildung, fördert Selbstreflexion, Empathie und Kommunikation, um Menschen wirksam bei Zielen und Entwicklung zu unterstützen.",
     "ects": "60 – 2 Semester / 120 – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/coaching-600x288-1.jpg"
+  },
+  "kuenstliche-intelligenz-mba": {
+    "title": "Künstliche Intelligenz",
+    "degree": "MBA",
+    "program": "weiterbildung",
+    "category": "Künstliche Intelligenz",
+    "description": "Der MBA mit Schwerpunkt Künstliche Intelligenz befähigt Führungskräfte, Geschäftsprozesse datenbasiert zu optimieren, digitale Transformation aktiv zu gestalten und innovative Technologien erfolgreich einzusetzen.",
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/kuenstliche-intelligenz-600x288-1.jpg"
+  },
+  "branchenfokus-mba": {
+    "title": "Branchenfokus",
+    "degree": "MBA",
+    "program": "weiterbildung",
+    "category": "Online Marketing",
+    "description": "Der MBA mit Branchenfokus vermittelt praxisnahe Fallstudien, stärkt branchenspezifisches Managementwissen und verbessert Ihre Karrierechancen, indem er Spezialisierung als entscheidenden Wettbewerbsvorteil hervorhebt.",
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/banken-versicherungen-600x288-1.jpg"
+  },
+  "immobilienmanagement-mba": {
+    "title": "Immobilienmanagement",
+    "degree": "MBA",
+    "program": "weiterbildung",
+    "category": "Immobilien",
+    "description": "Der MBA-Schwerpunkt Immobilienmanagement vermittelt praxisnahes Branchenwissen und qualifiziert Sie für Führungsrollen in Wohnungsbaugesellschaften, Immobilienverwaltung sowie der professionellen Immobilienvermittlung.",
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/immobilienmanagement-600x288-1.jpg"
+  },
+  "sports-leadership-mba": {
+    "title": "Sports Leadership",
+    "degree": "MBA",
+    "program": "weiterbildung",
+    "category": "Sport",
+    "description": "Der MBA-Schwerpunkt Sports Leadership bereitet Sie auf Führungspositionen im Sportsektor vor, kombiniert strategisches Management, Finanzen und Innovation mit praxisnahen Leadershipkompetenzen.",
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/12/sports-leadership.jpg"
   },
   "universitaetslehrgang-akademischer-betriebswirt-ul": {
     "title": "Universitätslehrgang Akademischer Betriebswirt",
@@ -125,15 +125,6 @@
     "ects": "60 ECTS – 2 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/10/immobilienmanagement-600x288-1.jpg"
   },
-  "angewandte-ki-business-innovation-ul": {
-    "title": "Angewandte KI & Business Innovation",
-    "degree": "Universitätslehrgang",
-    "program": "weiterbildung",
-    "category": "Künstliche Intelligenz",
-    "description": "Die Weiterbildung Angewandte KI & Business Innovation vermittelt in sechs Monaten praxisnahes Wissen, stärkt Entscheidungsfähigkeit und befähigt, digitale Transformation und neue Technologien erfolgreich umzusetzen.",
-    "ects": "30 ECTS – 1 Semester",
-    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/ul-angewandte-ki-business-innovation-936x425-1.jpg"
-  },
   "versicherungswirtschaft-ul": {
     "title": "Versicherungswirtschaft",
     "degree": "Universitätslehrgang",
@@ -151,6 +142,15 @@
     "description": "Die Weiterbildung Versicherungswirtschaft bietet flexible, onlinebasierte Studienwege, qualifiziert zur Versicherungsmanagerin oder Maklerin, vermittelt vertieftes Wissen und bereitet Sie auf verantwortungsvolle Positionen in der Branche vor.",
     "ects": "60 ECTS – 2 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/10/versicherungswirtschaft-600x288-1.jpg"
+  },
+  "angewandte-ki-business-innovation-ul": {
+    "title": "Angewandte KI & Business Innovation",
+    "degree": "Universitätslehrgang",
+    "program": "weiterbildung",
+    "category": "Künstliche Intelligenz",
+    "description": "Die Weiterbildung Angewandte KI & Business Innovation vermittelt in sechs Monaten praxisnahes Wissen, stärkt Entscheidungsfähigkeit und befähigt, digitale Transformation und neue Technologien erfolgreich umzusetzen.",
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/ul-angewandte-ki-business-innovation-936x425-1.jpg"
   },
   "future-economics-bsc": {
     "title": "Future Economics",
