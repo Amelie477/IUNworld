@@ -1,5 +1,5 @@
 {
-  "kuenstliche-intelligenz": {
+  "kuenstliche-intelligenz-mba": {
     "title": "Künstliche Intelligenz",
     "degree": "MBA",
     "program": "weiterbildung",
@@ -7,7 +7,7 @@
     "description": "Der MBA mit Schwerpunkt Künstliche Intelligenz befähigt Führungskräfte, Geschäftsprozesse datenbasiert zu optimieren, digitale Transformation aktiv zu gestalten und innovative Technologien erfolgreich einzusetzen.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
   },
-  "immobilienmanagement": {
+  "immobilienmanagement-mba": {
     "title": "Immobilienmanagement",
     "degree": "MBA",
     "program": "weiterbildung",
@@ -15,7 +15,7 @@
     "description": "Der MBA-Schwerpunkt Immobilienmanagement vermittelt praxisnahes Branchenwissen und qualifiziert Sie für Führungsrollen in Wohnungsbaugesellschaften, Immobilienverwaltung sowie der professionellen Immobilienvermittlung.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
   },
-  "branchenfokus": {
+  "branchenfokus-mba": {
     "title": "Branchenfokus",
     "degree": "MBA",
     "program": "weiterbildung",
@@ -23,16 +23,15 @@
     "description": "Der MBA mit Branchenfokus vermittelt praxisnahe Fallstudien, stärkt branchenspezifisches Managementwissen und verbessert Ihre Karrierechancen, indem er Spezialisierung als entscheidenden Wettbewerbsvorteil hervorhebt.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
   },
-  "sports-leadership": {
+  "sports-leadership-mba": {
     "title": "Sports Leadership",
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Sport",
     "description": "Der MBA-Schwerpunkt Sports Leadership bereitet Sie auf Führungspositionen im Sportsektor vor, kombiniert strategisches Management, Finanzen und Innovation mit praxisnahen Leadershipkompetenzen.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
-  },  
-  
-  "management": {
+  },
+  "management-mba": {
     "title": "Management",
     "degree": "MBA",
     "program": "weiterbildung",
@@ -40,7 +39,7 @@
     "description": "Der MBA mit Schwerpunkt Management vermittelt nicht nur betriebswirtschaftliches Grundlagenwissen, sondern stärkt auch persönliche Führungsfähigkeiten und ermöglicht Zusammenarbeit mit anderen Abteilungen auf Augenhöhe.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
   },
-   "responsible-leadership": {
+  "responsible-leadership-mba": {
     "title": "Responsible Leadership",
     "degree": "MBA",
     "program": "weiterbildung",
@@ -48,47 +47,47 @@
     "description": "Der MBA mit Schwerpunkt Responsible Leadership schult verantwortungsbewusste Führung, verbindet Ethik mit Praxis und bereitet Sie darauf vor, Wandel lösungsorientiert und nachhaltig zu gestalten.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
   },
-   "sustainable-finance": {
+  "sustainable-finance-mba": {
     "title": "Sustainable Finance",
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA-Schwerpunkt Sustainable Finance fokussiert auf nachhaltige Finanzstrategien, Risikomanagement und Berichterstattung, wodurch Sie Unternehmen zukunftsorientiert steuern und gesellschaftliche Verantwortung einbringen können.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
-  },  
-  "innovation-und-entrepreneurship": {
+  },
+  "innovation-und-entrepreneurship-mba": {
     "title": "Innovation und Entrepreneurship",
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA mit Schwerpunkt Innovation und Entrepreneurship stärkt Ihre Fähigkeit, Start-ups erfolgreich zu führen, Innovationsprozesse zu gestalten und unternehmerische Chancen nachhaltig zu nutzen.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
-  }, 
-  "coaching": {
+  },
+  "coaching-mba": {
     "title": "Coaching",
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA-Schwerpunkt Coaching verbindet Managementwissen mit praxisnaher Coaching-Ausbildung, fördert Selbstreflexion, Empathie und Kommunikation, um Menschen wirksam bei Zielen und Entwicklung zu unterstützen.",
     "ects": "60 – 2 Semester / 120 – 4 Semester"
-  }, 
-  "universitaetslehrgang-akademischer-betriebswirt": {
+  },
+  "universitaetslehrgang-akademischer-betriebswirt-ul": {
     "title": "Universitätslehrgang Akademischer Betriebswirt",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der Universitätslehrgang Betriebswirtschaft bietet ein modulares Programm, vermittelt praxisnahes Wissen in Management, Finanzen, Marketing und Recht und unterstützt Ihre Karriereentwicklung flexibel neben dem Beruf.",
     "ects": "60 ECTS – 2 Semester"
-  }, 
-  "online-marketing-managerin": {
+  },
+  "online-marketing-managerin-ul": {
     "title": "Online Marketing Manager:in",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
     "category": "Management",
     "description": "Im Online-Marketing-Lehrgang entwickeln Sie Ihr eigenes Projekt, kombinieren neueste Strategien zu SEO, Social Media, Ads und KI mit Praxisnähe und messbarem Karriereerfolg.",
     "ects": "30 ECTS – 1 Semester"
-  }, 
-  "stiftungsmanagement": {
+  },
+  "stiftungsmanagement-ul": {
     "title": "Stiftungsmanagement",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -96,7 +95,7 @@
     "description": "Der Universitätslehrgang Stiftungsmanagement bietet praxisorientierte Weiterbildung, verbindet Fachwissen mit Flexibilität und eröffnet neue Karrierewege für alle, die Stiftungen professionell führen und gestalten wollen.",
     "ects": "30 ECTS – 1 Semester"
   },
-  "immobilienmanagement": {
+  "immobilienmanagement-ul": {
     "title": "Immobilienmanagement",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -104,7 +103,7 @@
     "description": "Die Weiterbildung Immobilienmanagement vermittelt in sechs Monaten praxisnahes Wissen zu Verwaltung, Bewertung und Finanzierung von Immobilien und eröffnet fundierte Einblicke in zentrale Branchenbereiche.",
     "ects": "30 ECTS – 1 Semester"
   },
-  "immobilienwirtschaft": {
+  "immobilienwirtschaft-ul": {
     "title": "Immobilienwirtschaft",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -112,7 +111,7 @@
     "description": "Die Weiterbildung Immobilienwirtschaft kombiniert Flexibilität mit international anerkanntem Abschluss, vertieft branchenspezifisches Wissen und bereitet Sie optimal auf verantwortungsvolle Führungsaufgaben in der Immobilienbranche vor.",
     "ects": "60 ECTS – 2 Semester"
   },
-  "angewandte-ki-business-innovation": {
+  "angewandte-ki-business-innovation-ul": {
     "title": "Angewandte KI & Business Innovation",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -120,7 +119,7 @@
     "description": "Die Weiterbildung Angewandte KI & Business Innovation vermittelt in sechs Monaten praxisnahes Wissen, stärkt Entscheidungsfähigkeit und befähigt, digitale Transformation und neue Technologien erfolgreich umzusetzen.",
     "ects": "30 ECTS – 1 Semester"
   },
-  "versicherungswirtschaft": {
+  "versicherungswirtschaft-ul": {
     "title": "Versicherungswirtschaft",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -128,7 +127,7 @@
     "description": "Die Weiterbildung Versicherungswirtschaft vermittelt in sechs Monaten praxisnahes Wissen zu Risiken, Vorsorge und betrieblichem Kontext und stärkt Ihr Verständnis für versicherungswirtschaftliche Zusammenhänge.",
     "ects": "30 ECTS – 1 Semester"
   },
-  "versicherungsmaklerin": {
+  "versicherungsmaklerin-ul": {
     "title": "Versicherungsmakler:in",
     "degree": "Universitätslehrgang",
     "program": "weiterbildung",
@@ -136,7 +135,7 @@
     "description": "Die Weiterbildung Versicherungswirtschaft bietet flexible, onlinebasierte Studienwege, qualifiziert zur Versicherungsmanagerin oder Maklerin, vermittelt vertieftes Wissen und bereitet Sie auf verantwortungsvolle Positionen in der Branche vor.",
     "ects": "60 ECTS – 2 Semester"
   },
-  "future-economics": {
+  "future-economics-bsc": {
     "title": "Future Economics",
     "degree": "Bachelor of Science(CE)",
     "program": "weiterbildung",
@@ -144,15 +143,15 @@
     "description": "Der Bachelor (CE) Future Economics kombiniert Wirtschaftsprinzipien mit Nachhaltigkeit, Ethik und persönlicher Entwicklung, bereitet umfassend auf zukünftige wirtschaftliche und gesellschaftliche Herausforderungen vor.",
     "ects": "120 ECTS – 4 Semester"
   },
-  "management": {
+  "management-bsc": {
     "title": "Management",
     "degree": "Bachelor of Science(CE)",
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management vermittelt Grundlagen in internationalem Management, Ethik und Entrepreneurship, kombiniert praxisorientiertes Lernen mit Führungskompetenz und bereitet auf anspruchsvolle Managementrollen vor.",
     "ects": "180 ECTS – 6 Semester"
-  },  
-  "management-mit-schwerpunkt-banken-und-versicherungen": {
+  },
+  "management-mit-schwerpunkt-banken-und-versicherungen-bsc": {
     "title": "Management mit Schwerpunkt Banken und Versicherungen",
     "degree": "Bachelor of Science(CE)",
     "program": "weiterbildung",
@@ -160,104 +159,103 @@
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Banken und Versicherungen verbindet praxisnahe Ausbildung mit Ethik und Nachhaltigkeit und bereitet auf verantwortungsvolle Aufgaben im Finanzsektor vor.",
     "ects": "180 ECTS – 6 Semester"
   },
-  "management-mit-schwerpunkt-immobilienmanagement": {
+  "management-mit-schwerpunkt-immobilienmanagement-bsc": {
     "title": "Management mit Schwerpunkt Immobilienmanagement",
     "degree": "Bachelor of Science(CE)",
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Immobilienmanagement vermittelt praxisnahes Wissen zu Finanzierung, Recht und Bewertung und qualifiziert Sie für erfolgreiche Karrieren in der Immobilienbranche.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "management-mit-schwerpunkt-sport-freizeit-tourismus": {
+  },
+  "management-mit-schwerpunkt-sport-freizeit-tourismus-bsc": {
     "title": "Management mit Schwerpunkt Sport, Freizeit & Tourismus",
     "degree": "Bachelor of Science(CE)",
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Sport, Freizeit & Tourismus kombiniert wirtschaftliches Wissen mit Event- und Tourismusmanagement und bereitet auf spannende Karrieren in einer dynamischen Branche vor.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "future-economics": {
+  },
+  "future-economics-msc": {
     "title": "Future Economics",
     "degree": "Master of Science(CE)",
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Master (CE) Future Economics bereitet Sie auf führende Rollen vor, verbindet praxisnahe Ansätze mit interdisziplinärem Wissen und fördert ein tiefes Verständnis von Wirtschaft, Gesellschaft und Umwelt.",
     "ects": "120 ECTS – 4 Semester"
-  }, 
-  "sports-leadership": {
+  },
+  "sports-leadership-msc": {
     "title": "Sports Leadership",
     "degree": "Master of Science(CE)",
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Master (CE) Sports Leadership qualifiziert für Führungsrollen im Sport, vermittelt angepasste Methoden und stärkt Kompetenzen, um branchenspezifische Besonderheiten professionell zu managen.",
     "ects": "120 ECTS – 4 Semester"
-  }, 
-
-  "betriebswirtschaftslehre": {
+  },
+  "betriebswirtschaftslehre-bsc": {
     "title": "Betriebswirtschaftslehre",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Management",
     "description": "Studieren Sie BWL flexibel und praxisnah: Unser semi-virtuelles Studienkonzept verbindet Online- und Präsenzlernen, vermittelt gefragtes Managementwissen und eröffnet direkte Karrierechancen.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "bwl-mit-fokus-auf-tourism-hospitality-management": {
+  },
+  "bwl-mit-fokus-auf-tourism-hospitality-management-bsc": {
     "title": "BWL mit Fokus auf Tourism & Hospitality Management",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Management",
     "description": "Das BWL-Studium mit Fokus Tourism & Hospitality Management verbindet betriebswirtschaftliche Grundlagen mit branchenspezifischem Wissen, bereitet praxisnah auf Führungsrollen im Tourismus vor und ermöglicht flexibles, berufsbegleitendes Lernen.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "sport-und-eventmanagement": {
+  },
+  "sport-und-eventmanagement-bsc": {
     "title": "Sport- und Eventmanagement",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Sport",
     "description": "Der B.Sc. Sport- und Eventmanagement verbindet Managementwissen mit Sportpraxis, eröffnet internationale Karrierewege und ermöglicht durch ein semi-virtuelles Konzept flexibles und praxisorientiertes Studieren.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "sport-und-eventmanagement-in-kooperation-mit-salzburger-tennis-college": {
+  },
+  "sport-und-eventmanagement-in-kooperation-mit-salzburger-tennis-college-bsc": {
     "title": "Sport- und Eventmanagement in Kooperation mit Salzburger Tennis College",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Sport",
     "description": "Das CollegeTennis-Programm verbindet Leistungssport mit akademischem Sport- und Eventmanagement, bietet ein einzigartiges 360°-Entwicklungspaket und eröffnet vielseitige Karrierewege in Sport, Event und Management.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "wirtschaftspsychologie": {
+  },
+  "wirtschaftspsychologie-bsc": {
     "title": "Wirtschaftspsychologie",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Wirtschaftspsychologie",
     "description": "Der Wirtschaftspsychologie kombiniert angewandte Psychologie mit Managementwissen, vermittelt gefragte Kompetenzen für den Arbeitsmarkt und ermöglicht flexibles Studieren mit international anerkanntem Abschluss.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "bwl-mit-fokus-auf-immobilienwirtschaft": {
+  },
+  "bwl-mit-fokus-auf-immobilienwirtschaft-bsc": {
     "title": "BWL mit Fokus auf Immobilienwirtschaft",
     "degree": "Bachelor of Science",
     "program": "studium",
     "category": "Immobilien",
     "description": "Der Bachelor BWL mit Fokus Immobilienwirtschaft kombiniert Managementwissen, BWL-Grundlagen und praxisnahes Immobilien-Know-how und bereitet optimal auf vielfältige Karrieremöglichkeiten in der Branche vor.",
     "ects": "180 ECTS – 6 Semester"
-  }, 
-  "betriebswirtschaftslehre": {
+  },
+  "betriebswirtschaftslehre-msc": {
     "title": "Betriebswirtschaftslehre",
     "degree": "Master of Science",
     "program": "studium",
     "category": "Management",
     "description": "Der Master BWL bereitet auf strategische Unternehmensführung vor, verbindet praxisorientierte Forschung mit Leadership-Kompetenzen und vermittelt die Fähigkeit, Theorien kritisch zu reflektieren und anzuwenden.",
     "ects": "120 ECTS – 4 Semester"
-  }, 
-  "wirtschafts­psychologie": {
-    "title": "Wirtschafts­psychologie",
+  },
+  "wirtschaftspsychologie-msc": {
+    "title": "Wirtschaftspsychologie",
     "degree": "Master of Science",
     "program": "studium",
     "category": "Wirtschaftspsychologie",
     "description": "Der Master Wirtschaftspsychologie vermittelt vertiefte Kenntnisse in Wirtschaft und Gesellschaft, kombiniert Schwerpunkte wie Nachhaltigkeit oder Kreativität mit qualitativer und quantitativer Forschung für datenbasierte Führungskompetenzen.",
     "ects": "120 ECTS – 4 Semester"
-  }, 
-  "innovation-and-creativity-management-drrersocoec": {
+  },
+  "innovation-and-creativity-management": {
     "title": "Innovation and Creativity Management Dr.rer.soc.oec.",
     "degree": "Doktor der Sozial- und Wirtschaftswissenschaften",
     "program": "studium",
