@@ -5,7 +5,8 @@
     "program": "weiterbildung",
     "category": "Künstliche Intelligenz",
     "description": "Der MBA mit Schwerpunkt Künstliche Intelligenz befähigt Führungskräfte, Geschäftsprozesse datenbasiert zu optimieren, digitale Transformation aktiv zu gestalten und innovative Technologien erfolgreich einzusetzen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/kuenstliche-intelligenz-600x288-1.jpg"
   },
   "immobilienmanagement-mba": {
     "title": "Immobilienmanagement",
@@ -13,7 +14,8 @@
     "program": "weiterbildung",
     "category": "Immobilien",
     "description": "Der MBA-Schwerpunkt Immobilienmanagement vermittelt praxisnahes Branchenwissen und qualifiziert Sie für Führungsrollen in Wohnungsbaugesellschaften, Immobilienverwaltung sowie der professionellen Immobilienvermittlung.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/immobilienmanagement-600x288-1.jpg"
   },
   "branchenfokus-mba": {
     "title": "Branchenfokus",
@@ -21,7 +23,8 @@
     "program": "weiterbildung",
     "category": "Online Marketing",
     "description": "Der MBA mit Branchenfokus vermittelt praxisnahe Fallstudien, stärkt branchenspezifisches Managementwissen und verbessert Ihre Karrierechancen, indem er Spezialisierung als entscheidenden Wettbewerbsvorteil hervorhebt.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/banken-versicherungen-600x288-1.jpg"
   },
   "sports-leadership-mba": {
     "title": "Sports Leadership",
@@ -29,7 +32,8 @@
     "program": "weiterbildung",
     "category": "Sport",
     "description": "Der MBA-Schwerpunkt Sports Leadership bereitet Sie auf Führungspositionen im Sportsektor vor, kombiniert strategisches Management, Finanzen und Innovation mit praxisnahen Leadershipkompetenzen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/12/sports-leadership.jpg"
   },
   "management-mba": {
     "title": "Management",
@@ -37,7 +41,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA mit Schwerpunkt Management vermittelt nicht nur betriebswirtschaftliches Grundlagenwissen, sondern stärkt auch persönliche Führungsfähigkeiten und ermöglicht Zusammenarbeit mit anderen Abteilungen auf Augenhöhe.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/management-600x288-1.jpg"
   },
   "responsible-leadership-mba": {
     "title": "Responsible Leadership",
@@ -45,7 +50,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA mit Schwerpunkt Responsible Leadership schult verantwortungsbewusste Führung, verbindet Ethik mit Praxis und bereitet Sie darauf vor, Wandel lösungsorientiert und nachhaltig zu gestalten.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/responsible-leadership-600x288-1.jpg"
   },
   "sustainable-finance-mba": {
     "title": "Sustainable Finance",
@@ -53,7 +59,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA-Schwerpunkt Sustainable Finance fokussiert auf nachhaltige Finanzstrategien, Risikomanagement und Berichterstattung, wodurch Sie Unternehmen zukunftsorientiert steuern und gesellschaftliche Verantwortung einbringen können.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/sustainable-finance-600x288-1.jpg"
   },
   "innovation-und-entrepreneurship-mba": {
     "title": "Innovation und Entrepreneurship",
@@ -61,7 +68,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA mit Schwerpunkt Innovation und Entrepreneurship stärkt Ihre Fähigkeit, Start-ups erfolgreich zu führen, Innovationsprozesse zu gestalten und unternehmerische Chancen nachhaltig zu nutzen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/innovation-entrepreneurship-600x288-1.jpg"
   },
   "coaching-mba": {
     "title": "Coaching",
@@ -69,7 +77,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der MBA-Schwerpunkt Coaching verbindet Managementwissen mit praxisnaher Coaching-Ausbildung, fördert Selbstreflexion, Empathie und Kommunikation, um Menschen wirksam bei Zielen und Entwicklung zu unterstützen.",
-    "ects": "60 – 2 Semester / 120 – 4 Semester"
+    "ects": "60 – 2 Semester / 120 – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/coaching-600x288-1.jpg"
   },
   "universitaetslehrgang-akademischer-betriebswirt-ul": {
     "title": "Universitätslehrgang Akademischer Betriebswirt",
@@ -77,7 +86,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der Universitätslehrgang Betriebswirtschaft bietet ein modulares Programm, vermittelt praxisnahes Wissen in Management, Finanzen, Marketing und Recht und unterstützt Ihre Karriereentwicklung flexibel neben dem Beruf.",
-    "ects": "60 ECTS – 2 Semester"
+    "ects": "60 ECTS – 2 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/10/akademischer-betriebswirt-600x288-1.jpg"
   },
   "online-marketing-managerin-ul": {
     "title": "Online Marketing Manager:in",
@@ -85,7 +95,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Im Online-Marketing-Lehrgang entwickeln Sie Ihr eigenes Projekt, kombinieren neueste Strategien zu SEO, Social Media, Ads und KI mit Praxisnähe und messbarem Karriereerfolg.",
-    "ects": "30 ECTS – 1 Semester"
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/08/online-marketing-manager-atf-image_936x426.jpg"
   },
   "stiftungsmanagement-ul": {
     "title": "Stiftungsmanagement",
@@ -93,7 +104,8 @@
     "program": "weiterbildung",
     "category": "Management",
     "description": "Der Universitätslehrgang Stiftungsmanagement bietet praxisorientierte Weiterbildung, verbindet Fachwissen mit Flexibilität und eröffnet neue Karrierewege für alle, die Stiftungen professionell führen und gestalten wollen.",
-    "ects": "30 ECTS – 1 Semester"
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/stiftungsmanagement-936x425-1.jpg"
   },
   "immobilienmanagement-ul": {
     "title": "Immobilienmanagement",
@@ -101,7 +113,8 @@
     "program": "weiterbildung",
     "category": "Immobilien",
     "description": "Die Weiterbildung Immobilienmanagement vermittelt in sechs Monaten praxisnahes Wissen zu Verwaltung, Bewertung und Finanzierung von Immobilien und eröffnet fundierte Einblicke in zentrale Branchenbereiche.",
-    "ects": "30 ECTS – 1 Semester"
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/UL-Immobilienmanagement-600x288-1.jpg"
   },
   "immobilienwirtschaft-ul": {
     "title": "Immobilienwirtschaft",
@@ -109,7 +122,8 @@
     "program": "weiterbildung",
     "category": "Immobilien",
     "description": "Die Weiterbildung Immobilienwirtschaft kombiniert Flexibilität mit international anerkanntem Abschluss, vertieft branchenspezifisches Wissen und bereitet Sie optimal auf verantwortungsvolle Führungsaufgaben in der Immobilienbranche vor.",
-    "ects": "60 ECTS – 2 Semester"
+    "ects": "60 ECTS – 2 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/10/immobilienmanagement-600x288-1.jpg"
   },
   "angewandte-ki-business-innovation-ul": {
     "title": "Angewandte KI & Business Innovation",
@@ -117,7 +131,8 @@
     "program": "weiterbildung",
     "category": "Künstliche Intelligenz",
     "description": "Die Weiterbildung Angewandte KI & Business Innovation vermittelt in sechs Monaten praxisnahes Wissen, stärkt Entscheidungsfähigkeit und befähigt, digitale Transformation und neue Technologien erfolgreich umzusetzen.",
-    "ects": "30 ECTS – 1 Semester"
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/ul-angewandte-ki-business-innovation-936x425-1.jpg"
   },
   "versicherungswirtschaft-ul": {
     "title": "Versicherungswirtschaft",
@@ -125,7 +140,8 @@
     "program": "weiterbildung",
     "category": "Versicherung",
     "description": "Die Weiterbildung Versicherungswirtschaft vermittelt in sechs Monaten praxisnahes Wissen zu Risiken, Vorsorge und betrieblichem Kontext und stärkt Ihr Verständnis für versicherungswirtschaftliche Zusammenhänge.",
-    "ects": "30 ECTS – 1 Semester"
+    "ects": "30 ECTS – 1 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/ul-versicherungswirtschaft-936x425-1.jpg"
   },
   "versicherungsmaklerin-ul": {
     "title": "Versicherungsmakler:in",
@@ -133,7 +149,8 @@
     "program": "weiterbildung",
     "category": "Versicherung",
     "description": "Die Weiterbildung Versicherungswirtschaft bietet flexible, onlinebasierte Studienwege, qualifiziert zur Versicherungsmanagerin oder Maklerin, vermittelt vertieftes Wissen und bereitet Sie auf verantwortungsvolle Positionen in der Branche vor.",
-    "ects": "60 ECTS – 2 Semester"
+    "ects": "60 ECTS – 2 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/10/versicherungswirtschaft-600x288-1.jpg"
   },
   "future-economics-bsc": {
     "title": "Future Economics",
@@ -141,7 +158,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Future Economics kombiniert Wirtschaftsprinzipien mit Nachhaltigkeit, Ethik und persönlicher Entwicklung, bereitet umfassend auf zukünftige wirtschaftliche und gesellschaftliche Herausforderungen vor.",
-    "ects": "120 ECTS – 4 Semester"
+    "ects": "120 ECTS – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/05/bachelor-ce-future-economics-600x288-2.jpg"
   },
   "management-bsc": {
     "title": "Management",
@@ -149,7 +167,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management vermittelt Grundlagen in internationalem Management, Ethik und Entrepreneurship, kombiniert praxisorientiertes Lernen mit Führungskompetenz und bereitet auf anspruchsvolle Managementrollen vor.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bachelor-ce-management-management-600x288-1.jpg"
   },
   "management-mit-schwerpunkt-banken-und-versicherungen-bsc": {
     "title": "Management mit Schwerpunkt Banken und Versicherungen",
@@ -157,7 +176,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Banken und Versicherungen verbindet praxisnahe Ausbildung mit Ethik und Nachhaltigkeit und bereitet auf verantwortungsvolle Aufgaben im Finanzsektor vor.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bachelor-ce-management-banken-und-versicherungen-600x288-1.jpg"
   },
   "management-mit-schwerpunkt-immobilienmanagement-bsc": {
     "title": "Management mit Schwerpunkt Immobilienmanagement",
@@ -165,7 +185,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Immobilienmanagement vermittelt praxisnahes Wissen zu Finanzierung, Recht und Bewertung und qualifiziert Sie für erfolgreiche Karrieren in der Immobilienbranche.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bachelor-ce-management-immobilienmanagement-600x288-1.jpg"
   },
   "management-mit-schwerpunkt-sport-freizeit-tourismus-bsc": {
     "title": "Management mit Schwerpunkt Sport, Freizeit & Tourismus",
@@ -173,7 +194,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Bachelor (CE) Management mit Schwerpunkt Sport, Freizeit & Tourismus kombiniert wirtschaftliches Wissen mit Event- und Tourismusmanagement und bereitet auf spannende Karrieren in einer dynamischen Branche vor.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bachelor-ce-management-spo-tour-freiz-600x288-1.jpg"
   },
   "future-economics-msc": {
     "title": "Future Economics",
@@ -181,7 +203,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Master (CE) Future Economics bereitet Sie auf führende Rollen vor, verbindet praxisnahe Ansätze mit interdisziplinärem Wissen und fördert ein tiefes Verständnis von Wirtschaft, Gesellschaft und Umwelt.",
-    "ects": "120 ECTS – 4 Semester"
+    "ects": "120 ECTS – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/05/master-ce-future-economic-600x288-1.jpg"
   },
   "sports-leadership-msc": {
     "title": "Sports Leadership",
@@ -189,7 +212,8 @@
     "program": "weiterbildung",
     "category": "Alle",
     "description": "Der Master (CE) Sports Leadership qualifiziert für Führungsrollen im Sport, vermittelt angepasste Methoden und stärkt Kompetenzen, um branchenspezifische Besonderheiten professionell zu managen.",
-    "ects": "120 ECTS – 4 Semester"
+    "ects": "120 ECTS – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/sports-leadership.jpg"
   },
   "betriebswirtschaftslehre-bsc": {
     "title": "Betriebswirtschaftslehre",
@@ -197,7 +221,8 @@
     "program": "studium",
     "category": "Management",
     "description": "Studieren Sie BWL flexibel und praxisnah: Unser semi-virtuelles Studienkonzept verbindet Online- und Präsenzlernen, vermittelt gefragtes Managementwissen und eröffnet direkte Karrierechancen.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bwl-bachelor-header-600x288-1.jpg"
   },
   "bwl-mit-fokus-auf-tourism-hospitality-management-bsc": {
     "title": "BWL mit Fokus auf Tourism & Hospitality Management",
@@ -205,7 +230,8 @@
     "program": "studium",
     "category": "Management",
     "description": "Das BWL-Studium mit Fokus Tourism & Hospitality Management verbindet betriebswirtschaftliche Grundlagen mit branchenspezifischem Wissen, bereitet praxisnah auf Führungsrollen im Tourismus vor und ermöglicht flexibles, berufsbegleitendes Lernen.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/06/Tourism-and-Hospitility-Manager-Header-neu-600px-288px.png"
   },
   "sport-und-eventmanagement-bsc": {
     "title": "Sport- und Eventmanagement",
@@ -213,7 +239,8 @@
     "program": "studium",
     "category": "Sport",
     "description": "Der B.Sc. Sport- und Eventmanagement verbindet Managementwissen mit Sportpraxis, eröffnet internationale Karrierewege und ermöglicht durch ein semi-virtuelles Konzept flexibles und praxisorientiertes Studieren.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/sport-und-eventmanager-600x288-1.jpg"
   },
   "sport-und-eventmanagement-in-kooperation-mit-salzburger-tennis-college-bsc": {
     "title": "Sport- und Eventmanagement in Kooperation mit Salzburger Tennis College",
@@ -221,7 +248,8 @@
     "program": "studium",
     "category": "Sport",
     "description": "Das CollegeTennis-Programm verbindet Leistungssport mit akademischem Sport- und Eventmanagement, bietet ein einzigartiges 360°-Entwicklungspaket und eröffnet vielseitige Karrierewege in Sport, Event und Management.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/06/Tennis-Sport-und-Eventmanagement-600x288-1.jpg"
   },
   "wirtschaftspsychologie-bsc": {
     "title": "Wirtschaftspsychologie",
@@ -229,7 +257,8 @@
     "program": "studium",
     "category": "Wirtschaftspsychologie",
     "description": "Der Wirtschaftspsychologie kombiniert angewandte Psychologie mit Managementwissen, vermittelt gefragte Kompetenzen für den Arbeitsmarkt und ermöglicht flexibles Studieren mit international anerkanntem Abschluss.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/02/wipsy-600x288-1.jpg"
   },
   "bwl-mit-fokus-auf-immobilienwirtschaft-bsc": {
     "title": "BWL mit Fokus auf Immobilienwirtschaft",
@@ -237,7 +266,8 @@
     "program": "studium",
     "category": "Immobilien",
     "description": "Der Bachelor BWL mit Fokus Immobilienwirtschaft kombiniert Managementwissen, BWL-Grundlagen und praxisnahes Immobilien-Know-how und bereitet optimal auf vielfältige Karrieremöglichkeiten in der Branche vor.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/Betriebswirtschaft_mit_Focus_Immobilienwirtschaft-600x288-1.jpg"
   },
   "betriebswirtschaftslehre-msc": {
     "title": "Betriebswirtschaftslehre",
@@ -245,7 +275,8 @@
     "program": "studium",
     "category": "Management",
     "description": "Der Master BWL bereitet auf strategische Unternehmensführung vor, verbindet praxisorientierte Forschung mit Leadership-Kompetenzen und vermittelt die Fähigkeit, Theorien kritisch zu reflektieren und anzuwenden.",
-    "ects": "120 ECTS – 4 Semester"
+    "ects": "120 ECTS – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/betriebswirtschaftslehre-msc-600x288-1.jpg"
   },
   "wirtschaftspsychologie-msc": {
     "title": "Wirtschaftspsychologie",
@@ -253,7 +284,8 @@
     "program": "studium",
     "category": "Wirtschaftspsychologie",
     "description": "Der Master Wirtschaftspsychologie vermittelt vertiefte Kenntnisse in Wirtschaft und Gesellschaft, kombiniert Schwerpunkte wie Nachhaltigkeit oder Kreativität mit qualitativer und quantitativer Forschung für datenbasierte Führungskompetenzen.",
-    "ects": "120 ECTS – 4 Semester"
+    "ects": "120 ECTS – 4 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/02/WiPsy-MSc-600x288-1.jpg"
   },
   "innovation-and-creativity-management": {
     "title": "Innovation and Creativity Management Dr.rer.soc.oec.",
@@ -261,6 +293,7 @@
     "program": "studium",
     "category": "Management",
     "description": "Das Doktoratsstudium fördert Kreativität und Innovationsfähigkeit, untersucht neue Ideen, Technologien und Geschäftsmodelle und verbindet flexibles Lernen mit international anerkanntem akademischem Abschluss.",
-    "ects": "180 ECTS – 6 Semester"
+    "ects": "180 ECTS – 6 Semester",
+    "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/07/doktoratsstudium-innovation-creativity-management-doc.jpg"
   }
 }
