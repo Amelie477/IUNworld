@@ -233,7 +233,7 @@
     "description": "Der Wirtschaftspsychologie kombiniert angewandte Psychologie mit Managementwissen, vermittelt gefragte Kompetenzen für den Arbeitsmarkt und ermöglicht flexibles Studieren mit international anerkanntem Abschluss.",
     "ects": "180 ECTS – 6 Semester"
   }, 
-  "bwl-mit-fokus-auf-immobilienwirtschaft": 
+  "bwl-mit-fokus-auf-immobilienwirtschaft": {
     "title": "BWL mit Fokus auf Immobilienwirtschaft",
     "degree": "Bachelor of Science",
     "program": "studium",
@@ -241,7 +241,7 @@
     "description": "Der Bachelor BWL mit Fokus Immobilienwirtschaft kombiniert Managementwissen, BWL-Grundlagen und praxisnahes Immobilien-Know-how und bereitet optimal auf vielfältige Karrieremöglichkeiten in der Branche vor.",
     "ects": "180 ECTS – 6 Semester"
   }, 
-  "betriebswirtschaftslehre": 
+  "betriebswirtschaftslehre": {
     "title": "Betriebswirtschaftslehre",
     "degree": "Master of Science",
     "program": "studium",
@@ -249,7 +249,7 @@
     "description": "Der Master BWL bereitet auf strategische Unternehmensführung vor, verbindet praxisorientierte Forschung mit Leadership-Kompetenzen und vermittelt die Fähigkeit, Theorien kritisch zu reflektieren und anzuwenden.",
     "ects": "120 ECTS – 4 Semester"
   }, 
-  "wirtschafts­psychologie": 
+  "wirtschafts­psychologie": {
     "title": "Wirtschafts­psychologie",
     "degree": "Master of Science",
     "program": "studium",
@@ -257,7 +257,7 @@
     "description": "Der Master Wirtschaftspsychologie vermittelt vertiefte Kenntnisse in Wirtschaft und Gesellschaft, kombiniert Schwerpunkte wie Nachhaltigkeit oder Kreativität mit qualitativer und quantitativer Forschung für datenbasierte Führungskompetenzen.",
     "ects": "120 ECTS – 4 Semester"
   }, 
-  "innovation-and-creativity-management-drrersocoec": 
+  "innovation-and-creativity-management-drrersocoec": {
     "title": "Innovation and Creativity Management Dr.rer.soc.oec.",
     "degree": "Doktor der Sozial- und Wirtschaftswissenschaften",
     "program": "studium",
