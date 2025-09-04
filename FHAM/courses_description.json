@@ -396,48 +396,56 @@
     "title": "Sport- und Leistungspsychologie",
     "degree": "MASTER",
     "category": "Sport",
+    "preset": "ma,137",
     "description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg."
   },
   "sportmanagement": {
     "title": "Sportmanagement",
     "degree": "MASTER",
     "category": "Sport",
+    "preset": "ma,23",
     "description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing."
   },
   "baumanagement-fuer-bauingenieure": {
     "title": "Baumanagement für Bauingenieure",
     "degree": "MASTER",
     "category": "Bau & Immobilien",
+    "preset": "ma,111",
     "description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor."
   },
   "immobilienwirtschaft": {
     "title": "Immobilienwirtschaft",
     "degree": "MASTER",
     "category": "Bau & Immobilien",
+    "preset": "ma,201",
     "description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft."
   },
   "journalismus": {
     "title": "Journalismus",
     "degree": "MASTER",
     "category": "Medien & Journalismus",
+    "preset": "ma,142",
     "description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe."
   },
   "medienmanagement": {
     "title": "Medienmanagement",
     "degree": "MASTER",
     "category": "Medien & Journalismus",
+    "preset": "ma,225",
     "description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen."
   },
   "creative-media": {
     "title": "Creative Media",
     "degree": "MASTER",
     "category": "Creative",
+    "preset": "ma,161",
     "description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien."
   },
   "fashion-beauty": {
     "title": "Fashion & Beauty",
     "degree": "MASTER",
     "category": "Fashion & Beauty",
+    "preset": "ma,198",
     "description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor."
   }
 }
