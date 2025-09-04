@@ -3,66 +3,77 @@
     "title": "Sportjournalismus",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,117",
     "description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist."
   },
   "journalismus": {
     "title": "Journalismus",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,142",
     "description": "Schreibe tiefgründige Artikel zu deinem Lieblingsressort, berichte in Podcasts und kommentiere live aus Brennpunkten. Als Journalist spielst du eine wichtige Rolle in der Gesellschaft, weil du zur öffentlichen Meinungsbildung beiträgst."
   },
   "marketing-und-medienmanagement": {
     "title": "Marketing- und Medienmanagement",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,203",
     "description": "Konzipiere und designe Apps, entwickle Geschäftsmodelle für digitale Medienprodukte und plane TV- und Video-Übertragungen. Als Medienmanager bist du überall gefragt, nicht nur in der Medienbranche."
   },
   "media-studies": {
     "title": "Media Studies",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,164",
     "description": "Entwickle ausgeklügelte Content-Marketing-Strategien, gestalte wirkungsvolle PR-Kampagnen und beherrsche die Kunst des Medienmanagements. Diese breitgefächerte Ausbildung ermöglicht es dir, souverän durch die dynamische Medienlandschaft zu navigieren."
   },
   "medienmanagement": {
     "title": "Medienmanagement",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,225",
     "description": "Entwickle Geschäftsstrategien für Medienunternehmen, lerne die Kunst des Storytellings im Marketing und meistere multimediale Content-Produktion. Medienmanagement - dein kreativer Studiengang mit Manager-Gehalt."
   },
   "medienpsychologie": {
     "title": "Medienpsychologie",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,182",
     "description": "Untersuche die Wirkung von Medien auf die öffentliche Meinung, auf die Bildung von Stereotypen und entdecke, wie sich Massen durch Manipulation bewegen lassen. Finde in unserer medienzentrierten Welt deine Berufung als Medienpsychologe."
   },
   "social-media-studies": {
     "title": "Social Media Studies",
     "degree": "BACHELOR",
     "category": "Medien & Journalismus",
+    "preset": "ba,166",
     "description": "Erzähle Geschichten, die Menschen bewegen, baue florierende Online Communities auf und etabliere deine Marke über soziale Netzwerke. Als Social Media Manager bildest du die Brücke zwischen Unternehmen und Zielgruppe."
   },
   "fussballmanagement": {
     "title": "Fußballmanagement",
     "degree": "BACHELOR",
     "category": "Sport",
+    "preset": "ba,89",
     "description": "Verpflichte Spieler, die Deinen Club an die Spitze führen, entwickle Nachwuchsleistungszentren und konzipiere durchdachte Merchandising-Strategien. Für einen Fußballfan gibt es keinen besseren Beruf als den des Fußball-Managers."
   },
   "esports-management": {
     "title": "Esports Management",
     "degree": "BACHELOR",
     "category": "Sport",
+    "preset": "ba,99",
     "description": "Scoute Talente, baue ein leistungsfähiges Esports-Team auf, teste und analysiere Games und ziehe lukrative Sponsoren an Land. Als Esports Manager verdienst Du Deinen Lebensunterhalt mit Gaming."
   },
   "outdoor-studies": {
     "title": "Outdoor Studies",
     "degree": "BACHELOR",
     "category": "Sport",
+    "preset": "ba,157",
     "description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager."
   },
   "sportmanagement": {
     "title": "Sportmanagement",
     "degree": "BACHELOR",
     "category": "Sport",
+    "preset": "ba,23",
     "description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen."
   },
   "tennis-und-racketsport": {
