@@ -80,18 +80,21 @@
     "title": "Tennis- und Racketsport",
     "degree": "BACHELOR",
     "category": "Sport",
+    "preset": "ba,226",
     "description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg."
   },
   "creative-media": {
     "title": "Creative Media",
     "degree": "BACHELOR",
     "category": "Creative",
+    "preset": "ba,161",
     "description": "Erschaffe fesselnde Geschichten, experimentiere mit innovativen Medienformaten und werde zum Architekten visueller Erlebnisse. Der Studiengang bietet dir die Plattform, deine künstlerischen Visionen in die Realität umzusetzen."
   },
   "design": {
     "title": "Design",
     "degree": "BACHELOR",
     "category": "Creative",
+    "preset": "ba,162",
     "description": "Meistere UX Design im Web, entdecke die aufregende Welt des Industriedesigns oder werde zum Meister des Storytellings im Bewegtbild. Als Designstudent bist du mehr als nur ein Gestalter – du bist ein Visionär, ein Problemlöser, ein Trendsetter."
   },
   "eventmanagement": {
