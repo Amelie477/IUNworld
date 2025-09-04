@@ -101,144 +101,168 @@
     "title": "Eventmanagement",
     "degree": "BACHELOR",
     "category": "Creative",
+    "preset": "ba,154",
     "description": "Organisiere unvergessliche Events, kreiere einzigartige Erlebnisse für deine Zielgruppen und manage Live-Veranstaltungen von A bis Z. Als Eventmanager gestaltest du Momente, die in Erinnerung bleiben."
   },
   "film-und-videoproduktion": {
     "title": "Film- & Videoproduktion",
     "degree": "BACHELOR",
     "category": "Creative",
+    "preset": "ba,189",
     "description": "Erwecke Geschichten zum Leben, setze Bilder in Szene und werde zum Meister der Filmsprache. Als Filmemacher gestaltest du audiovisuelle Welten, die berühren, begeistern und bewegen."
   },
   "musikproduktion": {
     "title": "Musikproduktion",
     "degree": "BACHELOR",
     "category": "Creative",
+    "preset": "ba,165",
     "description": "Erwecke einzigartige Melodien zum Leben, experimentiere mit Klängen und gestalte die auditive Landschaft nach deinen Vorstellungen. Mit diesem Studium wirst du nicht nur Teil der Musikwelt, sondern zum Schöpfer innovativer Klanglandschaften."
   },
   "game-design": {
     "title": "Game Design",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
+    "preset": "ba,150",
     "description": "Entwirf fesselnde Spielwelten, erwecke einzigartige Charaktere zum Leben und programmiere innovative Spielmechaniken. Werde zum Architekten digitaler Abenteuer und lass deine Kreativität in Pixeln erstrahlen."
   },
   "software-design-und-user-experience": {
     "title": "Software Design und User Experience",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
+    "preset": "ba,184",
     "description": "Konzipiere intuitive Benutzeroberflächen, verbinde technische Innovation mit kreativem Design und meistere die Frontend-Programmierung. Als User Experience Designer zählst du zu den begehrtesten Fachexperten unserer Zeit."
   },
   "software-development": {
     "title": "Software Development",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
+    "preset": "ba,181",
     "description": "Programmiere neuronale Netze zur Bilderkennung, schütze IT-Systeme vor Hackerangriffen und nutze UX-Design, um interaktive Prototypen von Mobile-Apps zu konzipieren. Deine Software ist das digitale Rückgrat von Prozessen und das Herz von Produkten."
   },
   "wirtschaftsinformatik": {
     "title": "Wirtschaftsinformatik",
     "degree": "BACHELOR",
     "category": "Digitalisierung, IT & Software",
+    "preset": "ba,128",
     "description": "Analysiere und optimiere Geschäftsprozesse, führe moderne Datenverarbeitungssysteme ein und kümmere dich um das betriebsinterne Wissensmanagement. Als Wirtschaftsinformatiker bist du das Bindeglied zwischen System, Business und Mensch."
   },
   "digital-entrepreneurship": {
     "title": "Digital Entrepreneurship",
     "degree": "BACHELOR",
     "category": "Management",
+    "preset": "ba,194",
     "description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung."
   },
   "handelsmanagement-und-ecommerce": {
     "title": "Handelsmanagement und E-Commerce",
     "degree": "BACHELOR",
     "category": "Management",
+    "preset": "ba,199",
     "description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit."
   },
   "innovatives-b2b-management-im-gross-und-aussenhandel": {
     "title": "Innovatives B2B Management im Groß- und Außenhandel",
     "degree": "BACHELOR",
     "category": "Management",
+    "preset": "ba,224",
     "description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!"
   },
   "management": {
     "title": "Management",
     "degree": "BACHELOR",
     "category": "Management",
+    "preset": "ba,196",
     "description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite."
   },
   "baumanagement-ba": {
   "title": "Baumanagement B.A.",
   "degree": "BACHELOR",
   "category": "Bau & Immobilien",
+    "preset": "ba,156",
   "description": "Dieser Studiengang vermittelt allgemeines und speziell auf die Baubranche ausgerichtetes Know How im Management. Absolventen eröffnen sich damit beste berufliche Perspektiven in der Baubranche."
 },
 "baumanagement-bsc": {
   "title": "Baumanagement B.Sc.",
   "degree": "BACHELOR",
   "category": "Bau & Immobilien",
+  "preset": "ba,169",
   "description": "Top-Jobs in der Bauwirtschaft – mit diesem Bachelor of Engineering kein Problem! Verschmelze Ingenieurskunst mit fundiertem Management Know-how und sicher dir deine Führungsposition in einer Prestigebranche."
 },
 "immobilienwirtschaft": {
   "title": "Immobilienwirtschaft",
   "degree": "BACHELOR",
   "category": "Bau & Immobilien",
+  "preset": "ba,201",
   "description": "Du möchtest die Immobilienbranche von Grund auf verstehen und aktiv mitgestalten? Im Bachelor-Studiengang Immobilienwirtschaft an der HAM erhältst Du das nötige Fachwissen und praxisnahe Erfahrungen, um erfolgreich in der vielfältigen Welt der Immobilien zu starten."
 },
 "digital-engineering": {
   "title": "Digital Engineering",
   "degree": "BACHELOR",
   "category": "Engineering",
+  "preset": "ba,190",
   "description": "Teste mit digitalen Zwillingen autonome Fahrzeuge, noch bevor sie gebaut sind, erwecke Maschinen zum Leben – mit dem Industrial Internet of Things – und entfessle Data Science für bahnbrechende Innovationen. Betritt eine Welt, die wie Science-Fiction anmutet."
 },
 "elektrotechnik-und-gebaeudeautomation": {
   "title": "Elektrotechnik und Gebäudeautomation",
   "degree": "BACHELOR",
   "category": "Engineering",
+  "preset": "ba,191",
   "description": "Steuere Gebäude intelligent, optimiere ihre Energieeffizienz und leiste deinen Beitrag zu einer Smart City - für eine Zukunft, in der Technologie und Komfort Hand in Hand gehen."
 },
 "wirtschaftsingenieurwesen": {
   "title": "Wirtschaftsingenieurwesen",
   "degree": "BACHELOR",
   "category": "Engineering",
+  "preset": "ba,170",
   "description": "Plane die Beschaffung von Rohstoffen und Komponenten, behebe Engpässe in globalen Lieferketten und lass Maschinen über das Internet der Dinge miteinander kommunizieren. Der beste Zeitpunkt, Wirtschaftsingenieur zu werden, ist immer jetzt."
 },
 "fashion-management-global-brands": {
   "title": "Fashion Management & Global Brands",
   "degree": "BACHELOR",
   "category": "Fashion & Beauty",
+  "preset": "ba,197",
   "description": "Kreiere dein eigenes Modelabel, vermarkte Modelinien mit der richtigen Online-Marketing-Strategie und organisiere Laufsteg-Events, die die Presse begeistern. Das ist deine Zukunft als Fashion Manager."
 },
 "beauty-studies": {
   "title": "Beauty Studies",
   "degree": "BACHELOR",
   "category": "Fashion & Beauty",
+  "preset": "ba,160",
   "description": "Manage Beauty-Marken-Portfolios, gestalte professionelle Make-up-Looks oder verfasse spannende Blog-Artikel zum Thema Schönheit. Du gibst Menschen gerne das Gefühl schön und selbstbewusst zu sein? Dann ist das Dein Studiengang."
 },
 "fashion-studies-luxury-brands": {
   "title": "Fashion Studies & Luxury Brands",
   "degree": "BACHELOR",
   "category": "Fashion & Beauty",
+  "preset": "ba,163",
   "description": "Entwerfe dein eigenes Traumkleid, verfasse journalistische Artikel für Modemagazine oder entwirf Marken-Strategien für Modelinien. Mit diesem Studium wirst du ganzheitlich ausgebildet und kannst verschiedene Modeberufe ergreifen."
 },
 "public-management": {
   "title": "Public Management",
   "degree": "BACHELOR",
   "category": "Öffentliche Verwaltung",
+  "preset": "ba,27",
   "description": "Optimiere die Effizienz von öffentlichen Dienstleistungen, weite Bürgerbeteiligungen aus und etabliere wissenschaftliche und wirtschaftliche Partnerschaften mit Unternehmen und Institutionen. Als Public-Manager treibst du die Modernisierung der Verwaltung voran."
 },
 "public-social-management": {
   "title": "Public Social Management",
   "degree": "BACHELOR",
   "category": "Öffentliche Verwaltung",
+  "preset": "ba,112",
   "description": "Entwickle soziale Dienstleistungen und Programme, verhandle Pflegesätze und arrangiere Eingliederungshilfen für Menschen mit Behinderung. Als Public-Social-Manager gestaltest du die Sozialpolitik aktiv mit."
 },
 "wirtschaftsinformatik-soziale-sicherung": {
   "title": "Wirtschaftsinformatik Soziale Sicherung",
   "degree": "BACHELOR",
   "category": "Öffentliche Verwaltung",
+  "preset": "ba,128",
   "description": "Betreue IT-Systeme, die von sozialen Sicherungsbehörden verwendet werden, kümmere dich um das Datenbankmanagement und program­miere neue Softwarefunktionen. Als Verwaltungsinformatiker der Sozialen Sicherung trägst du zur Absicherung der Bürger bei."
 },
 "wirtschaftspsychologie": {
   "title": "Wirtschaftspsychologie",
   "degree": "BACHELOR",
   "category": "Wirtschaftspsychologie",
+  "preset": "ba,24",
   "description": "Begleite Veränderungsprozesse, qualifiziere Mitarbeiter durch Personalentwicklung und nutze verhaltenspsychologische Techniken in der Werbung. Verstehe die Motivation der Menschen und schließe die Tür zum wirtschaftlichen Erfolg auf."
 },
 "psychologie-der-lebenswelten": {
