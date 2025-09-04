@@ -269,6 +269,7 @@
   "title": "Psychologie der Lebenswelten",
   "degree": "BACHELOR",
   "category": "Wirtschaftspsychologie",
+  "preset": "ba,115",
   "description": "Erkunde die faszinierende Welt der Datingpsychologie, entschlüssle die Psychologie hinter Kaufentscheidungen und verstehe, warum Aktienmärkte manisch-depressiv reagieren ... und das ist nur ein Bruchteil dessen, was die Lebensweltpsychologie zu bieten hat."
 },
 
@@ -276,6 +277,7 @@
     "title": "Digital Transformation Management",
     "degree": "MASTER",
     "category": "Management",
+    "preset": "ma,205",
     "description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen."
   },
   "human-resource-management": {
