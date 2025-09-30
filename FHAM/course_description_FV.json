@@ -2,7 +2,7 @@
   "sportjournalismus": {
     "title": "Sportjournalismus",
     "degree": "BACHELOR",
-    "category": "Medien & Journalismus",
+    "category": ["Medien & Journalismus", "Sport"],
     "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "ects": 210,
