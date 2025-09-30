@@ -26,7 +26,8 @@
     "short-description": "Konzipiere Apps, entwickle Medienprodukte und plane Übertragungen – als Medienmanager wirst du branchenübergreifend gebraucht.",
     "long-description": "Konzipiere und designe Apps, entwickle Geschäftsmodelle für digitale Medienprodukte und plane TV- und Video-Übertragungen. Als Medienmanager bist du überall gefragt, nicht nur in der Medienbranche.",
     "ects": 210,
-    "preset": "ba,203"
+    "preset": "ba,203",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-Marketing-BA-1920x873px-669x272.jpg"
   },
   "media-studies": {
     "title": "Media Studies",
@@ -35,7 +36,8 @@
     "short-description": "Entwickle Content-Strategien, gestalte PR-Kampagnen und lerne Medienmanagement – so navigierst du sicher durch die Medienwelt.",
     "long-description": "Entwickle ausgeklügelte Content-Marketing-Strategien, gestalte wirkungsvolle PR-Kampagnen und beherrsche die Kunst des Medienmanagements. Diese breitgefächerte Ausbildung ermöglicht es dir, souverän durch die dynamische Medienlandschaft zu navigieren.",
     "ects": 210,
-    "preset": "ba,164"
+    "preset": "ba,164",
+    "image": "https://www.fham.de/wp-content/uploads/2023/07/230717-HAM-Header-Media-Studies-936x426px-669x272.jpg"
   },
   "medienmanagement-ba": {
     "title": "Medienmanagement",
@@ -44,7 +46,8 @@
     "short-description": "Entwickle Strategien, erzähle starke Geschichten und produziere Inhalte – Medienmanagement verbindet Kreativität mit Karrierechancen.",
     "long-description": "Entwickle Geschäftsstrategien für Medienunternehmen, lerne die Kunst des Storytellings im Marketing und meistere multimediale Content-Produktion. Medienmanagement - dein kreativer Studiengang mit Manager-Gehalt.",
     "ects": 210,
-    "preset": "ba,225"
+    "preset": "ba,225",
+    "image": "https://www.fham.de/wp-content/uploads/2025/04/medienmanagement-bachelor-mobile_1920x873-669x272.jpg"
   },
   "medienpsychologie": {
     "title": "Medienpsychologie",
@@ -53,7 +56,8 @@
     "short-description": "Analysiere Medienwirkungen, Stereotype und Manipulation – als Medienpsychologe verstehst du, wie Medien die Gesellschaft beeinflussen.",
     "long-description": "Untersuche die Wirkung von Medien auf die öffentliche Meinung, auf die Bildung von Stereotypen und entdecke, wie sich Massen durch Manipulation bewegen lassen. Finde in unserer medienzentrierten Welt deine Berufung als Medienpsychologe.",
     "ects": 210,
-    "preset": "ba,182"
+    "preset": "ba,182",
+    "image": "https://www.fham.de/wp-content/uploads/2025/04/medienpsychologie_bachelor_936x426-669x272.jpg"
   },
   "social-media-studies": {
     "title": "Social Media Studies",
@@ -62,7 +66,8 @@
     "short-description": "Erzähle bewegende Geschichten, baue Communities auf und stärke Marken – als Social Media Manager verbindest du Unternehmen mit ihrer Zielgruppe.",
     "long-description": "Erzähle Geschichten, die Menschen bewegen, baue florierende Online Communities auf und etabliere deine Marke über soziale Netzwerke. Als Social Media Manager bildest du die Brücke zwischen Unternehmen und Zielgruppe.",
     "ects": 210,
-    "preset": "ba,166"
+    "preset": "ba,166",
+    "image": "https://www.fham.de/wp-content/uploads/2025/03/social-media-studies-influencer-mobile_1920x1080-669x272.jpg"
   },
   "fussballmanagement-ba": {
     "title": "Fußballmanagement",
@@ -71,7 +76,8 @@
     "short-description": "Verpflichte Talente, entwickle Strategien und manage den Verein – als Fußball-Manager lebst du deinen Traum als Fan.",
     "long-description": "Verpflichte Spieler, die Deinen Club an die Spitze führen, entwickle Nachwuchsleistungszentren und konzipiere durchdachte Merchandising-Strategien. Für einen Fußballfan gibt es keinen besseren Beruf als den des Fußball-Managers.",
     "ects": 210,
-    "preset": "ba,89"
+    "preset": "ba,89",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/fussballmanagement-ba-mobile-936x426px-669x272.png"
   },
   "esports-management": {
     "title": "Esports Management",
@@ -80,7 +86,8 @@
     "short-description": "Scoute Talente, analysiere Games und gewinne Sponsoren – als Esports Manager machst du Gaming zum Beruf.",
     "long-description": "Scoute Talente, baue ein leistungsfähiges Esports-Team auf, teste und analysiere Games und ziehe lukrative Sponsoren an Land. Als Esports Manager verdienst Du Deinen Lebensunterhalt mit Gaming.",
     "ects": 210,
-    "preset": "ba,99"
+    "preset": "ba,99",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/esport-management-ma-mobile-936x426px-669x272.jpg"
   },
   "outdoor-studies": {
     "title": "Outdoor Studies",
@@ -89,7 +96,8 @@
     "short-description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
     "long-description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager.",
     "ects": 210,
-    "preset": "ba,157"
+    "preset": "ba,157",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-OutdoorAdventure-BA-1920x873px-669x272.jpg"
   },
   "sportmanagement-ba": {
     "title": "Sportmanagement",
@@ -98,7 +106,8 @@
     "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
     "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
     "ects": 210,
-    "preset": "ba,23"
+    "preset": "ba,23",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportmanagement-ba-mobile-936x426px-669x272.png"
   },
   "tennis-und-racketsport": {
     "title": "Tennis- und Racketsport",
@@ -107,7 +116,8 @@
     "short-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
     "long-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
     "ects": 210,
-    "preset": "ba,226"
+    "preset": "ba,226",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/tennis-und-racketsports-ba-mobile-936x426px-1-669x272.jpg"
   },
   "creative-media-ba": {
     "title": "Creative Media",
@@ -116,7 +126,8 @@
     "short-description": "Erschaffe Geschichten, nutze neue Medienformate und gestalte visuelle Erlebnisse – verwirkliche deine kreative Vision im Studium.",
     "long-description": "Erschaffe fesselnde Geschichten, experimentiere mit innovativen Medienformaten und werde zum Architekten visueller Erlebnisse. Der Studiengang bietet dir die Plattform, deine künstlerischen Visionen in die Realität umzusetzen.",
     "ects": 210,
-    "preset": "ba,161"
+    "preset": "ba,161",
+    "image": "https://www.fham.de/wp-content/uploads/2023/07/230731-HAM-Header-Creative_Media-1920x873-1-669x272.jpg"
   },
   "design": {
     "title": "Design",
@@ -125,7 +136,8 @@
     "short-description": "Gestalte UX, Produkte oder Bewegtbild – als Designstudent bist du Visionär, Problemlöser und Trendsetter zugleich.",
     "long-description": "Meistere UX Design im Web, entdecke die aufregende Welt des Industriedesigns oder werde zum Meister des Storytellings im Bewegtbild. Als Designstudent bist du mehr als nur ein Gestalter – du bist ein Visionär, ein Problemlöser, ein Trendsetter.",
     "ects": 210,
-    "preset": "ba,162"
+    "preset": "ba,162",
+    "image": "https://www.fham.de/wp-content/uploads/2023/07/230717-HAM-Header-Design-936x426px-669x272.jpg"
   },
   "eventmanagement": {
     "title": "Eventmanagement",
@@ -134,7 +146,8 @@
     "short-description": "Plane Events, schaffe Erlebnisse und manage Live-Shows – als Eventmanager gestaltest du unvergessliche Momente.",
     "long-description": "Organisiere unvergessliche Events, kreiere einzigartige Erlebnisse für deine Zielgruppen und manage Live-Veranstaltungen von A bis Z. Als Eventmanager gestaltest du Momente, die in Erinnerung bleiben.",
     "ects": 210,
-    "preset": "ba,154"
+    "preset": "ba,154",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/eventmanagement-bachelor_936x426-669x272.jpg"
   },
   "film-videoproduktion-ba": {
     "title": "Film- & Videoproduktion",
@@ -143,7 +156,8 @@
     "short-description": "Erzähle Geschichten, inszeniere Bilder und präge Filmsprache – als Filmemacher erschaffst du bewegende audiovisuelle Welten.",
     "long-description": "Erwecke Geschichten zum Leben, setze Bilder in Szene und werde zum Meister der Filmsprache. Als Filmemacher gestaltest du audiovisuelle Welten, die berühren, begeistern und bewegen.",
     "ects": 210,
-    "preset": "ba,189"
+    "preset": "ba,189",
+    "image": "https://www.fham.de/wp-content/uploads/2024/12/film-und-videoproduktion-ba-936x426px-669x272.jpg"
   },
   "musikproduktion": {
     "title": "Musikproduktion",
@@ -152,7 +166,8 @@
     "short-description": "Kreiere Melodien, forme Klangwelten und präge den Sound von morgen – im Musikstudium wirst du zum Klanggestalter.",
     "long-description": "Erwecke einzigartige Melodien zum Leben, experimentiere mit Klängen und gestalte die auditive Landschaft nach deinen Vorstellungen. Mit diesem Studium wirst du nicht nur Teil der Musikwelt, sondern zum Schöpfer innovativer Klanglandschaften.",
     "ects": 210,
-    "preset": "ba,165"
+    "preset": "ba,165",
+    "image": "https://www.fham.de/wp-content/uploads/2024/12/musikproduktion-ba-936x426px-669x272.jpg"
   },
   "game-design": {
     "title": "Game Design",
@@ -161,7 +176,8 @@
     "short-description": "Entwirf Spielwelten, erwecke Charaktere zum Leben und entwickle innovative Mechaniken – als Game Designer gestaltest du digitale Abenteuer.",
     "long-description": "Entwirf fesselnde Spielwelten, erwecke einzigartige Charaktere zum Leben und programmiere innovative Spielmechaniken. Werde zum Architekten digitaler Abenteuer und lass deine Kreativität in Pixeln erstrahlen.",
     "ects": 210,
-    "preset": "ba,150"
+    "preset": "ba,150",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/game-design-bsc-mobile-936x426px-669x272.jpg"
   },
   "software-design-und-user-experience": {
     "title": "Software Design und User Experience",
@@ -170,7 +186,8 @@
     "short-description": "Konzipiere UI, verbinde Technik mit Design und beherrsche Frontend – als UX Designer bist du heute stark gefragt.",
     "long-description": "Konzipiere intuitive Benutzeroberflächen, verbinde technische Innovation mit kreativem Design und meistere die Frontend-Programmierung. Als User Experience Designer zählst du zu den begehrtesten Fachexperten unserer Zeit.",
     "ects": 210,
-    "preset": "ba,184"
+    "preset": "ba,184",
+    "image": "https://www.fham.de/wp-content/uploads/2025/02/software-design-user-experience-bsc-mobile-936x426px-669x272.jpg"
   },
   "software-development": {
     "title": "Software Development",
@@ -179,7 +196,8 @@
     "short-description": "Programmiere KI-Systeme, sichere IT-Infrastrukturen und entwickle UX-Prototypen – deine Software treibt Prozesse und Produkte voran.",
     "long-description": "Programmiere neuronale Netze zur Bilderkennung, schütze IT-Systeme vor Hackerangriffen und nutze UX-Design, um interaktive Prototypen von Mobile-Apps zu konzipieren. Deine Software ist das digitale Rückgrat von Prozessen und das Herz von Produkten.",
     "ects": 210,
-    "preset": "ba,181"
+    "preset": "ba,181",
+    "image": "https://www.fham.de/wp-content/uploads/2024/06/software-development-600x244-1.jpg"
   },
   "wirtschaftsinformatik-ba": {
     "title": "Wirtschaftsinformatik",
@@ -188,7 +206,8 @@
     "short-description": "Analysiere Prozesse, implementiere IT-Lösungen und manage Wissen – als Wirtschaftsinformatiker verbindest du Technik, Business und Menschen.",
     "long-description": "Analysiere und optimiere Geschäftsprozesse, führe moderne Datenverarbeitungssysteme ein und kümmere dich um das betriebsinterne Wissensmanagement. Als Wirtschaftsinformatiker bist du das Bindeglied zwischen System, Business und Mensch.",
     "ects": 210,
-    "preset": "ba,128"
+    "preset": "ba,128",
+    "image": "https://www.fham.de/wp-content/uploads/2023/12/Computer-Science-MSc_936x426-669x272.jpg"
   },
   "digital-entrepreneurship": {
     "title": "Digital Entrepreneurship",
@@ -197,7 +216,8 @@
     "short-description": "Entwickle E-Commerce-Modelle, begleite Startups und gestalte Produkte – mit diesem Bachelor denkst du Unternehmertum neu.",
     "long-description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung.",
     "ects": 210,
-    "preset": "ba,194"
+    "preset": "ba,194",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/digital-entrepreneurship-bsc-mobile-936x426px-669x272.jpg"
   },
   "handelsmanagement-und-e-commerce-ba": {
     "title": "Handelsmanagement und E-Commerce",
@@ -206,7 +226,8 @@
     "short-description": "Verbessere die UX von Shops, manage Logistik und verkaufe online – E-Commerce bringt täglich neue Herausforderungen mit sich.",
     "long-description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit.",
     "ects": 210,
-    "preset": "ba,199"
+    "preset": "ba,199",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-ecommerce-BA-1920x873px-669x272.jpg"
   },
   "innovatives-b2b-management-im-gross-und-aussenhandel": {
     "title": "Innovatives B2B Management im Groß- und Außenhandel",
@@ -215,7 +236,8 @@
     "short-description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier.",
     "long-description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!",
     "ects": 210,
-    "preset": "ba,224"
+    "preset": "ba,224",
+    "image": "https://www.fham.de/wp-content/uploads/2024/09/innovatives-b2b-management-im-gross-und-aussenhandel-ba-mobile-936x426px-669x272.jpg"
   },
   "management-ba": {
     "title": "Management",
@@ -224,7 +246,8 @@
     "short-description": "Positioniere Marken, digitalisiere Prozesse und berechne Unternehmenswerte – mit einem Management-Studium sicherst du deine Karriere ab.",
     "long-description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite.",
     "ects": 210,
-    "preset": "ba,196"
+    "preset": "ba,196",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/management-ba-mobile-936x426px-669x272.png"
   },
   "baumanagement-ba": {
     "title": "Baumanagement B.A.",
@@ -233,7 +256,8 @@
     "short-description": "Lerne Management mit Fokus auf Bauwirtschaft – für beste Karrierechancen in einer zukunftssicheren Branche.",
     "long-description": "Dieser Studiengang vermittelt allgemeines und speziell auf die Baubranche ausgerichtetes Know How im Management. Absolventen eröffnen sich damit beste berufliche Perspektiven in der Baubranche.",
     "ects": 210,
-    "preset": "ba,156"
+    "preset": "ba,156",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/baumanagement-936x426px-669x272.jpg"
   },
   "baumanagement-bsc": {
     "title": "Baumanagement B.Sc.",
@@ -242,7 +266,8 @@
     "short-description": "Mit diesem Bachelor kombinierst du Ingenieurwissen und Management-Kompetenz – für deinen erfolgreichen Einstieg in die Bauwirtschaft.",
     "long-description": "Top-Jobs in der Bauwirtschaft – mit diesem Bachelor of Engineering kein Problem! Verschmelze Ingenieurskunst mit fundiertem Management Know-how und sicher dir deine Führungsposition in einer Prestigebranche.",
     "ects": 210,
-    "preset": "ba,169"
+    "preset": "ba,169",
+    "image": "https://www.fham.de/wp-content/uploads/2023/11/wirtschaftsingenieurwesen-baumanagement-beng_936x426-669x272.jpg"
   },
   "immobilienwirtschaft-ba": {
     "title": "Immobilienwirtschaft",
@@ -251,7 +276,8 @@
     "short-description": "Im HAM-Bachelor Immobilienwirtschaft lernst du praxisnahes Fachwissen, um erfolgreich in der vielfältigen Immobilienbranche durchzustarten.",
     "long-description": "Du möchtest die Immobilienbranche von Grund auf verstehen und aktiv mitgestalten? Im Bachelor-Studiengang Immobilienwirtschaft an der HAM erhältst Du das nötige Fachwissen und praxisnahe Erfahrungen, um erfolgreich in der vielfältigen Welt der Immobilien zu starten.",
     "ects": 210,
-    "preset": "ba,201"
+    "preset": "ba,201",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-Immo-BA-1920x873px-669x272.jpg"
   },
   "digital-engineering-ba": {
     "title": "Digital Engineering",
@@ -260,7 +286,8 @@
     "short-description": "Simuliere autonome Fahrzeuge, nutze IoT und Data Science – und gestalte technologische Zukunft wie aus Science-Fiction.",
     "long-description": "Teste mit digitalen Zwillingen autonome Fahrzeuge, noch bevor sie gebaut sind, erwecke Maschinen zum Leben – mit dem Industrial Internet of Things – und entfessle Data Science für bahnbrechende Innovationen. Betritt eine Welt, die wie Science-Fiction anmutet.",
     "ects": 210,
-    "preset": "ba,190"
+    "preset": "ba,190",
+    "image": "https://www.fham.de/wp-content/uploads/2025/02/digital-engineering-bachelor-936x426px-669x272.jpg"
   },
   "elektrotechnik-und-gebaeudeautomation": {
     "title": "Elektrotechnik und Gebäudeautomation",
@@ -269,7 +296,8 @@
     "short-description": "Optimiere Gebäude mit smarter Technologie, steigere Energieeffizienz und gestalte eine komfortable, nachhaltige Zukunft in Smart Cities.",
     "long-description": "Steuere Gebäude intelligent, optimiere ihre Energieeffizienz und leiste deinen Beitrag zu einer Smart City - für eine Zukunft, in der Technologie und Komfort Hand in Hand gehen.",
     "ects": 210,
-    "preset": "ba,191"
+    "preset": "ba,191",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/elektrotechnik-gebeaudeautomation-beng_936x426-669x272.jpg"
   },
   "wirtschaftsingenieurwesen-ba": {
     "title": "Wirtschaftsingenieurwesen",
@@ -278,7 +306,8 @@
     "short-description": "Plane Rohstoffbeschaffung, löse globale Lieferengpässe und vernetze Maschinen per IoT – als Wirtschaftsingenieur der Zukunft.",
     "long-description": "Plane die Beschaffung von Rohstoffen und Komponenten, behebe Engpässe in globalen Lieferketten und lass Maschinen über das Internet der Dinge miteinander kommunizieren. Der beste Zeitpunkt, Wirtschaftsingenieur zu werden, ist immer jetzt.",
     "ects": 210,
-    "preset": "ba,170"
+    "preset": "ba,170",
+    "image": "https://www.fham.de/wp-content/uploads/2023/12/Wirtschaftsingenieurwesen-BEng_936x426-669x272.jpg"
   },
   "fashion-management-global-brands": {
     "title": "Fashion Management & Global Brands",
@@ -287,7 +316,8 @@
     "short-description": "Gründe dein Modelabel, vermarkte Kollektionen online und organisiere Fashion-Events – starte als kreativer Fashion Manager.",
     "long-description": "Kreiere dein eigenes Modelabel, vermarkte Modelinien mit der richtigen Online-Marketing-Strategie und organisiere Laufsteg-Events, die die Presse begeistern. Das ist deine Zukunft als Fashion Manager.",
     "ects": 210,
-    "preset": "ba,197"
+    "preset": "ba,197",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/fashion-936x426px-669x272.jpg"
   },
   "beauty-studies": {
     "title": "Beauty Studies",
@@ -296,7 +326,8 @@
     "short-description": "Gestalte Make-up-Looks, manage Beauty-Marken und schreibe Blogs – für eine Karriere voller Schönheit und Selbstbewusstsein.",
     "long-description": "Manage Beauty-Marken-Portfolios, gestalte professionelle Make-up-Looks oder verfasse spannende Blog-Artikel zum Thema Schönheit. Du gibst Menschen gerne das Gefühl schön und selbstbewusst zu sein? Dann ist das Dein Studiengang.",
     "ects": 210,
-    "preset": "ba,160"
+    "preset": "ba,160",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/mobile-beauty-studies-ba-936x426px-669x272.jpg"
   },
   "fashion-studies-luxury-brands": {
     "title": "Fashion Studies & Luxury Brands",
@@ -305,7 +336,8 @@
     "short-description": "Entwirf Traumkleider, schreibe für Modemagazine oder entwickle Markenstrategien – dein Einstieg in die Modebranche.",
     "long-description": "Entwerfe dein eigenes Traumkleid, verfasse journalistische Artikel für Modemagazine oder entwirf Marken-Strategien für Modelinien. Mit diesem Studium wirst du ganzheitlich ausgebildet und kannst verschiedene Modeberufe ergreifen.",
     "ects": 210,
-    "preset": "ba,163"
+    "preset": "ba,163",
+    "image": "https://www.fham.de/wp-content/uploads/2024/07/fashion-design-luxury-brands-936x426px-669x272.jpg"
   },
   "public-management": {
     "title": "Public Management",
@@ -314,7 +346,8 @@
     "short-description": "Modernisiere Verwaltungen, stärke Bürgerbeteiligung und baue Partnerschaften mit Wirtschaft und Wissenschaft als zukünftiger Public Manager auf.",
     "long-description": "Optimiere die Effizienz von öffentlichen Dienstleistungen, weite Bürgerbeteiligungen aus und etabliere wissenschaftliche und wirtschaftliche Partnerschaften mit Unternehmen und Institutionen. Als Public-Manager treibst du die Modernisierung der Verwaltung voran.",
     "ects": 210,
-    "preset": "ba,27"
+    "preset": "ba,27",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-PublicMgmt-BA-1920x873px-669x272.jpg"
   },
   "public-social-management": {
     "title": "Public Social Management",
@@ -323,7 +356,8 @@
     "short-description": "Gestalte Sozialpolitik aktiv mit, entwickle Programme, verhandle Pflegesätze und unterstütze Menschen mit Behinderung durch Eingliederungshilfen.",
     "long-description": "Entwickle soziale Dienstleistungen und Programme, verhandle Pflegesätze und arrangiere Eingliederungshilfen für Menschen mit Behinderung. Als Public-Social-Manager gestaltest du die Sozialpolitik aktiv mit.",
     "ects": 210,
-    "preset": "ba,112"
+    "preset": "ba,112",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-PSM-BA-1920x873px-669x272.jpg"
   },
   "wirtschaftsinformatik-soziale-sicherung": {
     "title": "Wirtschaftsinformatik Soziale Sicherung",
@@ -332,7 +366,8 @@
     "short-description": "Programmiere neue Funktionen, verwalte Datenbanken und betreue IT-Systeme für Behörden – schütze Bürger durch digitale Lösungen.",
     "long-description": "Betreue IT-Systeme, die von sozialen Sicherungsbehörden verwendet werden, kümmere dich um das Datenbankmanagement und program­miere neue Softwarefunktionen. Als Verwaltungsinformatiker der Sozialen Sicherung trägst du zur Absicherung der Bürger bei.",
     "ects": 210,
-    "preset": "ba,128"
+    "preset": "ba,128",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-SozSicherung-BSc-1920x873px-669x272.jpg"
   },
   "wirtschaftspsychologie-ba": {
     "title": "Wirtschaftspsychologie",
@@ -341,7 +376,8 @@
     "short-description": "Verstehe menschliche Motivation, begleite Wandel, entwickle Teams und nutze Psychologie für Werbung und unternehmerischen Erfolg.",
     "long-description": "Begleite Veränderungsprozesse, qualifiziere Mitarbeiter durch Personalentwicklung und nutze verhaltenspsychologische Techniken in der Werbung. Verstehe die Motivation der Menschen und schließe die Tür zum wirtschaftlichen Erfolg auf.",
     "ects": 210,
-    "preset": "ba,24"
+    "preset": "ba,24",
+    "image": "https://www.fham.de/wp-content/uploads/2024/07/mobile-wirtschaftspsychologie-ba-936x426px-669x272.jpg"
   },
   "psychologie-der-lebenswelten-ba": {
     "title": "Psychologie der Lebenswelten",
@@ -350,7 +386,8 @@
     "short-description": "Entschlüssle Dating, Konsumverhalten und Aktienpsychologie – Lebensweltpsychologie erklärt, wie Menschen fühlen, denken und handeln.",
     "long-description": "Erkunde die faszinierende Welt der Datingpsychologie, entschlüssle die Psychologie hinter Kaufentscheidungen und verstehe, warum Aktienmärkte manisch-depressiv reagieren ... und das ist nur ein Bruchteil dessen, was die Lebensweltpsychologie zu bieten hat.",
     "ects": 210,
-    "preset": "ba,115"
+    "preset": "ba,115",
+    "image": "https://www.fham.de/wp-content/uploads/2023/11/mobile-psychologie-in-den-lebenswelten-936x426px-669x272.jpg"
   },
   "digital-transformation-management": {
     "title": "Digital Transformation Management",
@@ -359,7 +396,8 @@
     "short-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
     "long-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
     "ects": 90,
-    "preset": "ma,205"
+    "preset": "ma,205",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/mobile-digital-transformation-management-ma-936x426t-669x272.jpg"
   },
   "human-resource-management": {
     "title": "Human Resource Management",
@@ -368,7 +406,8 @@
     "short-description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften.",
     "long-description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften.",
     "ects": 90,
-    "preset": "ma,206"
+    "preset": "ma,206",
+    "image": "https://www.fham.de/wp-content/uploads/2025/03/human-resource-management-936x426px-669x272.jpg"
   },
   "management-ma": {
     "title": "Management",
@@ -377,7 +416,8 @@
     "short-description": "Gestalte digitale Transformation, führe Teams modern und steigere den Unternehmenswert durch Analyse- und Managementkompetenz.",
     "long-description": "Gestalte digitale Transformation, stärke Teams mit modernem Leadership und steigere  Unternehmenswerte durch strategische Analysen und Managementkompetenz.",
     "ects": 90,
-    "preset": "ma,196"
+    "preset": "ma,196",
+    "image": "https://www.fham.de/wp-content/uploads/2025/03/management-master-936x426px-669x272.jpg"
   },
   "nachhaltigkeitsmanagement": {
     "title": "Nachhaltigkeitsmanagement",
@@ -386,7 +426,8 @@
     "short-description": "Werde Nachhaltigkeitsexperte: Optimiere Energieeffizienz, setze Technologien strategisch ein und gestalte zukunftsfähige Unternehmenslösungen.",
     "long-description": "Werde Nachhaltigkeitsexperte: Optimiere Energieeffizienz, setze Technologien strategisch ein und gestalte zukunftsfähige Unternehmenslösungen.",
     "ects": 90,
-    "preset": "ma,209"
+    "preset": "ma,209",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/nachhaltigkeitsmanagement-ma-meng-936x426px-669x272.jpg"
   },
   "social-media-und-online-marketing": {
     "title": "Social Media und Online Marketing",
@@ -395,7 +436,8 @@
     "short-description": "Positioniere dich als Digital-Marketing-Profi: entwickle innovative Strategien, nutze SEO, SEA & Social Media und analysiere messbare Erfolge.",
     "long-description": "Positioniere dich als Digital-Marketing-Profi: entwickle innovative Strategien, nutze SEO, SEA & Social Media und analysiere messbare Erfolge.",
     "ects": 90,
-    "preset": "ma,207"
+    "preset": "ma,207",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/Mobile-Social-Media-und-Online-Marketing-MA-936x426-1-669x272.jpg"
   },
   "computer-science": {
     "title": "Computer Science",
@@ -404,7 +446,8 @@
     "short-description": "Vertiefe dein KI-Wissen, entwickle smarte Softwarelösungen und werde Führungskraft in zukunftsweisenden Technologiebereichen.",
     "long-description": "Vertiefe dein KI-Know-how, entwickle innovative Softwarelösungen und qualifiziere dich für Führungsrollen in zukunftsweisenden Technologiefeldern.",
     "ects": 90,
-    "preset": "ma,183"
+    "preset": "ma,183",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/Mobile-Computer-Science-Master-936x426-1-669x272.jpg"
   },
   "cyber-security": {
     "title": "Cyber Security",
@@ -413,7 +456,8 @@
     "short-description": "Entdecke Cyberangriffe, schließe Sicherheitslücken und schütze digitale Systeme – als Experte für IT-Sicherheit und digitale Verteidigung.",
     "long-description": "Spüre als Spezialist für IT-Sicherheit und digitale Verteidigung Cyberangriffe auf, schließe Sicherheitslücken und schütze digitale Systeme effektiv vor Bedrohungen.",
     "ects": 90,
-    "preset": "ma,214"
+    "preset": "ma,214",
+    "image": "https://www.fham.de/wp-content/uploads/2024/11/cyber-security-ma-936x426px-669x272.jpg"
   },
   "digital-innovation": {
     "title": "Digital Innovation",
@@ -422,7 +466,8 @@
     "short-description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien.",
     "long-description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien.",
     "ects": 90,
-    "preset": "ma,193"
+    "preset": "ma,193",
+    "image": "https://www.fham.de/wp-content/uploads/2023/12/Digital-Innovation-MSc_936x426-669x272.jpg"
   },
   "wirtschaftsinformatik-ma": {
     "title": "Wirtschaftsinformatik",
@@ -431,7 +476,8 @@
     "short-description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen.",
     "long-description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen.",
     "ects": 90,
-    "preset": "ma,92"
+    "preset": "ma,92",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/wirtschaftsinformatik-msc-mobile-936x426px-669x272.jpg"
   },
   "digital-engineering-ma": {
     "title": "Digital Engineering",
@@ -440,7 +486,8 @@
     "short-description": "Gestalte intelligente Systeme, entwickle Innovationen für Industrie 4.0 und setze neue Maßstäbe in Medizintechnik und KI.",
     "long-description": "Gestalte intelligente Systeme, entwickle Innovationen für Industrie 4.0 und setze neue Maßstäbe in Medizintechnik und KI.",
     "ects": 90,
-    "preset": "ma,190"
+    "preset": "ma,190",
+    "image": "https://www.fham.de/wp-content/uploads/2024/10/digital-engineering-ma-936x426px-669x272.jpg"
   },
   "green-engineering": {
     "title": "Green Engineering",
@@ -449,7 +496,8 @@
     "short-description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft.",
     "long-description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft.",
     "ects": 90,
-    "preset": "ma,192"
+    "preset": "ma,192",
+    "image": "https://www.fham.de/wp-content/uploads/2025/02/green-engineering-meng-mobile-936x426px-669x272.jpg"
   },
   "wirtschaftsingenieurwesen-ma": {
     "title": "Wirtschaftsingenieurwesen",
@@ -458,7 +506,8 @@
     "short-description": "Gestalte effiziente Prozesse: Optimiere Lieferketten, entwickle nachhaltige Technologien und setze Lean-Management strategisch ein.",
     "long-description": "Gestalte effiziente Prozesse: Optimiere Lieferketten, entwickle nachhaltige Technologien und setze Lean-Management strategisch ein.",
     "ects": 90,
-    "preset": "ma,93"
+    "preset": "ma,93",
+    "image": "https://www.fham.de/wp-content/uploads/2023/06/1920x873px_WirtschaftsingenieurwesenMaster-669x272.jpg"
   },
   "gesunde-arbeit-employer-branding": {
     "title": "Gesunde Arbeit & Employer Branding",
@@ -467,7 +516,8 @@
     "short-description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen.",
     "long-description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen.",
     "ects": 90,
-    "preset": "ma,175"
+    "preset": "ma,175",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220203-HAM-Header-EBIK-MA-1920x873px-669x272.jpg"
   },
   "kriminalpsychologie": {
     "title": "Kriminalpsychologie",
@@ -476,7 +526,8 @@
     "short-description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen.",
     "long-description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen.",
     "ects": 90,
-    "preset": "ma,227"
+    "preset": "ma,227",
+    "image": "https://www.fham.de/wp-content/uploads/2025/03/mobile-kriminalpsychologie-msc-936x426px-669x272.jpg"
   },
   "psychologie-der-lebenswelten-ma": {
     "title": "Psychologie der Lebenswelten",
@@ -485,7 +536,8 @@
     "short-description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung.",
     "long-description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung.",
     "ects": 90,
-    "preset": "ma,155"
+    "preset": "ma,155",
+    "image": "https://www.fham.de/wp-content/uploads/2024/07/mobile-psychologie-der-lebenswelten-master-936x426px-669x272.jpg"
   },
   "wirtschaftspsychologie-ma": {
     "title": "Wirtschaftspsychologie",
@@ -494,7 +546,8 @@
     "short-description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll.",
     "long-description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll.",
     "ects": 90,
-    "preset": "ma,24"
+    "preset": "ma,24",
+    "image": "https://www.fham.de/wp-content/uploads/2024/07/wirtschaftspsychologie-master-1920x873px-669x272.jpg"
   },
   "fussballmanagement-ma": {
     "title": "Fußballmanagement",
@@ -503,7 +556,8 @@
     "short-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
     "long-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
     "ects": 90,
-    "preset": "ma,89"
+    "preset": "ma,89",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-FuMa-MA-1920x873px-1-669x272.jpg"
   },
   "sport-und-leistungspsychologie": {
     "title": "Sport- und Leistungspsychologie",
@@ -512,7 +566,8 @@
     "short-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
     "long-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
     "ects": 90,
-    "preset": "ma,137"
+    "preset": "ma,137",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-SportLeistung-MA-1920x873px-669x272.jpg"
   },
   "sportmanagement-ma": {
     "title": "Sportmanagement",
@@ -521,7 +576,8 @@
     "short-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
     "long-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
     "ects": 90,
-    "preset": "ma,23"
+    "preset": "ma,23",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220205-HAM-Header-Sport-Cluster-1920x873px-669x272.jpg"
   },
   "baumanagement-fuer-bauingenieure": {
     "title": "Baumanagement für Bauingenieure",
@@ -530,7 +586,8 @@
     "short-description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor.",
     "long-description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor.",
     "ects": 90,
-    "preset": "ma,111"
+    "preset": "ma,111",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/20252301-baumanagement-ma-936x426-1-669x272.jpg"
   },
   "immobilienwirtschaft-ma": {
     "title": "Immobilienwirtschaft",
@@ -539,7 +596,8 @@
     "short-description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft.",
     "long-description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft.",
     "ects": 90,
-    "preset": "ma,201"
+    "preset": "ma,201",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/immobilienwirtschaft-master_936x426-669x272.jpg"
   },
   "journalismus-ma": {
     "title": "Journalismus",
@@ -548,7 +606,8 @@
     "short-description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe.",
     "long-description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe.",
     "ects": 90,
-    "preset": "ma,142"
+    "preset": "ma,142",
+    "image": "https://www.fham.de/wp-content/uploads/2023/11/journalismus-master-936x426px-669x272.jpg"
   },
   "medienmanagement-ma": {
     "title": "Medienmanagement",
@@ -557,7 +616,8 @@
     "short-description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen.",
     "long-description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen.",
     "ects": 90,
-    "preset": "ma,225"
+    "preset": "ma,225",
+    "image": "https://www.fham.de/wp-content/uploads/2025/04/medienmanagement-master-mobile_936x426-669x272.jpg"
   },
   "creative-media-ma": {
     "title": "Creative Media",
@@ -566,7 +626,8 @@
     "short-description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien.",
     "long-description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien.",
     "ects": 90,
-    "preset": "ma,161"
+    "preset": "ma,161",
+    "image": "https://www.fham.de/wp-content/uploads/2025/02/creative-media-ma-mobile-936x426px-669x272.jpg"
   },
   "fashion-beauty": {
     "title": "Fashion & Beauty",
@@ -575,6 +636,7 @@
     "short-description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor.",
     "long-description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor.",
     "ects": 90,
-    "preset": "ma,198"
+    "preset": "ma,198",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/mobile-fashion-beauty-ma-936x426px-669x272.jpg"
   }
 }
