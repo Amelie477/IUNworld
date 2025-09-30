@@ -6,7 +6,8 @@
     "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "ects": 210,
-    "preset": "ba,117"
+    "preset": "ba,117",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportjournalismus-ba-mobile-936x426px-669x272.png"
   },
   "journalismus-ba": {
     "title": "Journalismus",
@@ -15,7 +16,8 @@
     "short-description": "Verfasse Artikel, berichte in Podcasts und kommentiere live – als Journalist prägst du die öffentliche Meinung mit.",
     "long-description": "Schreibe tiefgründige Artikel zu deinem Lieblingsressort, berichte in Podcasts und kommentiere live aus Brennpunkten. Als Journalist spielst du eine wichtige Rolle in der Gesellschaft, weil du zur öffentlichen Meinungsbildung beiträgst.",
     "ects": 210,
-    "preset": "ba,142"
+    "preset": "ba,142",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/mobile-journalismus-ba-936x426px-669x272.jpg"
   },
   "marketing-und-medienmanagement": {
     "title": "Marketing- und Medienmanagement",
