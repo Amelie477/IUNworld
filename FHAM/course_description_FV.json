@@ -1,0 +1,578 @@
+{
+  "sportjournalismus": {
+    "title": "Sportjournalismus",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
+    "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
+    "ects": 210,
+    "preset": "ba,117"
+  },
+  "journalismus-ba": {
+    "title": "Journalismus",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Verfasse Artikel, berichte in Podcasts und kommentiere live – als Journalist prägst du die öffentliche Meinung mit.",
+    "long-description": "Schreibe tiefgründige Artikel zu deinem Lieblingsressort, berichte in Podcasts und kommentiere live aus Brennpunkten. Als Journalist spielst du eine wichtige Rolle in der Gesellschaft, weil du zur öffentlichen Meinungsbildung beiträgst.",
+    "ects": 210,
+    "preset": "ba,142"
+  },
+  "marketing-und-medienmanagement": {
+    "title": "Marketing- und Medienmanagement",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Konzipiere Apps, entwickle Medienprodukte und plane Übertragungen – als Medienmanager wirst du branchenübergreifend gebraucht.",
+    "long-description": "Konzipiere und designe Apps, entwickle Geschäftsmodelle für digitale Medienprodukte und plane TV- und Video-Übertragungen. Als Medienmanager bist du überall gefragt, nicht nur in der Medienbranche.",
+    "ects": 210,
+    "preset": "ba,203"
+  },
+  "media-studies": {
+    "title": "Media Studies",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Entwickle Content-Strategien, gestalte PR-Kampagnen und lerne Medienmanagement – so navigierst du sicher durch die Medienwelt.",
+    "long-description": "Entwickle ausgeklügelte Content-Marketing-Strategien, gestalte wirkungsvolle PR-Kampagnen und beherrsche die Kunst des Medienmanagements. Diese breitgefächerte Ausbildung ermöglicht es dir, souverän durch die dynamische Medienlandschaft zu navigieren.",
+    "ects": 210,
+    "preset": "ba,164"
+  },
+  "medienmanagement-ba": {
+    "title": "Medienmanagement",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Entwickle Strategien, erzähle starke Geschichten und produziere Inhalte – Medienmanagement verbindet Kreativität mit Karrierechancen.",
+    "long-description": "Entwickle Geschäftsstrategien für Medienunternehmen, lerne die Kunst des Storytellings im Marketing und meistere multimediale Content-Produktion. Medienmanagement - dein kreativer Studiengang mit Manager-Gehalt.",
+    "ects": 210,
+    "preset": "ba,225"
+  },
+  "medienpsychologie": {
+    "title": "Medienpsychologie",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Analysiere Medienwirkungen, Stereotype und Manipulation – als Medienpsychologe verstehst du, wie Medien die Gesellschaft beeinflussen.",
+    "long-description": "Untersuche die Wirkung von Medien auf die öffentliche Meinung, auf die Bildung von Stereotypen und entdecke, wie sich Massen durch Manipulation bewegen lassen. Finde in unserer medienzentrierten Welt deine Berufung als Medienpsychologe.",
+    "ects": 210,
+    "preset": "ba,182"
+  },
+  "social-media-studies": {
+    "title": "Social Media Studies",
+    "degree": "BACHELOR",
+    "category": "Medien & Journalismus",
+    "short-description": "Erzähle bewegende Geschichten, baue Communities auf und stärke Marken – als Social Media Manager verbindest du Unternehmen mit ihrer Zielgruppe.",
+    "long-description": "Erzähle Geschichten, die Menschen bewegen, baue florierende Online Communities auf und etabliere deine Marke über soziale Netzwerke. Als Social Media Manager bildest du die Brücke zwischen Unternehmen und Zielgruppe.",
+    "ects": 210,
+    "preset": "ba,166"
+  },
+  "fussballmanagement-ba": {
+    "title": "Fußballmanagement",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Verpflichte Talente, entwickle Strategien und manage den Verein – als Fußball-Manager lebst du deinen Traum als Fan.",
+    "long-description": "Verpflichte Spieler, die Deinen Club an die Spitze führen, entwickle Nachwuchsleistungszentren und konzipiere durchdachte Merchandising-Strategien. Für einen Fußballfan gibt es keinen besseren Beruf als den des Fußball-Managers.",
+    "ects": 210,
+    "preset": "ba,89"
+  },
+  "esports-management": {
+    "title": "Esports Management",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Scoute Talente, analysiere Games und gewinne Sponsoren – als Esports Manager machst du Gaming zum Beruf.",
+    "long-description": "Scoute Talente, baue ein leistungsfähiges Esports-Team auf, teste und analysiere Games und ziehe lukrative Sponsoren an Land. Als Esports Manager verdienst Du Deinen Lebensunterhalt mit Gaming.",
+    "ects": 210,
+    "preset": "ba,99"
+  },
+  "outdoor-studies": {
+    "title": "Outdoor Studies",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
+    "long-description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager.",
+    "ects": 210,
+    "preset": "ba,157"
+  },
+  "sportmanagement-ba": {
+    "title": "Sportmanagement",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
+    "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
+    "ects": 210,
+    "preset": "ba,23"
+  },
+  "tennis-und-racketsport": {
+    "title": "Tennis- und Racketsport",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
+    "long-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
+    "ects": 210,
+    "preset": "ba,226"
+  },
+  "creative-media-ba": {
+    "title": "Creative Media",
+    "degree": "BACHELOR",
+    "category": "Creative",
+    "short-description": "Erschaffe Geschichten, nutze neue Medienformate und gestalte visuelle Erlebnisse – verwirkliche deine kreative Vision im Studium.",
+    "long-description": "Erschaffe fesselnde Geschichten, experimentiere mit innovativen Medienformaten und werde zum Architekten visueller Erlebnisse. Der Studiengang bietet dir die Plattform, deine künstlerischen Visionen in die Realität umzusetzen.",
+    "ects": 210,
+    "preset": "ba,161"
+  },
+  "design": {
+    "title": "Design",
+    "degree": "BACHELOR",
+    "category": "Creative",
+    "short-description": "Gestalte UX, Produkte oder Bewegtbild – als Designstudent bist du Visionär, Problemlöser und Trendsetter zugleich.",
+    "long-description": "Meistere UX Design im Web, entdecke die aufregende Welt des Industriedesigns oder werde zum Meister des Storytellings im Bewegtbild. Als Designstudent bist du mehr als nur ein Gestalter – du bist ein Visionär, ein Problemlöser, ein Trendsetter.",
+    "ects": 210,
+    "preset": "ba,162"
+  },
+  "eventmanagement": {
+    "title": "Eventmanagement",
+    "degree": "BACHELOR",
+    "category": "Creative",
+    "short-description": "Plane Events, schaffe Erlebnisse und manage Live-Shows – als Eventmanager gestaltest du unvergessliche Momente.",
+    "long-description": "Organisiere unvergessliche Events, kreiere einzigartige Erlebnisse für deine Zielgruppen und manage Live-Veranstaltungen von A bis Z. Als Eventmanager gestaltest du Momente, die in Erinnerung bleiben.",
+    "ects": 210,
+    "preset": "ba,154"
+  },
+  "film-videoproduktion-ba": {
+    "title": "Film- & Videoproduktion",
+    "degree": "BACHELOR",
+    "category": "Creative",
+    "short-description": "Erzähle Geschichten, inszeniere Bilder und präge Filmsprache – als Filmemacher erschaffst du bewegende audiovisuelle Welten.",
+    "long-description": "Erwecke Geschichten zum Leben, setze Bilder in Szene und werde zum Meister der Filmsprache. Als Filmemacher gestaltest du audiovisuelle Welten, die berühren, begeistern und bewegen.",
+    "ects": 210,
+    "preset": "ba,189"
+  },
+  "musikproduktion": {
+    "title": "Musikproduktion",
+    "degree": "BACHELOR",
+    "category": "Creative",
+    "short-description": "Kreiere Melodien, forme Klangwelten und präge den Sound von morgen – im Musikstudium wirst du zum Klanggestalter.",
+    "long-description": "Erwecke einzigartige Melodien zum Leben, experimentiere mit Klängen und gestalte die auditive Landschaft nach deinen Vorstellungen. Mit diesem Studium wirst du nicht nur Teil der Musikwelt, sondern zum Schöpfer innovativer Klanglandschaften.",
+    "ects": 210,
+    "preset": "ba,165"
+  },
+  "game-design": {
+    "title": "Game Design",
+    "degree": "BACHELOR",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Entwirf Spielwelten, erwecke Charaktere zum Leben und entwickle innovative Mechaniken – als Game Designer gestaltest du digitale Abenteuer.",
+    "long-description": "Entwirf fesselnde Spielwelten, erwecke einzigartige Charaktere zum Leben und programmiere innovative Spielmechaniken. Werde zum Architekten digitaler Abenteuer und lass deine Kreativität in Pixeln erstrahlen.",
+    "ects": 210,
+    "preset": "ba,150"
+  },
+  "software-design-und-user-experience": {
+    "title": "Software Design und User Experience",
+    "degree": "BACHELOR",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Konzipiere UI, verbinde Technik mit Design und beherrsche Frontend – als UX Designer bist du heute stark gefragt.",
+    "long-description": "Konzipiere intuitive Benutzeroberflächen, verbinde technische Innovation mit kreativem Design und meistere die Frontend-Programmierung. Als User Experience Designer zählst du zu den begehrtesten Fachexperten unserer Zeit.",
+    "ects": 210,
+    "preset": "ba,184"
+  },
+  "software-development": {
+    "title": "Software Development",
+    "degree": "BACHELOR",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Programmiere KI-Systeme, sichere IT-Infrastrukturen und entwickle UX-Prototypen – deine Software treibt Prozesse und Produkte voran.",
+    "long-description": "Programmiere neuronale Netze zur Bilderkennung, schütze IT-Systeme vor Hackerangriffen und nutze UX-Design, um interaktive Prototypen von Mobile-Apps zu konzipieren. Deine Software ist das digitale Rückgrat von Prozessen und das Herz von Produkten.",
+    "ects": 210,
+    "preset": "ba,181"
+  },
+  "wirtschaftsinformatik-ba": {
+    "title": "Wirtschaftsinformatik",
+    "degree": "BACHELOR",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Analysiere Prozesse, implementiere IT-Lösungen und manage Wissen – als Wirtschaftsinformatiker verbindest du Technik, Business und Menschen.",
+    "long-description": "Analysiere und optimiere Geschäftsprozesse, führe moderne Datenverarbeitungssysteme ein und kümmere dich um das betriebsinterne Wissensmanagement. Als Wirtschaftsinformatiker bist du das Bindeglied zwischen System, Business und Mensch.",
+    "ects": 210,
+    "preset": "ba,128"
+  },
+  "digital-entrepreneurship": {
+    "title": "Digital Entrepreneurship",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Entwickle E-Commerce-Modelle, begleite Startups und gestalte Produkte – mit diesem Bachelor denkst du Unternehmertum neu.",
+    "long-description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung.",
+    "ects": 210,
+    "preset": "ba,194"
+  },
+  "handelsmanagement-und-e-commerce-ba": {
+    "title": "Handelsmanagement und E-Commerce",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Verbessere die UX von Shops, manage Logistik und verkaufe online – E-Commerce bringt täglich neue Herausforderungen mit sich.",
+    "long-description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit.",
+    "ects": 210,
+    "preset": "ba,199"
+  },
+  "innovatives-b2b-management-im-gross-und-aussenhandel": {
+    "title": "Innovatives B2B Management im Groß- und Außenhandel",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier.",
+    "long-description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!",
+    "ects": 210,
+    "preset": "ba,224"
+  },
+  "management-ba": {
+    "title": "Management",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Positioniere Marken, digitalisiere Prozesse und berechne Unternehmenswerte – mit einem Management-Studium sicherst du deine Karriere ab.",
+    "long-description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite.",
+    "ects": 210,
+    "preset": "ba,196"
+  },
+  "baumanagement-ba": {
+    "title": "Baumanagement B.A.",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Lerne Management mit Fokus auf Bauwirtschaft – für beste Karrierechancen in einer zukunftssicheren Branche.",
+    "long-description": "Dieser Studiengang vermittelt allgemeines und speziell auf die Baubranche ausgerichtetes Know How im Management. Absolventen eröffnen sich damit beste berufliche Perspektiven in der Baubranche.",
+    "ects": 210,
+    "preset": "ba,156"
+  },
+  "baumanagement-bsc": {
+    "title": "Baumanagement B.Sc.",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Mit diesem Bachelor kombinierst du Ingenieurwissen und Management-Kompetenz – für deinen erfolgreichen Einstieg in die Bauwirtschaft.",
+    "long-description": "Top-Jobs in der Bauwirtschaft – mit diesem Bachelor of Engineering kein Problem! Verschmelze Ingenieurskunst mit fundiertem Management Know-how und sicher dir deine Führungsposition in einer Prestigebranche.",
+    "ects": 210,
+    "preset": "ba,169"
+  },
+  "immobilienwirtschaft-ba": {
+    "title": "Immobilienwirtschaft",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Im HAM-Bachelor Immobilienwirtschaft lernst du praxisnahes Fachwissen, um erfolgreich in der vielfältigen Immobilienbranche durchzustarten.",
+    "long-description": "Du möchtest die Immobilienbranche von Grund auf verstehen und aktiv mitgestalten? Im Bachelor-Studiengang Immobilienwirtschaft an der HAM erhältst Du das nötige Fachwissen und praxisnahe Erfahrungen, um erfolgreich in der vielfältigen Welt der Immobilien zu starten.",
+    "ects": 210,
+    "preset": "ba,201"
+  },
+  "digital-engineering-ba": {
+    "title": "Digital Engineering",
+    "degree": "BACHELOR",
+    "category": "Engineering",
+    "short-description": "Simuliere autonome Fahrzeuge, nutze IoT und Data Science – und gestalte technologische Zukunft wie aus Science-Fiction.",
+    "long-description": "Teste mit digitalen Zwillingen autonome Fahrzeuge, noch bevor sie gebaut sind, erwecke Maschinen zum Leben – mit dem Industrial Internet of Things – und entfessle Data Science für bahnbrechende Innovationen. Betritt eine Welt, die wie Science-Fiction anmutet.",
+    "ects": 210,
+    "preset": "ba,190"
+  },
+  "elektrotechnik-und-gebaeudeautomation": {
+    "title": "Elektrotechnik und Gebäudeautomation",
+    "degree": "BACHELOR",
+    "category": "Engineering",
+    "short-description": "Optimiere Gebäude mit smarter Technologie, steigere Energieeffizienz und gestalte eine komfortable, nachhaltige Zukunft in Smart Cities.",
+    "long-description": "Steuere Gebäude intelligent, optimiere ihre Energieeffizienz und leiste deinen Beitrag zu einer Smart City - für eine Zukunft, in der Technologie und Komfort Hand in Hand gehen.",
+    "ects": 210,
+    "preset": "ba,191"
+  },
+  "wirtschaftsingenieurwesen-ba": {
+    "title": "Wirtschaftsingenieurwesen",
+    "degree": "BACHELOR",
+    "category": "Engineering",
+    "short-description": "Plane Rohstoffbeschaffung, löse globale Lieferengpässe und vernetze Maschinen per IoT – als Wirtschaftsingenieur der Zukunft.",
+    "long-description": "Plane die Beschaffung von Rohstoffen und Komponenten, behebe Engpässe in globalen Lieferketten und lass Maschinen über das Internet der Dinge miteinander kommunizieren. Der beste Zeitpunkt, Wirtschaftsingenieur zu werden, ist immer jetzt.",
+    "ects": 210,
+    "preset": "ba,170"
+  },
+  "fashion-management-global-brands": {
+    "title": "Fashion Management & Global Brands",
+    "degree": "BACHELOR",
+    "category": "Fashion & Beauty",
+    "short-description": "Gründe dein Modelabel, vermarkte Kollektionen online und organisiere Fashion-Events – starte als kreativer Fashion Manager.",
+    "long-description": "Kreiere dein eigenes Modelabel, vermarkte Modelinien mit der richtigen Online-Marketing-Strategie und organisiere Laufsteg-Events, die die Presse begeistern. Das ist deine Zukunft als Fashion Manager.",
+    "ects": 210,
+    "preset": "ba,197"
+  },
+  "beauty-studies": {
+    "title": "Beauty Studies",
+    "degree": "BACHELOR",
+    "category": "Fashion & Beauty",
+    "short-description": "Gestalte Make-up-Looks, manage Beauty-Marken und schreibe Blogs – für eine Karriere voller Schönheit und Selbstbewusstsein.",
+    "long-description": "Manage Beauty-Marken-Portfolios, gestalte professionelle Make-up-Looks oder verfasse spannende Blog-Artikel zum Thema Schönheit. Du gibst Menschen gerne das Gefühl schön und selbstbewusst zu sein? Dann ist das Dein Studiengang.",
+    "ects": 210,
+    "preset": "ba,160"
+  },
+  "fashion-studies-luxury-brands": {
+    "title": "Fashion Studies & Luxury Brands",
+    "degree": "BACHELOR",
+    "category": "Fashion & Beauty",
+    "short-description": "Entwirf Traumkleider, schreibe für Modemagazine oder entwickle Markenstrategien – dein Einstieg in die Modebranche.",
+    "long-description": "Entwerfe dein eigenes Traumkleid, verfasse journalistische Artikel für Modemagazine oder entwirf Marken-Strategien für Modelinien. Mit diesem Studium wirst du ganzheitlich ausgebildet und kannst verschiedene Modeberufe ergreifen.",
+    "ects": 210,
+    "preset": "ba,163"
+  },
+  "public-management": {
+    "title": "Public Management",
+    "degree": "BACHELOR",
+    "category": "Öffentliche Verwaltung",
+    "short-description": "Modernisiere Verwaltungen, stärke Bürgerbeteiligung und baue Partnerschaften mit Wirtschaft und Wissenschaft als zukünftiger Public Manager auf.",
+    "long-description": "Optimiere die Effizienz von öffentlichen Dienstleistungen, weite Bürgerbeteiligungen aus und etabliere wissenschaftliche und wirtschaftliche Partnerschaften mit Unternehmen und Institutionen. Als Public-Manager treibst du die Modernisierung der Verwaltung voran.",
+    "ects": 210,
+    "preset": "ba,27"
+  },
+  "public-social-management": {
+    "title": "Public Social Management",
+    "degree": "BACHELOR",
+    "category": "Öffentliche Verwaltung",
+    "short-description": "Gestalte Sozialpolitik aktiv mit, entwickle Programme, verhandle Pflegesätze und unterstütze Menschen mit Behinderung durch Eingliederungshilfen.",
+    "long-description": "Entwickle soziale Dienstleistungen und Programme, verhandle Pflegesätze und arrangiere Eingliederungshilfen für Menschen mit Behinderung. Als Public-Social-Manager gestaltest du die Sozialpolitik aktiv mit.",
+    "ects": 210,
+    "preset": "ba,112"
+  },
+  "wirtschaftsinformatik-soziale-sicherung": {
+    "title": "Wirtschaftsinformatik Soziale Sicherung",
+    "degree": "BACHELOR",
+    "category": "Öffentliche Verwaltung",
+    "short-description": "Programmiere neue Funktionen, verwalte Datenbanken und betreue IT-Systeme für Behörden – schütze Bürger durch digitale Lösungen.",
+    "long-description": "Betreue IT-Systeme, die von sozialen Sicherungsbehörden verwendet werden, kümmere dich um das Datenbankmanagement und program­miere neue Softwarefunktionen. Als Verwaltungsinformatiker der Sozialen Sicherung trägst du zur Absicherung der Bürger bei.",
+    "ects": 210,
+    "preset": "ba,128"
+  },
+  "wirtschaftspsychologie-ba": {
+    "title": "Wirtschaftspsychologie",
+    "degree": "BACHELOR",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Verstehe menschliche Motivation, begleite Wandel, entwickle Teams und nutze Psychologie für Werbung und unternehmerischen Erfolg.",
+    "long-description": "Begleite Veränderungsprozesse, qualifiziere Mitarbeiter durch Personalentwicklung und nutze verhaltenspsychologische Techniken in der Werbung. Verstehe die Motivation der Menschen und schließe die Tür zum wirtschaftlichen Erfolg auf.",
+    "ects": 210,
+    "preset": "ba,24"
+  },
+  "psychologie-der-lebenswelten-ba": {
+    "title": "Psychologie der Lebenswelten",
+    "degree": "BACHELOR",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Entschlüssle Dating, Konsumverhalten und Aktienpsychologie – Lebensweltpsychologie erklärt, wie Menschen fühlen, denken und handeln.",
+    "long-description": "Erkunde die faszinierende Welt der Datingpsychologie, entschlüssle die Psychologie hinter Kaufentscheidungen und verstehe, warum Aktienmärkte manisch-depressiv reagieren ... und das ist nur ein Bruchteil dessen, was die Lebensweltpsychologie zu bieten hat.",
+    "ects": 210,
+    "preset": "ba,115"
+  },
+  "digital-transformation-management": {
+    "title": "Digital Transformation Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "short-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
+    "long-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
+    "ects": 90,
+    "preset": "ma,205"
+  },
+  "human-resource-management": {
+    "title": "Human Resource Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "short-description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften.",
+    "long-description": "Positioniere dein Unternehmen als attraktiven Arbeitgeber und entwickle Talente mit flexiblen Arbeitsmodellen zu Führungskräften.",
+    "ects": 90,
+    "preset": "ma,206"
+  },
+  "management-ma": {
+    "title": "Management",
+    "degree": "MASTER",
+    "category": "Management",
+    "short-description": "Gestalte digitale Transformation, führe Teams modern und steigere den Unternehmenswert durch Analyse- und Managementkompetenz.",
+    "long-description": "Gestalte digitale Transformation, stärke Teams mit modernem Leadership und steigere  Unternehmenswerte durch strategische Analysen und Managementkompetenz.",
+    "ects": 90,
+    "preset": "ma,196"
+  },
+  "nachhaltigkeitsmanagement": {
+    "title": "Nachhaltigkeitsmanagement",
+    "degree": "MASTER",
+    "category": "Management",
+    "short-description": "Werde Nachhaltigkeitsexperte: Optimiere Energieeffizienz, setze Technologien strategisch ein und gestalte zukunftsfähige Unternehmenslösungen.",
+    "long-description": "Werde Nachhaltigkeitsexperte: Optimiere Energieeffizienz, setze Technologien strategisch ein und gestalte zukunftsfähige Unternehmenslösungen.",
+    "ects": 90,
+    "preset": "ma,209"
+  },
+  "social-media-und-online-marketing": {
+    "title": "Social Media und Online Marketing",
+    "degree": "MASTER",
+    "category": "Management",
+    "short-description": "Positioniere dich als Digital-Marketing-Profi: entwickle innovative Strategien, nutze SEO, SEA & Social Media und analysiere messbare Erfolge.",
+    "long-description": "Positioniere dich als Digital-Marketing-Profi: entwickle innovative Strategien, nutze SEO, SEA & Social Media und analysiere messbare Erfolge.",
+    "ects": 90,
+    "preset": "ma,207"
+  },
+  "computer-science": {
+    "title": "Computer Science",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Vertiefe dein KI-Wissen, entwickle smarte Softwarelösungen und werde Führungskraft in zukunftsweisenden Technologiebereichen.",
+    "long-description": "Vertiefe dein KI-Know-how, entwickle innovative Softwarelösungen und qualifiziere dich für Führungsrollen in zukunftsweisenden Technologiefeldern.",
+    "ects": 90,
+    "preset": "ma,183"
+  },
+  "cyber-security": {
+    "title": "Cyber Security",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Entdecke Cyberangriffe, schließe Sicherheitslücken und schütze digitale Systeme – als Experte für IT-Sicherheit und digitale Verteidigung.",
+    "long-description": "Spüre als Spezialist für IT-Sicherheit und digitale Verteidigung Cyberangriffe auf, schließe Sicherheitslücken und schütze digitale Systeme effektiv vor Bedrohungen.",
+    "ects": 90,
+    "preset": "ma,214"
+  },
+  "digital-innovation": {
+    "title": "Digital Innovation",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien.",
+    "long-description": "Entwickle KI-basierte Apps, gestalte die Mobilität von morgen und bringe Big Data in innovative Industrien.",
+    "ects": 90,
+    "preset": "ma,193"
+  },
+  "wirtschaftsinformatik-ma": {
+    "title": "Wirtschaftsinformatik",
+    "degree": "MASTER",
+    "category": "Digitalisierung, IT & Software",
+    "short-description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen.",
+    "long-description": "Übernimm Verantwortung in der IT: Leite komplexe Projekte, entwickle Datenbanken und programmiere Tools für datenbasierte Entscheidungen.",
+    "ects": 90,
+    "preset": "ma,92"
+  },
+  "digital-engineering-ma": {
+    "title": "Digital Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "short-description": "Gestalte intelligente Systeme, entwickle Innovationen für Industrie 4.0 und setze neue Maßstäbe in Medizintechnik und KI.",
+    "long-description": "Gestalte intelligente Systeme, entwickle Innovationen für Industrie 4.0 und setze neue Maßstäbe in Medizintechnik und KI.",
+    "ects": 90,
+    "preset": "ma,190"
+  },
+  "green-engineering": {
+    "title": "Green Engineering",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "short-description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft.",
+    "long-description": "Werde zum Experten in der Umwelttechnik und Betriebswirtschaft, entwickle nachhaltige Lösungen für Unternehmen und gestalte eine umweltfreundliche Zukunft.",
+    "ects": 90,
+    "preset": "ma,192"
+  },
+  "wirtschaftsingenieurwesen-ma": {
+    "title": "Wirtschaftsingenieurwesen",
+    "degree": "MASTER",
+    "category": "Engineering",
+    "short-description": "Gestalte effiziente Prozesse: Optimiere Lieferketten, entwickle nachhaltige Technologien und setze Lean-Management strategisch ein.",
+    "long-description": "Gestalte effiziente Prozesse: Optimiere Lieferketten, entwickle nachhaltige Technologien und setze Lean-Management strategisch ein.",
+    "ects": 90,
+    "preset": "ma,93"
+  },
+  "gesunde-arbeit-employer-branding": {
+    "title": "Gesunde Arbeit & Employer Branding",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen.",
+    "long-description": "Gestalte mit Wirtschaftswissen und Psychologie die Zukunft erfolgreicher Unternehmen und entwickle die Zukunft von hybriden Arbeitsweisen.",
+    "ects": 90,
+    "preset": "ma,175"
+  },
+  "kriminalpsychologie": {
+    "title": "Kriminalpsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen.",
+    "long-description": "Analysiere Täterprofile, erkenne psychologische Muster und trage dazu bei, Verbrechen aufzuklären und Sicherheit zu schaffen.",
+    "ects": 90,
+    "preset": "ma,227"
+  },
+  "psychologie-der-lebenswelten-ma": {
+    "title": "Psychologie der Lebenswelten",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung.",
+    "long-description": "Begleite Menschen in Veränderungsprozessen, fördere mentale Gesundheit und wirke in Beratung, Bildung oder Forschung.",
+    "ects": 90,
+    "preset": "ma,155"
+  },
+  "wirtschaftspsychologie-ma": {
+    "title": "Wirtschaftspsychologie",
+    "degree": "MASTER",
+    "category": "Wirtschaftspsychologie",
+    "short-description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll.",
+    "long-description": "Bewege Menschen und Marken: Stärke Unternehmenskulturen, besetze Schlüsselpositionen und berate Führungskräfte wirkungsvoll.",
+    "ects": 90,
+    "preset": "ma,24"
+  },
+  "fussballmanagement-ma": {
+    "title": "Fußballmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
+    "long-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
+    "ects": 90,
+    "preset": "ma,89"
+  },
+  "sport-und-leistungspsychologie": {
+    "title": "Sport- und Leistungspsychologie",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
+    "long-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
+    "ects": 90,
+    "preset": "ma,137"
+  },
+  "sportmanagement-ma": {
+    "title": "Sportmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
+    "long-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
+    "ects": 90,
+    "preset": "ma,23"
+  },
+  "baumanagement-fuer-bauingenieure": {
+    "title": "Baumanagement für Bauingenieure",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "short-description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor.",
+    "long-description": "Baue als Bauingenieur oder Architekt, deine Managementkompetenzen auf und bereite dich gezielt auf anspruchsvolle Führungsaufgaben vor.",
+    "ects": 90,
+    "preset": "ma,111"
+  },
+  "immobilienwirtschaft-ma": {
+    "title": "Immobilienwirtschaft",
+    "degree": "MASTER",
+    "category": "Bau & Immobilien",
+    "short-description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft.",
+    "long-description": "Vertiefe dein Fachwissen und qualifiziere dich für Führungsrollen – mit einem praxisnahen Master in der Immobilienwirtschaft.",
+    "ects": 90,
+    "preset": "ma,201"
+  },
+  "journalismus-ma": {
+    "title": "Journalismus",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "short-description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe.",
+    "long-description": "Nutze KI und Daten, um Inhalte neu zu denken – und gestalte die Zukunft des digitalen Storytellings mit journalistischer Tiefe.",
+    "ects": 90,
+    "preset": "ma,142"
+  },
+  "medienmanagement-ma": {
+    "title": "Medienmanagement",
+    "degree": "MASTER",
+    "category": "Medien & Journalismus",
+    "short-description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen.",
+    "long-description": "Gestalte die Medienzukunft: Nutze strategisches Marketing, Big Data und leite souverän große Medienproduktionen.",
+    "ects": 90,
+    "preset": "ma,225"
+  },
+  "creative-media-ma": {
+    "title": "Creative Media",
+    "degree": "MASTER",
+    "category": "Creative",
+    "short-description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien.",
+    "long-description": "Gestalte digitale Welten mit CGI, UX-Design und XR – und werde zum kreativen Content Creator für Zukunftstechnologien.",
+    "ects": 90,
+    "preset": "ma,161"
+  },
+  "fashion-beauty": {
+    "title": "Fashion & Beauty",
+    "degree": "MASTER",
+    "category": "Fashion & Beauty",
+    "short-description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor.",
+    "long-description": "Gestalte die Zukunft der Fashion- und Beautybranche aktiv mit und bereite dich mit deinem Masterabschluss auf führende Positionen vor.",
+    "ects": 90,
+    "preset": "ma,198"
+  }
+}
