@@ -389,6 +389,36 @@
     "preset": "ba,115",
     "image": "https://www.fham.de/wp-content/uploads/2023/11/mobile-psychologie-in-den-lebenswelten-936x426px-669x272.jpg"
   },
+    "fussballmanagement-ma": {
+    "title": "Fußballmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
+    "long-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
+    "ects": 90,
+    "preset": "ma,89",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-FuMa-MA-1920x873px-1-669x272.jpg"
+  },
+  "sport-und-leistungspsychologie": {
+    "title": "Sport- und Leistungspsychologie",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
+    "long-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
+    "ects": 90,
+    "preset": "ma,137",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-SportLeistung-MA-1920x873px-669x272.jpg"
+  },
+  "sportmanagement-ma": {
+    "title": "Sportmanagement",
+    "degree": "MASTER",
+    "category": "Sport",
+    "short-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
+    "long-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
+    "ects": 90,
+    "preset": "ma,23",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220205-HAM-Header-Sport-Cluster-1920x873px-669x272.jpg"
+  },
   "digital-transformation-management": {
     "title": "Digital Transformation Management",
     "degree": "MASTER",
@@ -548,36 +578,6 @@
     "ects": 90,
     "preset": "ma,24",
     "image": "https://www.fham.de/wp-content/uploads/2024/07/wirtschaftspsychologie-master-1920x873px-669x272.jpg"
-  },
-  "fussballmanagement-ma": {
-    "title": "Fußballmanagement",
-    "degree": "MASTER",
-    "category": "Sport",
-    "short-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
-    "long-description": "Vertiefe deine Kenntnisse im Fußballmanagement und übernimm eine leitende Position in der internationalen Führungs- und Managementebene.",
-    "ects": 90,
-    "preset": "ma,89",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-FuMa-MA-1920x873px-1-669x272.jpg"
-  },
-  "sport-und-leistungspsychologie": {
-    "title": "Sport- und Leistungspsychologie",
-    "degree": "MASTER",
-    "category": "Sport",
-    "short-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
-    "long-description": "Stärke mentale Leistungen im Sport: Trainiere Fokus, baue Resilienz auf und begleite Teams und Athleten zum Erfolg.",
-    "ects": 90,
-    "preset": "ma,137",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-SportLeistung-MA-1920x873px-669x272.jpg"
-  },
-  "sportmanagement-ma": {
-    "title": "Sportmanagement",
-    "degree": "MASTER",
-    "category": "Sport",
-    "short-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
-    "long-description": "Gestalte den Sport von morgen: Entwickle regionale Konzepte, manage Sportstätten und stärke Athleten durch digitales Marketing.",
-    "ects": 90,
-    "preset": "ma,23",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220205-HAM-Header-Sport-Cluster-1920x873px-669x272.jpg"
   },
   "baumanagement-fuer-bauingenieure": {
     "title": "Baumanagement für Bauingenieure",
