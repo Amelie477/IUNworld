@@ -99,6 +99,36 @@
     "preset": "ba,196",
     "image": "https://www.fham.de/wp-content/uploads/2024/08/management-ba-mobile-936x426px-669x272.png"
   },
+    "baumanagement-ba": {
+    "title": "Baumanagement B.A.",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Lerne Management mit Fokus auf Bauwirtschaft – für beste Karrierechancen in einer zukunftssicheren Branche.",
+    "long-description": "Dieser Studiengang vermittelt allgemeines und speziell auf die Baubranche ausgerichtetes Know How im Management. Absolventen eröffnen sich damit beste berufliche Perspektiven in der Baubranche.",
+    "ects": 210,
+    "preset": "ba,156",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/baumanagement-936x426px-669x272.jpg"
+  },
+  "baumanagement-bsc": {
+    "title": "Baumanagement B.Sc.",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Mit diesem Bachelor kombinierst du Ingenieurwissen und Management-Kompetenz – für deinen erfolgreichen Einstieg in die Bauwirtschaft.",
+    "long-description": "Top-Jobs in der Bauwirtschaft – mit diesem Bachelor of Engineering kein Problem! Verschmelze Ingenieurskunst mit fundiertem Management Know-how und sicher dir deine Führungsposition in einer Prestigebranche.",
+    "ects": 210,
+    "preset": "ba,169",
+    "image": "https://www.fham.de/wp-content/uploads/2023/11/wirtschaftsingenieurwesen-baumanagement-beng_936x426-669x272.jpg"
+  },
+  "immobilienwirtschaft-ba": {
+    "title": "Immobilienwirtschaft",
+    "degree": "BACHELOR",
+    "category": "Bau & Immobilien",
+    "short-description": "Im HAM-Bachelor Immobilienwirtschaft lernst du praxisnahes Fachwissen, um erfolgreich in der vielfältigen Immobilienbranche durchzustarten.",
+    "long-description": "Du möchtest die Immobilienbranche von Grund auf verstehen und aktiv mitgestalten? Im Bachelor-Studiengang Immobilienwirtschaft an der HAM erhältst Du das nötige Fachwissen und praxisnahe Erfahrungen, um erfolgreich in der vielfältigen Welt der Immobilien zu starten.",
+    "ects": 210,
+    "preset": "ba,201",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-Immo-BA-1920x873px-669x272.jpg"
+  },
   "journalismus-ba": {
     "title": "Journalismus",
     "degree": "BACHELOR",
@@ -248,36 +278,6 @@
     "ects": 210,
     "preset": "ba,128",
     "image": "https://www.fham.de/wp-content/uploads/2023/12/Computer-Science-MSc_936x426-669x272.jpg"
-  },
-  "baumanagement-ba": {
-    "title": "Baumanagement B.A.",
-    "degree": "BACHELOR",
-    "category": "Bau & Immobilien",
-    "short-description": "Lerne Management mit Fokus auf Bauwirtschaft – für beste Karrierechancen in einer zukunftssicheren Branche.",
-    "long-description": "Dieser Studiengang vermittelt allgemeines und speziell auf die Baubranche ausgerichtetes Know How im Management. Absolventen eröffnen sich damit beste berufliche Perspektiven in der Baubranche.",
-    "ects": 210,
-    "preset": "ba,156",
-    "image": "https://www.fham.de/wp-content/uploads/2025/01/baumanagement-936x426px-669x272.jpg"
-  },
-  "baumanagement-bsc": {
-    "title": "Baumanagement B.Sc.",
-    "degree": "BACHELOR",
-    "category": "Bau & Immobilien",
-    "short-description": "Mit diesem Bachelor kombinierst du Ingenieurwissen und Management-Kompetenz – für deinen erfolgreichen Einstieg in die Bauwirtschaft.",
-    "long-description": "Top-Jobs in der Bauwirtschaft – mit diesem Bachelor of Engineering kein Problem! Verschmelze Ingenieurskunst mit fundiertem Management Know-how und sicher dir deine Führungsposition in einer Prestigebranche.",
-    "ects": 210,
-    "preset": "ba,169",
-    "image": "https://www.fham.de/wp-content/uploads/2023/11/wirtschaftsingenieurwesen-baumanagement-beng_936x426-669x272.jpg"
-  },
-  "immobilienwirtschaft-ba": {
-    "title": "Immobilienwirtschaft",
-    "degree": "BACHELOR",
-    "category": "Bau & Immobilien",
-    "short-description": "Im HAM-Bachelor Immobilienwirtschaft lernst du praxisnahes Fachwissen, um erfolgreich in der vielfältigen Immobilienbranche durchzustarten.",
-    "long-description": "Du möchtest die Immobilienbranche von Grund auf verstehen und aktiv mitgestalten? Im Bachelor-Studiengang Immobilienwirtschaft an der HAM erhältst Du das nötige Fachwissen und praxisnahe Erfahrungen, um erfolgreich in der vielfältigen Welt der Immobilien zu starten.",
-    "ects": 210,
-    "preset": "ba,201",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220512-HAM-Header-Immo-BA-1920x873px-669x272.jpg"
   },
   "digital-engineering-ba": {
     "title": "Digital Engineering",
