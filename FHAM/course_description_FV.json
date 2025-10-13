@@ -2,12 +2,102 @@
   "sportjournalismus": {
     "title": "Sportjournalismus",
     "degree": "BACHELOR",
-    "category": ["Medien & Journalismus", "Sport"],
+    "category": ["Sport","Medien & Journalismus"],
     "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
     "ects": 210,
     "preset": "ba,117",
     "image": "https://www.fham.de/wp-content/uploads/2024/08/sportjournalismus-ba-mobile-936x426px-669x272.png"
+  },
+    "fussballmanagement-ba": {
+    "title": "Fußballmanagement",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Verpflichte Talente, entwickle Strategien und manage den Verein – als Fußball-Manager lebst du deinen Traum als Fan.",
+    "long-description": "Verpflichte Spieler, die Deinen Club an die Spitze führen, entwickle Nachwuchsleistungszentren und konzipiere durchdachte Merchandising-Strategien. Für einen Fußballfan gibt es keinen besseren Beruf als den des Fußball-Managers.",
+    "ects": 210,
+    "preset": "ba,89",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/fussballmanagement-ba-mobile-936x426px-669x272.png"
+  },
+  "esports-management": {
+    "title": "Esports Management",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Scoute Talente, analysiere Games und gewinne Sponsoren – als Esports Manager machst du Gaming zum Beruf.",
+    "long-description": "Scoute Talente, baue ein leistungsfähiges Esports-Team auf, teste und analysiere Games und ziehe lukrative Sponsoren an Land. Als Esports Manager verdienst Du Deinen Lebensunterhalt mit Gaming.",
+    "ects": 210,
+    "preset": "ba,99",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/esport-management-ma-mobile-936x426px-669x272.jpg"
+  },
+  "outdoor-studies": {
+    "title": "Outdoor Studies",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
+    "long-description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager.",
+    "ects": 210,
+    "preset": "ba,157",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-OutdoorAdventure-BA-1920x873px-669x272.jpg"
+  },
+  "sportmanagement-ba": {
+    "title": "Sportmanagement",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
+    "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
+    "ects": 210,
+    "preset": "ba,23",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportmanagement-ba-mobile-936x426px-669x272.png"
+  },
+  "tennis-und-racketsport": {
+    "title": "Tennis- und Racketsport",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
+    "long-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
+    "ects": 210,
+    "preset": "ba,226",
+    "image": "https://www.fham.de/wp-content/uploads/2025/01/tennis-und-racketsports-ba-mobile-936x426px-1-669x272.jpg"
+  },
+    "digital-entrepreneurship": {
+    "title": "Digital Entrepreneurship",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Entwickle E-Commerce-Modelle, begleite Startups und gestalte Produkte – mit diesem Bachelor denkst du Unternehmertum neu.",
+    "long-description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung.",
+    "ects": 210,
+    "preset": "ba,194",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/digital-entrepreneurship-bsc-mobile-936x426px-669x272.jpg"
+  },
+  "handelsmanagement-und-e-commerce-ba": {
+    "title": "Handelsmanagement und E-Commerce",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Verbessere die UX von Shops, manage Logistik und verkaufe online – E-Commerce bringt täglich neue Herausforderungen mit sich.",
+    "long-description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit.",
+    "ects": 210,
+    "preset": "ba,199",
+    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-ecommerce-BA-1920x873px-669x272.jpg"
+  },
+  "innovatives-b2b-management-im-gross-und-aussenhandel": {
+    "title": "Innovatives B2B Management im Groß- und Außenhandel",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier.",
+    "long-description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!",
+    "ects": 210,
+    "preset": "ba,224",
+    "image": "https://www.fham.de/wp-content/uploads/2024/09/innovatives-b2b-management-im-gross-und-aussenhandel-ba-mobile-936x426px-669x272.jpg"
+  },
+  "management-ba": {
+    "title": "Management",
+    "degree": "BACHELOR",
+    "category": "Management",
+    "short-description": "Positioniere Marken, digitalisiere Prozesse und berechne Unternehmenswerte – mit einem Management-Studium sicherst du deine Karriere ab.",
+    "long-description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite.",
+    "ects": 210,
+    "preset": "ba,196",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/management-ba-mobile-936x426px-669x272.png"
   },
   "journalismus-ba": {
     "title": "Journalismus",
@@ -68,56 +158,6 @@
     "ects": 210,
     "preset": "ba,166",
     "image": "https://www.fham.de/wp-content/uploads/2025/03/social-media-studies-influencer-mobile_1920x1080-669x272.jpg"
-  },
-  "fussballmanagement-ba": {
-    "title": "Fußballmanagement",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Verpflichte Talente, entwickle Strategien und manage den Verein – als Fußball-Manager lebst du deinen Traum als Fan.",
-    "long-description": "Verpflichte Spieler, die Deinen Club an die Spitze führen, entwickle Nachwuchsleistungszentren und konzipiere durchdachte Merchandising-Strategien. Für einen Fußballfan gibt es keinen besseren Beruf als den des Fußball-Managers.",
-    "ects": 210,
-    "preset": "ba,89",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/fussballmanagement-ba-mobile-936x426px-669x272.png"
-  },
-  "esports-management": {
-    "title": "Esports Management",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Scoute Talente, analysiere Games und gewinne Sponsoren – als Esports Manager machst du Gaming zum Beruf.",
-    "long-description": "Scoute Talente, baue ein leistungsfähiges Esports-Team auf, teste und analysiere Games und ziehe lukrative Sponsoren an Land. Als Esports Manager verdienst Du Deinen Lebensunterhalt mit Gaming.",
-    "ects": 210,
-    "preset": "ba,99",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/esport-management-ma-mobile-936x426px-669x272.jpg"
-  },
-  "outdoor-studies": {
-    "title": "Outdoor Studies",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
-    "long-description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager.",
-    "ects": 210,
-    "preset": "ba,157",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-OutdoorAdventure-BA-1920x873px-669x272.jpg"
-  },
-  "sportmanagement-ba": {
-    "title": "Sportmanagement",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
-    "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
-    "ects": 210,
-    "preset": "ba,23",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportmanagement-ba-mobile-936x426px-669x272.png"
-  },
-  "tennis-und-racketsport": {
-    "title": "Tennis- und Racketsport",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
-    "long-description": "Plane internationale Tennisturniere, entwickle Marketingkampagnen für die neuesten Racketsportarten und manage erfolgreiche Tennisclubs. Spiel, Satz und Sieg.",
-    "ects": 210,
-    "preset": "ba,226",
-    "image": "https://www.fham.de/wp-content/uploads/2025/01/tennis-und-racketsports-ba-mobile-936x426px-1-669x272.jpg"
   },
   "creative-media-ba": {
     "title": "Creative Media",
@@ -208,46 +248,6 @@
     "ects": 210,
     "preset": "ba,128",
     "image": "https://www.fham.de/wp-content/uploads/2023/12/Computer-Science-MSc_936x426-669x272.jpg"
-  },
-  "digital-entrepreneurship": {
-    "title": "Digital Entrepreneurship",
-    "degree": "BACHELOR",
-    "category": "Management",
-    "short-description": "Entwickle E-Commerce-Modelle, begleite Startups und gestalte Produkte – mit diesem Bachelor denkst du Unternehmertum neu.",
-    "long-description": "Entwickle neuartige Geschäftsmodelle im E-Commerce, begleite Startups durch die Inkubationsphase und innoviere mit einzigartigem Product Design. Mit diesem Bachelor überschreitest du die Grenzen traditioneller Unternehmensführung.",
-    "ects": 210,
-    "preset": "ba,194",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/digital-entrepreneurship-bsc-mobile-936x426px-669x272.jpg"
-  },
-  "handelsmanagement-und-e-commerce-ba": {
-    "title": "Handelsmanagement und E-Commerce",
-    "degree": "BACHELOR",
-    "category": "Management",
-    "short-description": "Verbessere die UX von Shops, manage Logistik und verkaufe online – E-Commerce bringt täglich neue Herausforderungen mit sich.",
-    "long-description": "Optimiere die Nutzererfahrung von Onlineshops, manage Lieferketten und Warengruppen und verkaufe Produkte erfolgreich im Internet. Im E-Commerce hält jeder Tag eine neue Herausforderung bereit.",
-    "ects": 210,
-    "preset": "ba,199",
-    "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-ecommerce-BA-1920x873px-669x272.jpg"
-  },
-  "innovatives-b2b-management-im-gross-und-aussenhandel": {
-    "title": "Innovatives B2B Management im Groß- und Außenhandel",
-    "degree": "BACHELOR",
-    "category": "Management",
-    "short-description": "Optimiere Lieferketten mit KI, nutze Blockchain für sichere Transaktionen und expandiere global – Handel von morgen beginnt hier.",
-    "long-description": "Optimiere globale Lieferketten mit KI, sichere Transaktionen mit Blockchain und erreiche Kunden weltweit durch E-Commerce. Studiere, wo die Zukunft des Handels geschrieben wird!",
-    "ects": 210,
-    "preset": "ba,224",
-    "image": "https://www.fham.de/wp-content/uploads/2024/09/innovatives-b2b-management-im-gross-und-aussenhandel-ba-mobile-936x426px-669x272.jpg"
-  },
-  "management-ba": {
-    "title": "Management",
-    "degree": "BACHELOR",
-    "category": "Management",
-    "short-description": "Positioniere Marken, digitalisiere Prozesse und berechne Unternehmenswerte – mit einem Management-Studium sicherst du deine Karriere ab.",
-    "long-description": "Positioniere Unternehmen in lukrativen Marktnischen, digitalisiere wertschöpfende Prozesse und kalkuliere den Unternehmens­wert, indem du zukünftige Cash Flows prognos­tizierst. Mit einem Management-Studium stehst du immer auf der sicheren Seite.",
-    "ects": 210,
-    "preset": "ba,196",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/management-ba-mobile-936x426px-669x272.png"
   },
   "baumanagement-ba": {
     "title": "Baumanagement B.A.",
