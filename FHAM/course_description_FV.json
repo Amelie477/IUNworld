@@ -36,7 +36,7 @@
     "short-description": "Plane Expeditionen, leite Outdoor-Trainings und entwickle Geschäftsmodelle – als Adventure-Manager wird dein Beruf zum Abenteuer.",
     "long-description": "Organisiere und leite abenteuerliche Expeditionen, trainiere Menschen in Berg- und Wassersport und entwickle tragfähige Geschäftsmodelle für die Outdoor-Branche. Mach dein Berufsleben zu einem Abenteuer, als Outdoor-Sport- und Adventure-Manager.",
     "ects": 210,
-    "preset": "ba,157",
+    "preset": "ba,223",
     "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-OutdoorAdventure-BA-1920x873px-669x272.jpg"
   },
   "sportmanagement-ba": {
@@ -386,7 +386,7 @@
     "short-description": "Entschlüssle Dating, Konsumverhalten und Aktienpsychologie – Lebensweltpsychologie erklärt, wie Menschen fühlen, denken und handeln.",
     "long-description": "Erkunde die faszinierende Welt der Datingpsychologie, entschlüssle die Psychologie hinter Kaufentscheidungen und verstehe, warum Aktienmärkte manisch-depressiv reagieren ... und das ist nur ein Bruchteil dessen, was die Lebensweltpsychologie zu bieten hat.",
     "ects": 210,
-    "preset": "ba,115",
+    "preset": "ba,155",
     "image": "https://www.fham.de/wp-content/uploads/2023/11/mobile-psychologie-in-den-lebenswelten-936x426px-669x272.jpg"
   },
     "fussballmanagement-ma": {
@@ -426,7 +426,7 @@
     "short-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
     "long-description": "Optimiere Geschäftsprozesse, automatisiere mit digitalen Tools und befähige Teams, neue Technologien effektiv einzusetzen.",
     "ects": 90,
-    "preset": "ma,205",
+    "preset": "ma,121",
     "image": "https://www.fham.de/wp-content/uploads/2024/08/mobile-digital-transformation-management-ma-936x426t-669x272.jpg"
   },
   "human-resource-management": {
