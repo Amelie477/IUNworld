@@ -84,6 +84,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
+    "preset": "mba",
     "description": "Der MBA mit Schwerpunkt Management vermittelt nicht nur betriebswirtschaftliches Grundlagenwissen, sondern stärkt auch persönliche Führungsfähigkeiten und ermöglicht Zusammenarbeit mit anderen Abteilungen auf Augenhöhe.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/management-600x288-1.jpg"
@@ -93,6 +94,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
+    "preset": "mba",
     "description": "Der MBA mit Schwerpunkt Responsible Leadership schult verantwortungsbewusste Führung, verbindet Ethik mit Praxis und bereitet Sie darauf vor, Wandel lösungsorientiert und nachhaltig zu gestalten.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/responsible-leadership-600x288-1.jpg"
@@ -102,6 +104,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
+    "preset": "mba",
     "description": "Der MBA-Schwerpunkt Sustainable Finance fokussiert auf nachhaltige Finanzstrategien, Risikomanagement und Berichterstattung, wodurch Sie Unternehmen zukunftsorientiert steuern und gesellschaftliche Verantwortung einbringen können.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/sustainable-finance-600x288-1.jpg"
@@ -111,6 +114,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
+    "preset": "mba",
     "description": "Der MBA mit Schwerpunkt Innovation Excellence stärkt Ihre Fähigkeit, Start-ups erfolgreich zu führen, Innovationsprozesse zu gestalten und unternehmerische Chancen nachhaltig zu nutzen.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/innovation-entrepreneurship-600x288-1.jpg"
@@ -120,6 +124,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Management",
+    "preset": "mba",
     "description": "Der MBA-Schwerpunkt Coaching verbindet Managementwissen mit praxisnaher Coaching-Ausbildung, fördert Selbstreflexion, Empathie und Kommunikation, um Menschen wirksam bei Zielen und Entwicklung zu unterstützen.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/coaching-600x288-1.jpg"
@@ -129,6 +134,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Künstliche Intelligenz",
+    "preset": "mba",
     "description": "Der MBA mit Schwerpunkt Künstliche Intelligenz befähigt Führungskräfte, Geschäftsprozesse datenbasiert zu optimieren, digitale Transformation aktiv zu gestalten und innovative Technologien erfolgreich einzusetzen.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/04/kuenstliche-intelligenz-600x288-1.jpg"
@@ -138,6 +144,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Online Marketing",
+    "preset": "mba",
     "description": "Der MBA mit Branchenfokus vermittelt praxisnahe Fallstudien, stärkt branchenspezifisches Managementwissen und verbessert Ihre Karrierechancen, indem er Spezialisierung als entscheidenden Wettbewerbsvorteil hervorhebt.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/02/banken-versicherungen-600x288-1.jpg"
@@ -147,6 +154,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Immobilien",
+    "preset": "mba",
     "description": "Der MBA-Schwerpunkt Immobilienmanagement vermittelt praxisnahes Branchenwissen und qualifiziert Sie für Führungsrollen in Wohnungsbaugesellschaften, Immobilienverwaltung sowie der professionellen Immobilienvermittlung.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/11/immobilienmanagement-600x288-1.jpg"
@@ -156,6 +164,7 @@
     "degree": "MBA",
     "program": "weiterbildung",
     "category": "Sport",
+    "preset": "mba",
     "description": "Der MBA-Schwerpunkt Sports Leadership bereitet Sie auf Führungspositionen im Sportsektor vor, kombiniert strategisches Management, Finanzen und Innovation mit praxisnahen Leadershipkompetenzen.",
     "ects": "60 ECTS – 2 Semester / 120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2023/12/sports-leadership.jpg"
