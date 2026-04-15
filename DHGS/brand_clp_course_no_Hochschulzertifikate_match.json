@@ -3,6 +3,7 @@
     "abschluss": "Bachelor",
     "fach": "Psychologie",
     "kurs": "Kinder- und Jugendpsychologie (Vertiefung)",
+    "preset": "ba,129",
      "beschreibung": [
       "Du lernst, wie man Kinder und Jugendliche psychologisch begleitet und in ihrer Entwicklung fördert – mit vielen Praxisbeispielen und Projekten."
     ],
@@ -12,6 +13,7 @@
     "abschluss": "Bachelor",
     "fach": "Psychologie",
     "kurs": "Life Coaching",
+    "preset": "ba,86",
     "beschreibung": [
       "Life Coaches begleiten Mitarbeitende bei persönlichen Zielen, beruflichen Herausforderungen und Konflikten – mit Einzel- und Gruppencoachings."
     ],
@@ -21,6 +23,7 @@
     "abschluss": "Bachelor",
     "fach": "Psychologie",
     "kurs": "Psychologie",
+    "preset": "ba,66",
     "beschreibung": [
       "Du beschäftigst dich mit Organisations-, Gesundheits- und Medienpsychologie – und wirst so gefragte Fachkraft für viele Arbeitgeber."
     ],
@@ -30,6 +33,7 @@
     "abschluss": "Bachelor",
     "fach": "Psychologie",
     "kurs": "Soziale Arbeit",
+    "preset": "ba,108",
     "beschreibung": [
       "Im Studium der Sozialen Arbeit lernst du, Menschen in schwierigen Lebenssituationen zu begleiten – mit Know-how für Lösungen und mehr Lebensqualität."
     ],
@@ -39,6 +43,7 @@
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
     "kurs": "Medizinpädagogik",
+    "preset": "ba,91",
     "beschreibung": [
       "Mit Ausbildung im Gesundheitsbereich ist der Bachelor Medizinpädagogik an der DHGS ideal für deine Weiterbildung und Wissensvermittlung."
     ],
@@ -48,6 +53,7 @@
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
     "kurs": "Pflege",
+    "preset": "ba,88",
     "beschreibung": [
       "Du lernst Public Health, Pflegepolitik und Gesundheitsförderung – und wirst für zukunftsfähige Pflege-Rollen vorbereitet."
     ],
@@ -57,6 +63,7 @@
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
     "kurs": "Physician Assistance",
+    "preset": "ba,109",
     "beschreibung": [
       "Als Physician Assistant arbeitest du zwischen Medizin und Management – und bist erste Ansprechpartnerin in Notfällen."
     ],
@@ -66,6 +73,7 @@
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
     "kurs": "Physiotherapie",
+    "preset": "ba,93",
     "beschreibung": [
       "Du bist Physiotherapeut*in und willst deine Arbeit wissenschaftlich fundieren? Dann passt dieser Studiengang perfekt zu deinen nächsten Karrierezielen."
     ],
@@ -75,6 +83,7 @@
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Fitnesstraining und Management",
+    "preset": "ba,87",
     "beschreibung": [
       "Fitness-Studium mit Training und Management – der Bachelor Fitnesstraining & Management eröffnet dir vielseitige Karrierechancen."
     ],
@@ -84,6 +93,7 @@
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Soziale Arbeit und Sport",
+    "preset": "ba,113",
     "beschreibung": [
       "Ob Jugendhilfe oder Schulsozialarbeit – der Bedarf ist groß. Mit dem Bachelor Soziale Arbeit & Sport sicherst du dir starke Berufschancen."
     ],
@@ -93,6 +103,7 @@
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Sport & angewandte Trainingswissenschaft",
+    "preset": "ba,112",
     "beschreibung": [
       "Das Studium verbindet Sportwissenschaft, Trainingslehre und Praxis – und bereitet dich auf Sport- und Management-Jobs vor."
     ],
@@ -102,6 +113,7 @@
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Sport- und Bewegungstherapie",
+    "preset": "ba,111",
     "beschreibung": [
       "Du lernst Sportwissenschaft, Trainingslehre und Psychologie praxisnah – ideal für Jobs im Training und Management."
     ],
@@ -111,6 +123,7 @@
     "abschluss": "Bachelor",
     "fach": "Sport",
     "kurs": "Training und Coaching im Fußball",
+    "preset": "ba,118",
     "beschreibung": [
       "Der Studiengang kombiniert Sportwissenschaft und Praxis-Coaching – und bereitet dich auf eine Karriere im Profi-Fußball vor."
     ],
@@ -120,6 +133,7 @@
     "abschluss": "Master",
     "fach": "Gesundheit",
     "kurs": "Medizinpädagogik",
+    "preset": "ma,141",
     "beschreibung": [
       "Das Masterstudium Medizinpädagogik bietet flexible Online-Module und individuelle Betreuung für deinen Berufsalltag."
     ],
@@ -129,6 +143,7 @@
     "abschluss": "Master",
     "fach": "Sport",
     "kurs": "Angewandte Sportwissenschaft",
+    "preset": "ma,140",
     "beschreibung": [
       "Trainingswissenschaft, Sportmedizin und Psychologie treffen auf Praxisnähe und starke Partner – ideal für Fachkräfte aus Sport, Gesundheit und Prävention."
     ],
@@ -138,6 +153,7 @@
     "abschluss": "Master",
     "fach": "Sport",
     "kurs": "Sport- und Schmerztherapie",
+    "preset": "ma,156",
     "beschreibung": [
       "Ob Leistungssport oder Reha: Hier lernst du, gezielt zu analysieren, zu therapieren und als Athletic Coach*in auf Topniveau zu begleiten."
     ],
@@ -147,6 +163,7 @@
     "abschluss": "Master",
     "fach": "Sport",
     "kurs": "Sportpsychologie",
+    "preset": "ma,153",
     "beschreibung": [
       "Werde mentale Stütze für Teams, Talente und Führungskräfte – mit fundierter Sportpsychologie für Sport und Business."
     ],
@@ -156,6 +173,7 @@
     "abschluss": "Master",
     "fach": "Sport",
     "kurs": "Sportpsychologie (Schwerpunkt)",
+    "preset": "ma,157",
     "beschreibung": [
       "Du lernst, mentale Blockaden zu erkennen, Leistung gezielt zu steigern und Sportler*innen in Krisen kompetent zu begleiten – psychologisch fundiert."
     ],
@@ -165,6 +183,7 @@
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Angewandte Psychologie",
+    "preset": "ma,134",
     "beschreibung": [
       "Flexibel studieren, praxisnah lernen und gezielt für therapeutische oder beratende Psychologieberufe qualifizieren – mit anerkanntem Masterabschluss."
     ],
@@ -174,6 +193,7 @@
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Klinische Psychologie (Schwerpunkt)",
+    "preset": "ma,103",
     "beschreibung": [
       "Studiere praxisnah klinische Psychologie ohne NC – mit Fokus auf Diagnostik, Therapie und Forschung psychischer Störungen."
     ],
@@ -183,6 +203,7 @@
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Positive Psychologie & Coaching",
+    "preset": "ma,150",
     "beschreibung": [
       "Stärke Potenziale statt Defizite – mit positiver Psychologie, wissenschaftlichem Coaching und gesellschaftlich relevantem Know-how."
     ],
@@ -192,6 +213,7 @@
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Sportpsychologie",
+    "preset": "ma,153",
     "beschreibung": [
       "Nutze mentale Stärke als Schlüssel zum Erfolg – im Sport, Business und Coaching. Werde zur Kraft hinter Spitzenleistungen und persönlichem Wachstum."
     ],
@@ -201,6 +223,7 @@
     "abschluss": "Master",
     "fach": "Psychologie",
     "kurs": "Sportpsychologie (Schwerpunkt)",
+    "preset": "ma,157",
     "beschreibung": [
       "Diagnostiziere mentale Faktoren und stärke Athlet*innen mit psychologischem Know-how im Training und Wettkampf."
     ],
