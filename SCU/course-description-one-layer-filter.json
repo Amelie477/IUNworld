@@ -4,6 +4,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Management",
+    "preset": "ba,1",
     "description": "Studieren Sie BWL flexibel und praxisnah: Unser semi-virtuelles Studienkonzept verbindet Online- und Präsenzlernen, vermittelt gefragtes Managementwissen und eröffnet direkte Karrierechancen.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/bwl-bachelor-header-600x288-1.jpg"
@@ -13,6 +14,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Management",
+    "preset": "ba,37",
     "description": "Das BWL-Studium mit Fokus Tourism & Hospitality Management verbindet betriebswirtschaftliche Grundlagen mit branchenspezifischem Wissen, bereitet praxisnah auf Führungsrollen im Tourismus vor und ermöglicht flexibles, berufsbegleitendes Lernen.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/06/Tourism-and-Hospitility-Manager-Header-neu-600px-288px.png"
@@ -22,6 +24,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Sport",
+    "preset": "ba,5",
     "description": "Der B.Sc. Sport- und Eventmanagement verbindet Managementwissen mit Sportpraxis, eröffnet internationale Karrierewege und ermöglicht durch ein semi-virtuelles Konzept flexibles und praxisorientiertes Studieren.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/sport-und-eventmanager-600x288-1.jpg"
@@ -31,6 +34,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Sport",
+    "preset": "ba,10",
     "description": "Das CollegeTennis-Programm verbindet Leistungssport mit akademischem Sport- und Eventmanagement, bietet ein einzigartiges 360°-Entwicklungspaket und eröffnet vielseitige Karrierewege in Sport, Event und Management.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/06/Tennis-Sport-und-Eventmanagement-600x288-1.jpg"
@@ -40,6 +44,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Wirtschaftspsychologie",
+    "preset": "ba,8",
     "description": "Der Wirtschaftspsychologie kombiniert angewandte Psychologie mit Managementwissen, vermittelt gefragte Kompetenzen für den Arbeitsmarkt und ermöglicht flexibles Studieren mit international anerkanntem Abschluss.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/02/wipsy-600x288-1.jpg"
@@ -49,6 +54,7 @@
     "degree": "Bachelor",
     "program": "studium",
     "category": "Immobilien",
+    "preset": "ba,23",
     "description": "Der Bachelor BWL mit Fokus Immobilienwirtschaft kombiniert Managementwissen, BWL-Grundlagen und praxisnahes Immobilien-Know-how und bereitet optimal auf vielfältige Karrieremöglichkeiten in der Branche vor.",
     "ects": "180 ECTS – 6 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2024/04/Betriebswirtschaft_mit_Focus_Immobilienwirtschaft-600x288-1.jpg"
@@ -58,6 +64,7 @@
     "degree": "Master",
     "program": "studium",
     "category": "Management",
+    "preset": "ma,1",
     "description": "Der Master BWL bereitet auf strategische Unternehmensführung vor, verbindet praxisorientierte Forschung mit Leadership-Kompetenzen und vermittelt die Fähigkeit, Theorien kritisch zu reflektieren und anzuwenden.",
     "ects": "120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/05/betriebswirtschaftslehre-msc-600x288-1.jpg"
@@ -67,6 +74,7 @@
     "degree": "Master",
     "program": "studium",
     "category": "Wirtschaftspsychologie",
+    "preset": "ma,8",
     "description": "Der Master Wirtschaftspsychologie vermittelt vertiefte Kenntnisse in Wirtschaft und Gesellschaft, kombiniert Schwerpunkte wie Nachhaltigkeit oder Kreativität mit qualitativer und quantitativer Forschung für datenbasierte Führungskompetenzen.",
     "ects": "120 ECTS – 4 Semester",
     "image": "https://www.uni-seeburg.at/wp-content/uploads/2025/02/WiPsy-MSc-600x288-1.jpg"
