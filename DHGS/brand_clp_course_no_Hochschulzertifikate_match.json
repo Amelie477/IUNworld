@@ -182,16 +182,6 @@
   {
     "abschluss": "Master",
     "fach": "Psychologie",
-    "kurs": "Klinische Psychologie (Schwerpunkt)",
-    "preset": "ma,103",
-    "beschreibung": [
-      "Studiere praxisnah klinische Psychologie ohne NC – mit Fokus auf Diagnostik, Therapie und Forschung psychischer Störungen."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/05/DHGS-titelbild-klinische_psych-mobil-936x426-1-669x272.jpg"
-  },
-  {
-    "abschluss": "Master",
-    "fach": "Psychologie",
     "kurs": "Positive Psychologie & Coaching",
     "preset": "ma,104",
     "beschreibung": [
