@@ -289,6 +289,16 @@
     "preset": "ba,191",
     "image": "https://www.fham.de/wp-content/uploads/2025/01/elektrotechnik-gebeaudeautomation-beng_936x426-669x272.jpg"
   },
+    "wirtschaftsingenieurwesen-ba": {
+    "title": "Wirtschaftsingenieurwesen",
+    "degree": "BACHELOR",
+    "category": "Engineering",
+    "short-description": "Plane Rohstoffbeschaffung, löse globale Lieferengpässe und vernetze Maschinen per IoT – als Wirtschaftsingenieur der Zukunft.",
+    "long-description": "Plane die Beschaffung von Rohstoffen und Komponenten, behebe Engpässe in globalen Lieferketten und lass Maschinen über das Internet der Dinge miteinander kommunizieren. Der beste Zeitpunkt, Wirtschaftsingenieur zu werden, ist immer jetzt.",
+    "ects": 210,
+    "preset": "ba,170",
+    "image": "https://www.fham.de/wp-content/uploads/2023/12/Wirtschaftsingenieurwesen-BEng_936x426-669x272.jpg"
+  },
   "fashion-management-global-brands": {
     "title": "Fashion Management & Global Brands",
     "degree": "BACHELOR",
