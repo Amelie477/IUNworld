@@ -1,14 +1,4 @@
 {
-  "sportjournalismus": {
-    "title": "Sportjournalismus",
-    "degree": "BACHELOR",
-    "category": ["Sport","Medien & Journalismus"],
-    "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
-    "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
-    "ects": 210,
-    "preset": "ba,117",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportjournalismus-ba-mobile-936x426px-669x272.png"
-  },
     "fussballmanagement-ba": {
     "title": "Fußballmanagement",
     "degree": "BACHELOR",
@@ -18,6 +8,26 @@
     "ects": 210,
     "preset": "ba,89",
     "image": "https://www.fham.de/wp-content/uploads/2024/08/fussballmanagement-ba-mobile-936x426px-669x272.png"
+  },
+    "sportjournalismus": {
+    "title": "Sportjournalismus",
+    "degree": "BACHELOR",
+    "category": ["Sport","Medien & Journalismus"],
+    "short-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
+    "long-description": "Kommentiere Sportevents in Live-Übertragungen, führe Interviews mit Athleten und Funktionären und beschäftige dich mit Spiel- und Taktikanalysen. Im Traumberuf: Sportjournalist.",
+    "ects": 210,
+    "preset": "ba,117",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportjournalismus-ba-mobile-936x426px-669x272.png"
+  },
+    "sportmanagement-ba": {
+    "title": "Sportmanagement",
+    "degree": "BACHELOR",
+    "category": "Sport",
+    "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
+    "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
+    "ects": 210,
+    "preset": "ba,23",
+    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportmanagement-ba-mobile-936x426px-669x272.png"
   },
   "esports-management": {
     "title": "Esports Management",
@@ -38,16 +48,6 @@
     "ects": 210,
     "preset": "ba,223",
     "image": "https://www.fham.de/wp-content/uploads/2022/05/220513-HAM-Header-OutdoorAdventure-BA-1920x873px-669x272.jpg"
-  },
-  "sportmanagement-ba": {
-    "title": "Sportmanagement",
-    "degree": "BACHELOR",
-    "category": "Sport",
-    "short-description": "Organisiere Events, gewinne Sponsoren und führe Vereine zum Erfolg – im Sportmanagement gestaltest du eine packende Branche mit.",
-    "long-description": "Organisiere mitreißende Sportevents, konzipiere kluge Sponsorings und führe deinen Verein durch strategisches Management an die Tabellenspitze. Werde Teil einer der spektakulärsten Branchen.",
-    "ects": 210,
-    "preset": "ba,23",
-    "image": "https://www.fham.de/wp-content/uploads/2024/08/sportmanagement-ba-mobile-936x426px-669x272.png"
   },
   "tennis-und-racketsport": {
     "title": "Tennis- und Racketsport",
@@ -299,6 +299,16 @@
     "preset": "ba,170",
     "image": "https://www.fham.de/wp-content/uploads/2023/12/Wirtschaftsingenieurwesen-BEng_936x426-669x272.jpg"
   },
+    "fashion-studies-luxury-brands": {
+    "title": "Fashion Studies & Luxury Brands",
+    "degree": "BACHELOR",
+    "category": "Fashion & Beauty",
+    "short-description": "Entwirf Traumkleider, schreibe für Modemagazine oder entwickle Markenstrategien – dein Einstieg in die Modebranche.",
+    "long-description": "Entwerfe dein eigenes Traumkleid, verfasse journalistische Artikel für Modemagazine oder entwirf Marken-Strategien für Modelinien. Mit diesem Studium wirst du ganzheitlich ausgebildet und kannst verschiedene Modeberufe ergreifen.",
+    "ects": 210,
+    "preset": "ba,163",
+    "image": "https://www.fham.de/wp-content/uploads/2024/07/fashion-design-luxury-brands-936x426px-669x272.jpg"
+  },
   "fashion-management-global-brands": {
     "title": "Fashion Management & Global Brands",
     "degree": "BACHELOR",
@@ -318,16 +328,6 @@
     "ects": 210,
     "preset": "ba,160",
     "image": "https://www.fham.de/wp-content/uploads/2025/01/mobile-beauty-studies-ba-936x426px-669x272.jpg"
-  },
-  "fashion-studies-luxury-brands": {
-    "title": "Fashion Studies & Luxury Brands",
-    "degree": "BACHELOR",
-    "category": "Fashion & Beauty",
-    "short-description": "Entwirf Traumkleider, schreibe für Modemagazine oder entwickle Markenstrategien – dein Einstieg in die Modebranche.",
-    "long-description": "Entwerfe dein eigenes Traumkleid, verfasse journalistische Artikel für Modemagazine oder entwirf Marken-Strategien für Modelinien. Mit diesem Studium wirst du ganzheitlich ausgebildet und kannst verschiedene Modeberufe ergreifen.",
-    "ects": 210,
-    "preset": "ba,163",
-    "image": "https://www.fham.de/wp-content/uploads/2024/07/fashion-design-luxury-brands-936x426px-669x272.jpg"
   },
   "public-management": {
     "title": "Public Management",
