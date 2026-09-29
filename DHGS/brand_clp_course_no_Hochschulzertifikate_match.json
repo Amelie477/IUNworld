@@ -2,16 +2,6 @@
   {
     "abschluss": "Bachelor",
     "fach": "Psychologie",
-    "kurs": "Life Coaching",
-    "preset": "ba,86",
-    "beschreibung": [
-      "Life Coaches begleiten Mitarbeitende bei persönlichen Zielen, beruflichen Herausforderungen und Konflikten – mit Einzel- und Gruppencoachings."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Life-Coaching-BSc-936x426-1-669x272.jpg"
-  },
-  {
-    "abschluss": "Bachelor",
-    "fach": "Psychologie",
     "kurs": "Psychologie",
     "preset": "ba,152",
     "beschreibung": [
@@ -28,6 +18,16 @@
       "Im Studium der Sozialen Arbeit lernst du, Menschen in schwierigen Lebenssituationen zu begleiten – mit Know-how für Lösungen und mehr Lebensqualität."
     ],
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Soziale-Arbeit-BA-936x426-1-669x272.jpg"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Psychologie",
+    "kurs": "Life Coaching",
+    "preset": "ba,86",
+    "beschreibung": [
+      "Life Coaches begleiten Mitarbeitende bei persönlichen Zielen, beruflichen Herausforderungen und Konflikten – mit Einzel- und Gruppencoachings."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Life-Coaching-BSc-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Bachelor",
