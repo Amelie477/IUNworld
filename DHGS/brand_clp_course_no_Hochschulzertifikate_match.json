@@ -42,16 +42,6 @@
   {
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
-    "kurs": "Angewandte Pflegewissenschaften",
-    "preset": "ba,185",
-    "beschreibung": [
-      "Du lernst Public Health, Pflegepolitik und Gesundheitsförderung – und wirst für zukunftsfähige Pflege-Rollen vorbereitet."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Pflege-BSc-936x426-1-669x272.jpg"
-  },
-  {
-    "abschluss": "Bachelor",
-    "fach": "Gesundheit",
     "kurs": "Physician Assistance",
     "preset": "ba,90",
     "beschreibung": [
@@ -62,12 +52,42 @@
   {
     "abschluss": "Bachelor",
     "fach": "Gesundheit",
+    "kurs": "Angewandte Pflegewissenschaften",
+    "preset": "ba,185",
+    "beschreibung": [
+      "Du lernst Public Health, Pflegepolitik und Gesundheitsförderung – und wirst für zukunftsfähige Pflege-Rollen vorbereitet."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-Pflege-BSc-936x426-1-669x272.jpg"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Gesundheit",
     "kurs": "Physiotherapie",
     "preset": "ba,89",
     "beschreibung": [
       "Du bist Physiotherapeut*in und willst deine Arbeit wissenschaftlich fundieren? Dann passt dieser Studiengang perfekt zu deinen nächsten Karrierezielen."
     ],
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/03/physiotherapie_bachelor_titelbild-936x426px-669x272.jpg"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Sport & angewandte Trainingswissenschaft",
+    "preset": "ba,85",
+    "beschreibung": [
+      "Das Studium verbindet Sportwissenschaft, Trainingslehre und Praxis – und bereitet dich auf Sport- und Management-Jobs vor."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/12/sport_und_trainingswissenschaft_titelbild_800x364_2022-669x272.jpg"
+  },
+  {
+    "abschluss": "Bachelor",
+    "fach": "Sport",
+    "kurs": "Training und Coaching im Fußball",
+    "preset": "ba,151",
+    "beschreibung": [
+      "Der Studiengang kombiniert Sportwissenschaft und Praxis-Coaching – und bereitet dich auf eine Karriere im Profi-Fußball vor."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/08/Training-und-Coaching-im-Fussball-B-A-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Bachelor",
@@ -92,32 +112,12 @@
   {
     "abschluss": "Bachelor",
     "fach": "Sport",
-    "kurs": "Sport & angewandte Trainingswissenschaft",
-    "preset": "ba,85",
-    "beschreibung": [
-      "Das Studium verbindet Sportwissenschaft, Trainingslehre und Praxis – und bereitet dich auf Sport- und Management-Jobs vor."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2022/12/sport_und_trainingswissenschaft_titelbild_800x364_2022-669x272.jpg"
-  },
-  {
-    "abschluss": "Bachelor",
-    "fach": "Sport",
     "kurs": "Sport- und Bewegungstherapie",
     "preset": "ba,119",
     "beschreibung": [
       "Du lernst Sportwissenschaft, Trainingslehre und Psychologie praxisnah – ideal für Jobs im Training und Management."
     ],
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/04/Mobile-Sport_Bewegung_Therapie-936x426-1-669x272.jpg"
-  },
-  {
-    "abschluss": "Bachelor",
-    "fach": "Sport",
-    "kurs": "Training und Coaching im Fußball",
-    "preset": "ba,151",
-    "beschreibung": [
-      "Der Studiengang kombiniert Sportwissenschaft und Praxis-Coaching – und bereitet dich auf eine Karriere im Profi-Fußball vor."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2024/08/Training-und-Coaching-im-Fussball-B-A-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
@@ -172,22 +172,22 @@
   {
     "abschluss": "Master",
     "fach": "Psychologie",
-    "kurs": "Angewandte Psychologie",
-    "preset": "ma,66",
-    "beschreibung": [
-      "Flexibel studieren, praxisnah lernen und gezielt für therapeutische oder beratende Psychologieberufe qualifizieren – mit anerkanntem Masterabschluss."
-    ],
-    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-AngewandtePsy-MSc-936x426-1-669x272.jpg"
-  },
-  {
-    "abschluss": "Master",
-    "fach": "Psychologie",
     "kurs": "Positive Psychologie & Coaching",
     "preset": "ma,104",
     "beschreibung": [
       "Stärke Potenziale statt Defizite – mit positiver Psychologie, wissenschaftlichem Coaching und gesellschaftlich relevantem Know-how."
     ],
     "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2021/09/2021-09-01-dhgs-pp_ma-1920x873-1-669x272.jpg"
+  },
+  {
+    "abschluss": "Master",
+    "fach": "Psychologie",
+    "kurs": "Angewandte Psychologie",
+    "preset": "ma,66",
+    "beschreibung": [
+      "Flexibel studieren, praxisnah lernen und gezielt für therapeutische oder beratende Psychologieberufe qualifizieren – mit anerkanntem Masterabschluss."
+    ],
+    "bild": "https://www.dhgs-hochschule.de/wp-content/uploads/2023/01/Mobile-AngewandtePsy-MSc-936x426-1-669x272.jpg"
   },
   {
     "abschluss": "Master",
